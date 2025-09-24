@@ -1,0 +1,1272 @@
+{
+  "es": {
+    "mexican": {
+      "coordinates": {
+        "lat": "23.6345",
+        "long": "-102.5528"
+      }
+    },
+    "peninsular": {
+      "coordinates": {
+        "lat": "40.4637",
+        "long": "-3.7492"
+      }
+    },
+    "argentine": {
+      "coordinates": {
+        "lat": "-38.4161",
+        "long": "-63.6167"
+      }
+    },
+    "peruvian": {
+      "coordinates": {
+        "lat": "-9.1900",
+        "long": "-75.0152"
+      }
+    },
+    "colombian": {
+      "coordinates": {
+        "lat": "4.5709",
+        "long": "-74.2973"
+      }
+    },
+    "dominican": {
+      "coordinates": {
+        "lat": "18.7357",
+        "long": "-70.1627"
+      }
+    },
+    "chilean": {
+      "coordinates": {
+        "lat": "-35.6751",
+        "long": "-71.5430"
+      }
+    },
+    "andalusian": {
+      "coordinates": {
+        "lat": "37.3891",
+        "long": "-5.9845"
+      }
+    },
+    "cuban": {
+      "coordinates": {
+        "lat": "21.5218",
+        "long": "-77.7812"
+      }
+    },
+    "puerto rican": {
+      "coordinates": {
+        "lat": "18.2208",
+        "long": "-66.5901"
+      }
+    },
+    "ecuadorian": {
+      "coordinates": {
+        "lat": "-1.8312",
+        "long": "-78.1834"
+      }
+    },
+    "venezuelan": {
+      "coordinates": {
+        "lat": "6.4238",
+        "long": "-66.5897"
+      }
+    },
+    "canary islands": {
+      "coordinates": {
+        "lat": "28.2916",
+        "long": "-16.6291"
+      }
+    },
+    "galician": {
+      "coordinates": {
+        "lat": "42.5751",
+        "long": "-8.1339"
+      }
+    },
+    "castillian": {
+      "coordinates": {
+        "lat": "41.8519",
+        "long": "-4.7245"
+      }
+    }
+  },
+  "en": {
+    "american": {
+      "coordinates": {
+        "lat": "39.8283",
+        "long": "-98.5795"
+      }
+    },
+    "british": {
+      "coordinates": {
+        "lat": "55.3781",
+        "long": "-3.4360"
+      }
+    },
+    "indian": {
+      "coordinates": {
+        "lat": "20.5937",
+        "long": "78.9629"
+      }
+    },
+    "australian": {
+      "coordinates": {
+        "lat": "-25.2744",
+        "long": "133.7751"
+      }
+    },
+    "us midwest": {
+      "coordinates": {
+        "lat": "41.8781",
+        "long": "-87.6298"
+      }
+    },
+    "russian": {
+      "coordinates": {
+        "lat": "61.5240",
+        "long": "105.3188"
+      }
+    },
+    "us northeast": {
+      "coordinates": {
+        "lat": "42.3601",
+        "long": "-71.0589"
+      }
+    },
+    "south african": {
+      "coordinates": {
+        "lat": "-30.5595",
+        "long": "22.9375"
+      }
+    },
+    "arabic": {
+      "coordinates": {
+        "lat": "23.8859",
+        "long": "45.0792"
+      }
+    },
+    "romanian": {
+      "coordinates": {
+        "lat": "45.9432",
+        "long": "24.9668"
+      }
+    },
+    "filipino": {
+      "coordinates": {
+        "lat": "12.8797",
+        "long": "121.7740"
+      }
+    },
+    "spanish": {
+      "coordinates": {
+        "lat": "40.4637",
+        "long": "-3.7492"
+      }
+    },
+    "received pronunciation": {
+      "coordinates": {
+        "lat": "51.5074",
+        "long": "-0.1278"
+      }
+    },
+    "new zealand": {
+      "coordinates": {
+        "lat": "-40.9006",
+        "long": "174.8860"
+      }
+    },
+    "irish": {
+      "coordinates": {
+        "lat": "53.4129",
+        "long": "-8.2439"
+      }
+    },
+    "us southern": {
+      "coordinates": {
+        "lat": "33.7490",
+        "long": "-84.3880"
+      }
+    },
+    "canadian": {
+      "coordinates": {
+        "lat": "56.1304",
+        "long": "-106.3468"
+      }
+    },
+    "nigerian": {
+      "coordinates": {
+        "lat": "9.0820",
+        "long": "8.6753"
+      }
+    },
+    "scottish": {
+      "coordinates": {
+        "lat": "56.4907",
+        "long": "-4.2026"
+      }
+    },
+    "new york": {
+      "coordinates": {
+        "lat": "40.7128",
+        "long": "-74.0060"
+      }
+    },
+    "hindi": {
+      "coordinates": {
+        "lat": "28.7041",
+        "long": "77.1025"
+      }
+    },
+    "chinese": {
+      "coordinates": {
+        "lat": "35.8617",
+        "long": "104.1954"
+      }
+    },
+    "african american": {
+      "coordinates": {
+        "lat": "33.7490",
+        "long": "-84.3880"
+      }
+    },
+    "french": {
+      "coordinates": {
+        "lat": "46.2276",
+        "long": "2.2137"
+      }
+    },
+    "dutch": {
+      "coordinates": {
+        "lat": "52.1326",
+        "long": "5.2913"
+      }
+    },
+    "german": {
+      "coordinates": {
+        "lat": "51.1657",
+        "long": "10.4515"
+      }
+    },
+    "geordie": {
+      "coordinates": {
+        "lat": "54.9783",
+        "long": "-1.6178"
+      }
+    },
+    "singaporean": {
+      "coordinates": {
+        "lat": "1.3521",
+        "long": "103.8198"
+      }
+    },
+    "polish": {
+      "coordinates": {
+        "lat": "51.9194",
+        "long": "19.1451"
+      }
+    },
+    "boston": {
+      "coordinates": {
+        "lat": "42.3601",
+        "long": "-71.0589"
+      }
+    },
+    "malay": {
+      "coordinates": {
+        "lat": "4.2105",
+        "long": "101.9758"
+      }
+    },
+    "finnish": {
+      "coordinates": {
+        "lat": "61.9241",
+        "long": "25.7482"
+      }
+    },
+    "yorkshire": {
+      "coordinates": {
+        "lat": "53.9583",
+        "long": "-1.0803"
+      }
+    },
+    "tamil": {
+      "coordinates": {
+        "lat": "13.0827",
+        "long": "80.2707"
+      }
+    },
+    "swedish": {
+      "coordinates": {
+        "lat": "60.1282",
+        "long": "18.6435"
+      }
+    },
+    "portuguese": {
+      "coordinates": {
+        "lat": "39.3999",
+        "long": "-8.2245"
+      }
+    },
+    "turkish": {
+      "coordinates": {
+        "lat": "38.9637",
+        "long": "35.2433"
+      }
+    },
+    "chicago": {
+      "coordinates": {
+        "lat": "41.8781",
+        "long": "-87.6298"
+      }
+    },
+    "croatian": {
+      "coordinates": {
+        "lat": "45.1000",
+        "long": "15.2000"
+      }
+    },
+    "welsh": {
+      "coordinates": {
+        "lat": "52.1307",
+        "long": "-3.7837"
+      }
+    },
+    "jamaican": {
+      "coordinates": {
+        "lat": "18.1096",
+        "long": "-77.2975"
+      }
+    },
+    "italian": {
+      "coordinates": {
+        "lat": "41.8719",
+        "long": "12.5674"
+      }
+    },
+    "cockney": {
+      "coordinates": {
+        "lat": "51.5074",
+        "long": "-0.1278"
+      }
+    },
+    "ukrainian": {
+      "coordinates": {
+        "lat": "48.3794",
+        "long": "31.1656"
+      }
+    },
+    "danish": {
+      "coordinates": {
+        "lat": "56.2639",
+        "long": "9.5018"
+      }
+    },
+    "slovak": {
+      "coordinates": {
+        "lat": "48.6690",
+        "long": "19.6990"
+      }
+    },
+    "bulgarian": {
+      "coordinates": {
+        "lat": "42.7339",
+        "long": "25.4858"
+      }
+    },
+    "japanese": {
+      "coordinates": {
+        "lat": "36.2048",
+        "long": "138.2529"
+      }
+    },
+    "czech": {
+      "coordinates": {
+        "lat": "49.8175",
+        "long": "15.4730"
+      }
+    },
+    "indonesian": {
+      "coordinates": {
+        "lat": "-0.7893",
+        "long": "113.9213"
+      }
+    },
+    "korean": {
+      "coordinates": {
+        "lat": "35.9078",
+        "long": "127.7669"
+      }
+    },
+    "african": {
+      "coordinates": {
+        "lat": "-8.7832",
+        "long": "34.5085"
+      }
+    }
+  },
+  "fr": {
+    "parisian": {
+      "coordinates": {
+        "lat": "48.8566",
+        "long": "2.3522"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "46.2276",
+        "long": "2.2137"
+      }
+    },
+    "swiss": {
+      "coordinates": {
+        "lat": "46.8182",
+        "long": "8.2275"
+      }
+    },
+    "quebec": {
+      "coordinates": {
+        "lat": "52.9399",
+        "long": "-73.5491"
+      }
+    },
+    "african": {
+      "coordinates": {
+        "lat": "14.4974",
+        "long": "-14.4524"
+      }
+    },
+    "meridional": {
+      "coordinates": {
+        "lat": "43.6047",
+        "long": "1.4442"
+      }
+    },
+    "belgian": {
+      "coordinates": {
+        "lat": "50.5039",
+        "long": "4.4699"
+      }
+    },
+    "american": {
+      "coordinates": {
+        "lat": "29.9511",
+        "long": "-90.0715"
+      }
+    }
+  },
+  "vi": {
+    "standard": {
+      "coordinates": {
+        "lat": "14.0583",
+        "long": "108.2772"
+      }
+    },
+    "southern": {
+      "coordinates": {
+        "lat": "10.8231",
+        "long": "106.6297"
+      }
+    },
+    "central": {
+      "coordinates": {
+        "lat": "15.8801",
+        "long": "108.3380"
+      }
+    },
+    "northern": {
+      "coordinates": {
+        "lat": "21.0285",
+        "long": "105.8542"
+      }
+    }
+  },
+  "pt": {
+    "rio de janeiro" : {
+      "coordinates": {
+        "lat": "-22.9068",
+        "long": "-43.1729"
+      }
+    },
+    "sao paulo" : {
+      "coordinates": {
+        "lat": "-23.5505",
+        "long": "-46.6333"
+      }
+    },
+    "minas gerais" : {
+      "coordinates": {
+        "lat": "-18.5122",
+        "long": "-44.5550"
+      }
+    },
+    "interior paulista" : {
+      "coordinates": {
+        "lat": "-22.4056",
+        "long": "-49.0083"
+      }
+    },
+    "nordeste" : {
+      "coordinates": {
+        "lat": "-8.0476",
+        "long": "-34.8770"
+      }
+    },
+    "centro-oeste" : {
+      "coordinates": {
+        "lat": "-15.6014",
+        "long": "-56.0979"
+      }
+    },
+    "brazilian": {
+      "coordinates": {
+        "lat": "-14.2350",
+        "long": "-51.9253"
+      }
+    },
+    "european": {
+      "coordinates": {
+        "lat": "39.3999",
+        "long": "-8.2245"
+      }
+    },
+    "african": {
+      "coordinates": {
+        "lat": "-11.2027",
+        "long": "17.8739"
+      }
+    }
+  },
+  "ko": {
+    "seoul": {
+      "coordinates": {
+        "lat": "37.5665",
+        "long": "126.9780"
+      }
+    },
+    "jeolla": {
+      "coordinates": {
+        "lat": "35.1595",
+        "long": "126.8526"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "35.9078",
+        "long": "127.7669"
+      }
+    },
+    "hamgyong": {
+      "coordinates": {
+        "lat": "41.7658",
+        "long": "129.7669"
+      }
+    },
+    "gyeongsang": {
+      "coordinates": {
+        "lat": "35.5384",
+        "long": "129.3114"
+      }
+    },
+    "chungcheong": {
+      "coordinates": {
+        "lat": "36.5184",
+        "long": "126.8000"
+      }
+    }
+  },
+  "hi": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.7041",
+        "long": "77.1025"
+      }
+    },
+    "marathi": {
+      "coordinates": {
+        "lat": "19.7515",
+        "long": "75.7139"
+      }
+    },
+    "bhojpuri": {
+      "coordinates": {
+        "lat": "25.9340",
+        "long": "85.2722"
+      }
+    },
+    "gujarati": {
+      "coordinates": {
+        "lat": "22.2587",
+        "long": "71.1924"
+      }
+    },
+    "bengali": {
+      "coordinates": {
+        "lat": "22.9868",
+        "long": "87.8550"
+      }
+    },
+    "tamil": {
+      "coordinates": {
+        "lat": "11.1271",
+        "long": "78.6569"
+      }
+    },
+    "bihari": {
+      "coordinates": {
+        "lat": "25.0961",
+        "long": "85.3131"
+      }
+    },
+    "punjabi": {
+      "coordinates": {
+        "lat": "31.1471",
+        "long": "75.3412"
+      }
+    },
+    "haryanvi": {
+      "coordinates": {
+        "lat": "29.0588",
+        "long": "76.0856"
+      }
+    },
+    "indian": {
+      "coordinates": {
+        "lat": "20.5937",
+        "long": "78.9629"
+      }
+    }
+  },
+  "ja": {
+    "kanto": {
+      "coordinates": {
+        "lat": "35.6762",
+        "long": "139.6503"
+      }
+    },
+    "kansai": {
+      "coordinates": {
+        "lat": "34.6937",
+        "long": "135.5023"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "36.2048",
+        "long": "138.2529"
+      }
+    }
+  },
+  "sk": {
+    "central": {
+      "coordinates": {
+        "lat": "48.6690",
+        "long": "19.6990"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "48.6690",
+        "long": "19.6990"
+      }
+    }
+  },
+  "ru": {
+    "moscow": {
+      "coordinates": {
+        "lat": "55.7558",
+        "long": "37.6173"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "61.5240",
+        "long": "105.3188"
+      }
+    },
+    "saint petersburg": {
+      "coordinates": {
+        "lat": "59.9311",
+        "long": "30.3609"
+      }
+    }
+  },
+  "de": {
+    "standard": {
+      "coordinates": {
+        "lat": "51.1657",
+        "long": "10.4515"
+      }
+    },
+    "bavarian": {
+      "coordinates": {
+        "lat": "48.7904",
+        "long": "11.4979"
+      }
+    },
+    "rhine franconian": {
+      "coordinates": {
+        "lat": "49.4875",
+        "long": "8.4660"
+      }
+    },
+    "berlinerisch": {
+      "coordinates": {
+        "lat": "52.5200",
+        "long": "13.4050"
+      }
+    },
+    "saxon": {
+      "coordinates": {
+        "lat": "51.1045",
+        "long": "13.2017"
+      }
+    },
+    "german": {
+      "coordinates": {
+        "lat": "51.1657",
+        "long": "10.4515"
+      }
+    },
+    "american german": {
+      "coordinates": {
+        "lat": "41.2033",
+        "long": "-77.1945"
+      }
+    }
+  },
+  "fil": {
+    "standard": {
+      "coordinates": {
+        "lat": "12.8797",
+        "long": "121.7740"
+      }
+    },
+    "cebuano": {
+      "coordinates": {
+        "lat": "10.3157",
+        "long": "123.8854"
+      }
+    },
+    "ilocano": {
+      "coordinates": {
+        "lat": "17.5967",
+        "long": "120.5979"
+      }
+    }
+  },
+  "id": {
+    "standard": {
+      "coordinates": {
+        "lat": "-0.7893",
+        "long": "113.9213"
+      }
+    },
+    "javanese": {
+      "coordinates": {
+        "lat": "-7.7956",
+        "long": "110.3695"
+      }
+    },
+    "sundanese": {
+      "coordinates": {
+        "lat": "-6.9175",
+        "long": "107.6191"
+      }
+    },
+    "id-standard": {
+      "coordinates": {
+        "lat": "-0.7893",
+        "long": "113.9213"
+      }
+    },
+    "balinese": {
+      "coordinates": {
+        "lat": "-8.4095",
+        "long": "115.1889"
+      }
+    }
+  },
+  "it": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.8719",
+        "long": "12.5674"
+      }
+    },
+    "romanesco": {
+      "coordinates": {
+        "lat": "41.9028",
+        "long": "12.4964"
+      }
+    },
+    "tuscan": {
+      "coordinates": {
+        "lat": "43.4647",
+        "long": "11.8816"
+      }
+    },
+    "milanese": {
+      "coordinates": {
+        "lat": "45.4642",
+        "long": "9.1900"
+      }
+    },
+    "venetian": {
+      "coordinates": {
+        "lat": "45.4408",
+        "long": "12.3155"
+      }
+    },
+    "sicilian": {
+      "coordinates": {
+        "lat": "37.5079",
+        "long": "15.0830"
+      }
+    },
+    "florentine": {
+      "coordinates": {
+        "lat": "43.7696",
+        "long": "11.2558"
+      }
+    },
+    "neapolitan": {
+      "coordinates": {
+        "lat": "40.8518",
+        "long": "14.2681"
+      }
+    }
+  },
+  "pl": {
+    "standard": {
+      "coordinates": {
+        "lat": "51.9194",
+        "long": "19.1451"
+      }
+    },
+    "kashubian": {
+      "coordinates": {
+        "lat": "54.2024",
+        "long": "17.9158"
+      }
+    },
+    "mazovian": {
+      "coordinates": {
+        "lat": "52.2297",
+        "long": "21.0122"
+      }
+    }
+  },
+  "ar": {
+    "saudi": {
+      "coordinates": {
+        "lat": "23.8859",
+        "long": "45.0792"
+      }
+    },
+    "egyptian": {
+      "coordinates": {
+        "lat": "26.0975",
+        "long": "31.2357"
+      }
+    },
+    "modern standard": {
+      "coordinates": {
+        "lat": "23.4241",
+        "long": "53.8478"
+      }
+    },
+    "algerian": {
+      "coordinates": {
+        "lat": "28.0339",
+        "long": "1.6596"
+      }
+    },
+    "palestinian": {
+      "coordinates": {
+        "lat": "31.9522",
+        "long": "35.2332"
+      }
+    },
+    "moroccan": {
+      "coordinates": {
+        "lat": "31.7917",
+        "long": "-7.0926"
+      }
+    },
+    "jordanian": {
+      "coordinates": {
+        "lat": "30.5852",
+        "long": "36.2384"
+      }
+    },
+    "gulf": {
+      "coordinates": {
+        "lat": "25.3548",
+        "long": "51.1839"
+      }
+    },
+    "kuwaiti": {
+      "coordinates": {
+        "lat": "29.3117",
+        "long": "47.4818"
+      }
+    },
+    "levantine": {
+      "coordinates": {
+        "lat": "33.8869",
+        "long": "35.5131"
+      }
+    }
+  },
+  "nl": {
+    "standard": {
+      "coordinates": {
+        "lat": "52.1326",
+        "long": "5.2913"
+      }
+    },
+    "flemish": {
+      "coordinates": {
+        "lat": "51.0543",
+        "long": "3.7174"
+      }
+    },
+    "limburgish": {
+      "coordinates": {
+        "lat": "50.8798",
+        "long": "5.9166"
+      }
+    }
+  },
+  "tr": {
+    "standard": {
+      "coordinates": {
+        "lat": "38.9637",
+        "long": "35.2433"
+      }
+    },
+    "istanbul": {
+      "coordinates": {
+        "lat": "41.0082",
+        "long": "28.9784"
+      }
+    },
+    "aegean": {
+      "coordinates": {
+        "lat": "38.4237",
+        "long": "27.1428"
+      }
+    },
+    "eastern": {
+      "coordinates": {
+        "lat": "39.9334",
+        "long": "41.2769"
+      }
+    },
+    "central": {
+      "coordinates": {
+        "lat": "39.9334",
+        "long": "32.8597"
+      }
+    },
+    "anatolian": {
+      "coordinates": {
+        "lat": "39.0742",
+        "long": "35.3213"
+      }
+    },
+    "american": {
+      "coordinates": {
+        "lat": "39.8283",
+        "long": "-98.5795"
+      }
+    },
+    "british": {
+      "coordinates": {
+        "lat": "55.3781",
+        "long": "-3.4360"
+      }
+    }
+  },
+  "cs": {
+    "standard": {
+      "coordinates": {
+        "lat": "49.8175",
+        "long": "15.4730"
+      }
+    },
+    "moravian": {
+      "coordinates": {
+        "lat": "49.5955",
+        "long": "17.2517"
+      }
+    },
+    "prague": {
+      "coordinates": {
+        "lat": "50.0755",
+        "long": "14.4378"
+      }
+    }
+  },
+  "zh": {
+    "taiwan mandarin": {
+      "coordinates": {
+        "lat": "23.6978",
+        "long": "120.9605"
+      }
+    },
+    "beijing mandarin": {
+      "coordinates": {
+        "lat": "39.9042",
+        "long": "116.4074"
+      }
+    },
+    "hong kong cantonese": {
+      "coordinates": {
+        "lat": "22.3193",
+        "long": "114.1694"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "35.8617",
+        "long": "104.1954"
+      }
+    },
+    "singapore mandarin": {
+      "coordinates": {
+        "lat": "1.3521",
+        "long": "103.8198"
+      }
+    }
+  },
+  "ro": {
+    "moldovan": {
+      "coordinates": {
+        "lat": "47.4116",
+        "long": "28.3699"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "45.9432",
+        "long": "24.9668"
+      }
+    },
+    "oltenia": {
+      "coordinates": {
+        "lat": "44.3302",
+        "long": "23.7949"
+      }
+    },
+    "transylvanian": {
+      "coordinates": {
+        "lat": "46.0671",
+        "long": "23.5850"
+      }
+    }
+  },
+  "ms": {
+    "malaysian": {
+      "coordinates": {
+        "lat": "4.2105",
+        "long": "101.9758"
+      }
+    }
+  },
+  "uk": {
+    "standard": {
+      "coordinates": {
+        "lat": "48.3794",
+        "long": "31.1656"
+      }
+    },
+    "kiev": {
+      "coordinates": {
+        "lat": "50.4501",
+        "long": "30.5234"
+      }
+    }
+  },
+  "ta": {
+    "chennai": {
+      "coordinates": {
+        "lat": "13.0827",
+        "long": "80.2707"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "11.1271",
+        "long": "78.6569"
+      }
+    },
+    "coimbatore": {
+      "coordinates": {
+        "lat": "11.0168",
+        "long": "76.9558"
+      }
+    }
+  },
+  "bg": {
+    "sofia": {
+      "coordinates": {
+        "lat": "42.6977",
+        "long": "23.3219"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "42.7339",
+        "long": "25.4858"
+      }
+    }
+  },
+  "hu": {
+    "standard": {
+      "coordinates": {
+        "lat": "47.1625",
+        "long": "19.5033"
+      }
+    },
+    "budapest": {
+      "coordinates": {
+        "lat": "47.4979",
+        "long": "19.0402"
+      }
+    }
+  },
+  "no": {
+    "oslo": {
+      "coordinates": {
+        "lat": "59.9139",
+        "long": "10.7522"
+      }
+    },
+    "bergen": {
+      "coordinates": {
+        "lat": "60.3913",
+        "long": "5.3221"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "60.4720",
+        "long": "8.4689"
+      }
+    }
+  },
+  "fi": {
+    "turku": {
+      "coordinates": {
+        "lat": "60.4518",
+        "long": "22.2666"
+      }
+    },
+    "helsinki": {
+      "coordinates": {
+        "lat": "60.1699",
+        "long": "24.9384"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "61.9241",
+        "long": "25.7482"
+      }
+    },
+    "western": {
+      "coordinates": {
+        "lat": "62.6000",
+        "long": "22.2500"
+      }
+    }
+  },
+  "sv": {
+    "scanian": {
+      "coordinates": {
+        "lat": "55.6059",
+        "long": "13.0007"
+      }
+    },
+    "gothenburg": {
+      "coordinates": {
+        "lat": "57.7089",
+        "long": "11.9746"
+      }
+    },
+    "standard": {
+      "coordinates": {
+        "lat": "60.1282",
+        "long": "18.6435"
+      }
+    },
+    "stockholm": {
+      "coordinates": {
+        "lat": "59.3293",
+        "long": "18.0686"
+      }
+    }
+  },
+  "da": {
+    "standard": {
+      "coordinates": {
+        "lat": "56.2639",
+        "long": "9.5018"
+      }
+    },
+    "jutlandic": {
+      "coordinates": {
+        "lat": "56.1572",
+        "long": "10.2107"
+      }
+    },
+    "zealandic": {
+      "coordinates": {
+        "lat": "55.6761",
+        "long": "12.0683"
+      }
+    }
+  },
+  "hr": {
+    "standard": {
+      "coordinates": {
+        "lat": "45.1000",
+        "long": "15.2000"
+      }
+    },
+    "zagreb": {
+      "coordinates": {
+        "lat": "45.8150",
+        "long": "15.9819"
+      }
+    }
+  },
+  "el": {
+    "standard": {
+      "coordinates": {
+        "lat": "39.0742",
+        "long": "21.8243"
+      }
+    },
+    "macedonian": {
+      "coordinates": {
+        "lat": "40.6401",
+        "long": "22.9444"
+      }
+    },
+    "athenian": {
+      "coordinates": {
+        "lat": "37.9838",
+        "long": "23.7275"
+      }
+    },
+    "aegean": {
+      "coordinates": {
+        "lat": "37.4414",
+        "long": "25.3662"
+      }
+    }
+  }
+}
