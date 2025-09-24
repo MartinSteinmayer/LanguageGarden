@@ -14,68 +14,20 @@ const MapboxExample = () => {
   const [selectedLanguage, setSelectedLanguage] = useState(null);
   const [hoveredLanguage, setHoveredLanguage] = useState(null);
 
-  // Language to country mapping
-  const languageCountryMap = {
-    'eng': 'GB', // English -> United Kingdom
-    'spa': 'ES', // Spanish -> Spain
-    'cmn': 'CN', // Mandarin Chinese -> China
-    'hin': 'IN', // Hindi -> India
-    'ara': 'SA', // Arabic -> Saudi Arabia
-    'por': 'PT', // Portuguese -> Portugal
-    'rus': 'RU', // Russian -> Russia
-    'jpn': 'JP', // Japanese -> Japan
-    'deu': 'DE', // German -> Germany
-    'fra': 'FR', // French -> France
-  };
-
-  // Load and parse CSV data
+  // Load ElevenLabs voice data
   useEffect(() => {
-    const loadCountriesData = async () => {
+    const loadVoiceData = async () => {
       try {
-        const response = await fetch('/data/countries.csv');
-        const csvText = await response.text();
-        
-        // Parse CSV
-        const lines = csvText.trim().split('\n');
-        const headers = lines[0].split(',');
-        const countries = {};
-        
-        for (let i = 1; i < lines.length; i++) {
-          const values = lines[i].split(',');
-          const countryCode = values[0];
-          const latitude = parseFloat(values[1]);
-          const longitude = parseFloat(values[2]);
-          const name = values[3]?.replace(/"/g, ''); // Remove quotes
-          
-          if (!isNaN(latitude) && !isNaN(longitude)) {
-            countries[countryCode] = {
-              latitude,
-              longitude,
-              name
-            };
-          }
-        }
-        
-        setCountriesData(countries);
+        const response = await fetch('/data/eleven_lab_voices_coordinates.json');
+        const voiceData = await response.json();
+        setCountriesData(voiceData);
       } catch (error) {
-        console.error('Error loading countries data:', error);
-        // Fallback to hardcoded data if CSV loading fails
-        setCountriesData({
-          'GB': { latitude: 55.378051, longitude: -3.435973, name: 'United Kingdom' },
-          'ES': { latitude: 40.463667, longitude: -3.74922, name: 'Spain' },
-          'CN': { latitude: 35.86166, longitude: 104.195397, name: 'China' },
-          'IN': { latitude: 20.593684, longitude: 78.96288, name: 'India' },
-          'SA': { latitude: 23.885942, longitude: 45.079162, name: 'Saudi Arabia' },
-          'PT': { latitude: 39.399872, longitude: -8.224454, name: 'Portugal' },
-          'RU': { latitude: 61.52401, longitude: 105.318756, name: 'Russia' },
-          'JP': { latitude: 36.204824, longitude: 138.252924, name: 'Japan' },
-          'DE': { latitude: 51.165691, longitude: 10.451526, name: 'Germany' },
-          'FR': { latitude: 46.227638, longitude: 2.213749, name: 'France' }
-        });
+        console.error('Error loading voice data:', error);
+        setCountriesData({});
       }
     };
 
-    loadCountriesData();
+    loadVoiceData();
   }, []);
 
   useEffect(() => {
@@ -93,107 +45,88 @@ const MapboxExample = () => {
       minZoom: 1
     });
 
-    // Create language data using coordinates from CSV
-    // Language definitions
-    const languages = [
-      {
-        name: 'English',
-        iso6393: 'eng',
-        status: 'voice',
-        speakers: 1500000000,
-        description: 'Most widely spoken language globally'
-      },
-      {
-        name: 'Spanish',
-        iso6393: 'spa',
-        status: 'voice',
-        speakers: 500000000,
-        description: 'Second most spoken language by native speakers'
-      },
-      {
-        name: 'Mandarin Chinese',
-        iso6393: 'cmn',
-        status: 'history',
-        speakers: 918000000,
-        description: 'Most spoken language by native speakers'
-      },
-      {
-        name: 'Hindi',
-        iso6393: 'hin',
-        status: 'history',
-        speakers: 602000000,
-        description: 'Primary language of India'
-      },
-      {
-        name: 'Arabic',
-        iso6393: 'ara',
-        status: 'no-data',
-        speakers: 422000000,
-        description: 'Liturgical language of Islam'
-      },
-      {
-        name: 'Portuguese',
-        iso6393: 'por',
-        status: 'voice',
-        speakers: 260000000,
-        description: 'Official language of Brazil and Portugal'
-      },
-      {
-        name: 'Russian',
-        iso6393: 'rus',
-        status: 'history',
-        speakers: 258000000,
-        description: 'Most widely spoken Slavic language'
-      },
-      {
-        name: 'Japanese',
-        iso6393: 'jpn',
-        status: 'no-data',
-        speakers: 125000000,
-        description: 'Primary language of Japan'
-      },
-      {
-        name: 'German',
-        iso6393: 'deu',
-        status: 'voice',
-        speakers: 100000000,
-        description: 'Most widely spoken first language in the EU'
-      },
-      {
-        name: 'French',
-        iso6393: 'fra',
-        status: 'history',
-        speakers: 280000000,
-        description: 'Official language in 29 countries'
-      }
-    ];
+    // Language name mapping from ISO codes
+    const languageNames = {
+      'es': 'Spanish',
+      'en': 'English', 
+      'fr': 'French',
+      'vi': 'Vietnamese',
+      'pt': 'Portuguese',
+      'ko': 'Korean',
+      'hi': 'Hindi',
+      'ja': 'Japanese',
+      'sk': 'Slovak',
+      'ru': 'Russian',
+      'de': 'German',
+      'fil': 'Filipino',
+      'id': 'Indonesian',
+      'it': 'Italian',
+      'pl': 'Polish',
+      'ar': 'Arabic',
+      'nl': 'Dutch',
+      'tr': 'Turkish',
+      'cs': 'Czech',
+      'zh': 'Chinese',
+      'ro': 'Romanian',
+      'ms': 'Malay',
+      'uk': 'Ukrainian',
+      'ta': 'Tamil',
+      'bg': 'Bulgarian',
+      'hu': 'Hungarian',
+      'no': 'Norwegian',
+      'fi': 'Finnish',
+      'sv': 'Swedish',
+      'da': 'Danish',
+      'hr': 'Croatian',
+      'el': 'Greek'
+    };
 
-    // Create GeoJSON using CSV coordinates
+    // Create GeoJSON from ElevenLabs voice data
     const languagesData = {
       type: 'FeatureCollection',
-      features: languages.map((lang, index) => {
-        const countryCode = languageCountryMap[lang.iso6393];
-        const country = countriesData[countryCode];
-        
-        if (!country) {
-          console.warn(`No country data found for language ${lang.name} (${lang.iso6393})`);
-          return null;
-        }
-
-        return {
-          type: 'Feature',
-          id: index, // Add unique ID for feature state management
-          properties: {
-            ...lang,
-            countryName: country.name
-          },
-          geometry: {
-            type: 'Point',
-            coordinates: [country.longitude, country.latitude]
-          }
-        };
-      }).filter(Boolean) // Remove null entries
+      features: []
     };
+
+    let featureId = 0;
+    
+    // Process each language in the voice data
+    Object.keys(countriesData).forEach(langCode => {
+      const language = countriesData[langCode];
+      const languageName = languageNames[langCode] || langCode.toUpperCase();
+      
+      // Process each dialect/region for this language
+      Object.keys(language).forEach(dialectKey => {
+        const dialect = language[dialectKey];
+        const coordinates = dialect.coordinates;
+        const voiceCount = dialect.voice_ids ? dialect.voice_ids.length : 0;
+        
+        if (coordinates && coordinates.lat && coordinates.long) {
+          // All ElevenLabs voices are green (voice chat available)
+          const status = 'voice';
+          
+          const feature = {
+            type: 'Feature',
+            id: featureId++,
+            properties: {
+              name: `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
+              iso6393: langCode,
+              dialect: dialectKey,
+              status: status,
+              voiceCount: voiceCount,
+              speakers: voiceCount * 1000000, // Rough estimate based on voice availability
+              description: `${voiceCount} ElevenLabs voices available for ${dialectKey} ${languageName}`,
+              voice_ids: dialect.voice_ids
+            },
+            geometry: {
+              type: 'Point',
+              coordinates: [parseFloat(coordinates.long), parseFloat(coordinates.lat)]
+            }
+          };
+          
+          languagesData.features.push(feature);
+        }
+      });
+    });
 
     // Add fog/atmosphere for 3D globe effect
     map.on('style.load', () => {
@@ -247,13 +180,16 @@ const MapboxExample = () => {
         type: 'circle',
         source: 'languages',
         paint: {
-          // Animated radius with hover effect (105% scale = 6.3px)
+          // Animated radius with hover effect - selected state takes priority
           'circle-radius': [
             'case',
-            ['boolean', ['feature-state', 'hover'], false],
-            6.3, // 105% of 6
+            // Selected state (largest)
             ['boolean', ['feature-state', 'selected'], false],
-            7, // Slightly larger for selected state
+            8, // Selected: 133% of default
+            // Hover state (medium)
+            ['boolean', ['feature-state', 'hover'], false],
+            7.2, // Hover: 120% of default
+            // Default state
             6 // Default size
           ],
           // Color coding based on status
@@ -265,24 +201,24 @@ const MapboxExample = () => {
             '#eab308', // Yellow for history available
             '#ef4444' // Red for needs funding
           ],
-          // Enhanced stroke on hover
+          // Enhanced stroke - selected state gets thickest border
           'circle-stroke-width': [
             'case',
-            ['boolean', ['feature-state', 'hover'], false],
-            3,
             ['boolean', ['feature-state', 'selected'], false],
-            3,
-            2
+            4, // Selected: thickest border
+            ['boolean', ['feature-state', 'hover'], false],
+            3, // Hover: medium border
+            2 // Default: thin border
           ],
           'circle-stroke-color': '#ffffff',
-          // Slightly more opaque on hover
+          // Opacity hierarchy
           'circle-opacity': [
             'case',
-            ['boolean', ['feature-state', 'hover'], false],
-            0.95,
             ['boolean', ['feature-state', 'selected'], false],
-            1,
-            0.8
+            1, // Selected: fully opaque
+            ['boolean', ['feature-state', 'hover'], false],
+            0.95, // Hover: almost opaque
+            0.8 // Default: slightly transparent
           ],
           // Add subtle shadow effect on hover
           'circle-blur': [
@@ -323,19 +259,19 @@ const MapboxExample = () => {
       
       const feature = event.features[0];
       
-      // Clear previous selection state
-      if (selectedLanguage) {
-        const prevFeatures = map.querySourceFeatures('languages');
-        prevFeatures.forEach(f => {
-          if (f.properties.iso6393 === selectedLanguage.iso6393) {
-            map.setFeatureState({ source: 'languages', id: f.id }, { selected: false });
-          }
-        });
-      }
+      // Clear ALL previous selection states (simpler and more reliable)
+      const allFeatures = map.querySourceFeatures('languages');
+      allFeatures.forEach(f => {
+        if (f.id !== undefined) {
+          map.setFeatureState({ source: 'languages', id: f.id }, { selected: false });
+        }
+      });
       
       // Set new selection
-      map.setFeatureState({ source: 'languages', id: feature.id }, { selected: true });
-      setSelectedLanguage(feature.properties);
+      if (feature.id !== undefined) {
+        map.setFeatureState({ source: 'languages', id: feature.id }, { selected: true });
+        setSelectedLanguage(feature.properties);
+      }
     });
 
     // Click handler for map background (deselect)
@@ -345,13 +281,13 @@ const MapboxExample = () => {
       });
       
       if (features.length === 0) {
-        // Clear selection state
-        if (selectedLanguage) {
-          const allFeatures = map.querySourceFeatures('languages');
-          allFeatures.forEach(f => {
+        // Clear ALL selection states
+        const allFeatures = map.querySourceFeatures('languages');
+        allFeatures.forEach(f => {
+          if (f.id !== undefined) {
             map.setFeatureState({ source: 'languages', id: f.id }, { selected: false });
-          });
-        }
+          }
+        });
         setSelectedLanguage(null);
       }
     });
@@ -447,11 +383,24 @@ const MapboxExample = () => {
       {/* Interactive Hint - shows when no language is selected */}
       {!selectedLanguage && !hoveredLanguage && (
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 pointer-events-none">
-          <div className="bg-black/80 text-white px-4 py-2 rounded-lg text-sm animate-bounce">
+          <div className="bg-black/80 text-white px-2 py-1 rounded-lg text-xs" style={{
+            animation: 'gentleBounce 1s ease-in-out infinite'
+          }}>
             Click on any language dot to learn more
           </div>
         </div>
       )}
+      
+      <style jsx>{`
+        @keyframes gentleBounce {
+          0%, 100% {
+            transform: translateY(-6px);
+          }
+          50% {
+            transform: translateY(0px);
+          }
+        }
+      `}</style>
     </div>
   );
 };

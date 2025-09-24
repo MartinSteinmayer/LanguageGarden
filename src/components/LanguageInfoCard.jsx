@@ -56,9 +56,6 @@ const LanguageInfoCard = ({ language, onClose }) => {
           <Badge variant="secondary" className={`${statusConfig.color} text-white`}>
             {statusConfig.badge}
           </Badge>
-          <Badge variant="outline" className="text-xs">
-            {language.iso6393?.toUpperCase()}
-          </Badge>
         </div>
       </CardHeader>
       
