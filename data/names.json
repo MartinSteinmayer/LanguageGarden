@@ -110,10 +110,6 @@
       "official_name": "New York English",
       "name": "New York English"
     },
-    "hindi": {
-      "official_name": "Hindi English",
-      "name": "Hindi English"
-    },
     "african american": {
       "official_name": "African American English",
       "name": "African American English"
@@ -133,10 +129,6 @@
     "yorkshire": {
       "official_name": "Yorkshire English",
       "name": "Yorkshire English"
-    },
-    "tamil": {
-      "official_name": "Tamil English",
-      "name": "Tamil English"
     },
     "chicago": {
       "official_name": "Chicago English",
@@ -311,10 +303,6 @@
     "haryanvi": {
       "official_name": "हरियाणवी हिन्दी",
       "name": "Haryanvi Hindi"
-    },
-    "indian": {
-      "official_name": "भारतीय हिन्दी",
-      "name": "Indian Hindi"
     }
   },
   "ja": {
