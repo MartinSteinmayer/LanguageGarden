@@ -1,0 +1,758 @@
+{
+  "es": {
+    "mexican": {
+      "official_name": "Español Mexicano",
+      "name": "Mexican Spanish"
+    },
+    "peninsular": {
+      "official_name": "Español Peninsular",
+      "name": "Peninsular Spanish"
+    },
+    "argentine": {
+      "official_name": "Español Argentino",
+      "name": "Argentine Spanish"
+    },
+    "peruvian": {
+      "official_name": "Español Peruano",
+      "name": "Peruvian Spanish"
+    },
+    "colombian": {
+      "official_name": "Español Colombiano",
+      "name": "Colombian Spanish"
+    },
+    "dominican": {
+      "official_name": "Español Dominicano",
+      "name": "Dominican Spanish"
+    },
+    "chilean": {
+      "official_name": "Español Chileno",
+      "name": "Chilean Spanish"
+    },
+    "andalusian": {
+      "official_name": "Andaluz",
+      "name": "Andalusian Spanish"
+    },
+    "cuban": {
+      "official_name": "Español Cubano",
+      "name": "Cuban Spanish"
+    },
+    "puerto rican": {
+      "official_name": "Español Puertorriqueño",
+      "name": "Puerto Rican Spanish"
+    },
+    "ecuadorian": {
+      "official_name": "Español Ecuatoriano",
+      "name": "Ecuadorian Spanish"
+    },
+    "venezuelan": {
+      "official_name": "Español Venezolano",
+      "name": "Venezuelan Spanish"
+    },
+    "canary islands": {
+      "official_name": "Español Canario",
+      "name": "Canary Islands Spanish"
+    },
+    "galician": {
+      "official_name": "Español Gallego",
+      "name": "Galician Spanish"
+    },
+    "castillian": {
+      "official_name": "Castellano",
+      "name": "Castilian Spanish"
+    }
+  },
+  "en": {
+    "american": {
+      "official_name": "American English",
+      "name": "American English"
+    },
+    "british": {
+      "official_name": "British English",
+      "name": "British English"
+    },
+    "indian": {
+      "official_name": "Indian English",
+      "name": "Indian English"
+    },
+    "australian": {
+      "official_name": "Australian English",
+      "name": "Australian English"
+    },
+    "south african": {
+      "official_name": "South African English",
+      "name": "South African English"
+    },
+    "new zealand": {
+      "official_name": "New Zealand English",
+      "name": "New Zealand English"
+    },
+    "irish": {
+      "official_name": "Irish English",
+      "name": "Irish English"
+    },
+    "us southern": {
+      "official_name": "Southern American English",
+      "name": "Southern American English"
+    },
+    "canadian": {
+      "official_name": "Canadian English",
+      "name": "Canadian English"
+    },
+    "nigerian": {
+      "official_name": "Nigerian English",
+      "name": "Nigerian English"
+    },
+    "scottish": {
+      "official_name": "Scottish English",
+      "name": "Scottish English"
+    },
+    "new york": {
+      "official_name": "New York English",
+      "name": "New York English"
+    },
+    "hindi": {
+      "official_name": "Hindi English",
+      "name": "Hindi English"
+    },
+    "african american": {
+      "official_name": "African American English",
+      "name": "African American English"
+    },
+    "geordie": {
+      "official_name": "Geordie",
+      "name": "Geordie English"
+    },
+    "singaporean": {
+      "official_name": "Singapore English",
+      "name": "Singaporean English"
+    },
+    "boston": {
+      "official_name": "Boston English",
+      "name": "Boston English"
+    },
+    "yorkshire": {
+      "official_name": "Yorkshire English",
+      "name": "Yorkshire English"
+    },
+    "tamil": {
+      "official_name": "Tamil English",
+      "name": "Tamil English"
+    },
+    "chicago": {
+      "official_name": "Chicago English",
+      "name": "Chicago English"
+    },
+    "welsh": {
+      "official_name": "Welsh English",
+      "name": "Welsh English"
+    },
+    "jamaican": {
+      "official_name": "Jamaican English",
+      "name": "Jamaican English"
+    },
+    "cockney": {
+      "official_name": "Cockney",
+      "name": "Cockney English"
+    },
+    "african": {
+      "official_name": "African English",
+      "name": "African English"
+    }
+  },
+  "fr": {
+    "parisian": {
+      "official_name": "Français Parisien",
+      "name": "Parisian French"
+    },
+    "standard": {
+      "official_name": "Français",
+      "name": "French"
+    },
+    "swiss": {
+      "official_name": "Français Suisse",
+      "name": "Swiss French"
+    },
+    "quebec": {
+      "official_name": "Français Québécois",
+      "name": "Quebec French"
+    },
+    "african": {
+      "official_name": "Français Africain",
+      "name": "African French"
+    },
+    "meridional": {
+      "official_name": "Français Méridional",
+      "name": "Southern French"
+    },
+    "belgian": {
+      "official_name": "Français Belge",
+      "name": "Belgian French"
+    },
+    "american": {
+      "official_name": "Français Louisianais",
+      "name": "Louisiana French"
+    }
+  },
+  "vi": {
+    "standard": {
+      "official_name": "Tiếng Việt",
+      "name": "Vietnamese"
+    },
+    "southern": {
+      "official_name": "Tiếng Việt Miền Nam",
+      "name": "Southern Vietnamese"
+    },
+    "central": {
+      "official_name": "Tiếng Việt Miền Trung",
+      "name": "Central Vietnamese"
+    },
+    "northern": {
+      "official_name": "Tiếng Việt Miền Bắc",
+      "name": "Northern Vietnamese"
+    }
+  },
+  "pt": {
+    "rio de janeiro": {
+      "official_name": "Português Carioca",
+      "name": "Rio de Janeiro Portuguese"
+    },
+    "sao paulo": {
+      "official_name": "Português Paulista",
+      "name": "São Paulo Portuguese"
+    },
+    "minas gerais": {
+      "official_name": "Português Mineiro",
+      "name": "Minas Gerais Portuguese"
+    },
+    "interior paulista": {
+      "official_name": "Português do Interior Paulista",
+      "name": "Interior São Paulo Portuguese"
+    },
+    "nordeste": {
+      "official_name": "Português Nordestino",
+      "name": "Northeastern Brazilian Portuguese"
+    },
+    "centro-oeste": {
+      "official_name": "Português Centro-Oeste",
+      "name": "Central-West Brazilian Portuguese"
+    },
+    "brazilian": {
+      "official_name": "Português Brasileiro",
+      "name": "Brazilian Portuguese"
+    },
+    "european": {
+      "official_name": "Português Europeu",
+      "name": "European Portuguese"
+    },
+    "african": {
+      "official_name": "Português Africano",
+      "name": "African Portuguese"
+    }
+  },
+  "ko": {
+    "seoul": {
+      "official_name": "서울말",
+      "name": "Seoul Korean"
+    },
+    "jeolla": {
+      "official_name": "전라도 방언",
+      "name": "Jeolla Korean"
+    },
+    "standard": {
+      "official_name": "한국어",
+      "name": "Korean"
+    },
+    "hamgyong": {
+      "official_name": "함경도 방언",
+      "name": "Hamgyong Korean"
+    },
+    "gyeongsang": {
+      "official_name": "경상도 방언",
+      "name": "Gyeongsang Korean"
+    },
+    "chungcheong": {
+      "official_name": "충청도 방언",
+      "name": "Chungcheong Korean"
+    }
+  },
+  "hi": {
+    "standard": {
+      "official_name": "हिन्दी",
+      "name": "Hindi"
+    },
+    "marathi": {
+      "official_name": "मराठी हिन्दी",
+      "name": "Marathi-influenced Hindi"
+    },
+    "bhojpuri": {
+      "official_name": "भोजपुरी हिन्दी",
+      "name": "Bhojpuri Hindi"
+    },
+    "gujarati": {
+      "official_name": "गुजराती हिन्दी",
+      "name": "Gujarati Hindi"
+    },
+    "bengali": {
+      "official_name": "बंगाली हिन्दी",
+      "name": "Bengali Hindi"
+    },
+    "tamil": {
+      "official_name": "तमिल हिन्दी",
+      "name": "Tamil Hindi"
+    },
+    "bihari": {
+      "official_name": "बिहारी हिन्दी",
+      "name": "Bihari Hindi"
+    },
+    "punjabi": {
+      "official_name": "पंजाबी हिन्दी",
+      "name": "Punjabi Hindi"
+    },
+    "haryanvi": {
+      "official_name": "हरियाणवी हिन्दी",
+      "name": "Haryanvi Hindi"
+    },
+    "indian": {
+      "official_name": "भारतीय हिन्दी",
+      "name": "Indian Hindi"
+    }
+  },
+  "ja": {
+    "kanto": {
+      "official_name": "関東弁",
+      "name": "Kanto Japanese"
+    },
+    "kansai": {
+      "official_name": "関西弁",
+      "name": "Kansai Japanese"
+    },
+    "standard": {
+      "official_name": "日本語",
+      "name": "Japanese"
+    }
+  },
+  "sk": {
+    "central": {
+      "official_name": "Stredoslovenčina",
+      "name": "Central Slovak"
+    },
+    "standard": {
+      "official_name": "Slovenčina",
+      "name": "Slovak"
+    }
+  },
+  "ru": {
+    "moscow": {
+      "official_name": "Московский диалект",
+      "name": "Moscow Russian"
+    },
+    "standard": {
+      "official_name": "Русский язык",
+      "name": "Russian"
+    },
+    "saint petersburg": {
+      "official_name": "Петербургский диалект",
+      "name": "Saint Petersburg Russian"
+    }
+  },
+  "de": {
+    "standard": {
+      "official_name": "Hochdeutsch",
+      "name": "German"
+    },
+    "bavarian": {
+      "official_name": "Boarisch",
+      "name": "Bavarian German"
+    },
+    "rhine franconian": {
+      "official_name": "Rheinfränkisch",
+      "name": "Rhine Franconian German"
+    },
+    "berlinerisch": {
+      "official_name": "Berlinerisch",
+      "name": "Berlin German"
+    },
+    "saxon": {
+      "official_name": "Sächsisch",
+      "name": "Saxon German"
+    },
+    "german": {
+      "official_name": "Deutsch",
+      "name": "German"
+    },
+    "american german": {
+      "official_name": "Amerikanisches Deutsch",
+      "name": "American German"
+    }
+  },
+  "fil": {
+    "standard": {
+      "official_name": "Filipino",
+      "name": "Filipino"
+    },
+    "cebuano": {
+      "official_name": "Cebuano",
+      "name": "Cebuano Filipino"
+    },
+    "ilocano": {
+      "official_name": "Ilokano",
+      "name": "Ilocano Filipino"
+    }
+  },
+  "id": {
+    "standard": {
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian"
+    },
+    "javanese": {
+      "official_name": "Bahasa Indonesia Jawa",
+      "name": "Javanese Indonesian"
+    },
+    "sundanese": {
+      "official_name": "Bahasa Indonesia Sunda",
+      "name": "Sundanese Indonesian"
+    },
+    "id-standard": {
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian"
+    },
+    "balinese": {
+      "official_name": "Bahasa Indonesia Bali",
+      "name": "Balinese Indonesian"
+    }
+  },
+  "it": {
+    "standard": {
+      "official_name": "Italiano",
+      "name": "Italian"
+    },
+    "romanesco": {
+      "official_name": "Romanesco",
+      "name": "Roman Italian"
+    },
+    "tuscan": {
+      "official_name": "Toscano",
+      "name": "Tuscan Italian"
+    },
+    "milanese": {
+      "official_name": "Milanese",
+      "name": "Milanese Italian"
+    },
+    "venetian": {
+      "official_name": "Veneto",
+      "name": "Venetian Italian"
+    },
+    "sicilian": {
+      "official_name": "Siciliano",
+      "name": "Sicilian Italian"
+    },
+    "florentine": {
+      "official_name": "Fiorentino",
+      "name": "Florentine Italian"
+    },
+    "neapolitan": {
+      "official_name": "Napoletano",
+      "name": "Neapolitan Italian"
+    }
+  },
+  "pl": {
+    "standard": {
+      "official_name": "Polski",
+      "name": "Polish"
+    },
+    "kashubian": {
+      "official_name": "Kaszubski",
+      "name": "Kashubian Polish"
+    },
+    "mazovian": {
+      "official_name": "Mazowiecki",
+      "name": "Mazovian Polish"
+    }
+  },
+  "ar": {
+    "saudi": {
+      "official_name": "العربية السعودية",
+      "name": "Saudi Arabic"
+    },
+    "egyptian": {
+      "official_name": "العربية المصرية",
+      "name": "Egyptian Arabic"
+    },
+    "modern standard": {
+      "official_name": "العربية",
+      "name": "Modern Arabic"
+    },
+    "algerian": {
+      "official_name": "العربية الجزائرية",
+      "name": "Algerian Arabic"
+    },
+    "palestinian": {
+      "official_name": "العربية الفلسطينية",
+      "name": "Palestinian Arabic"
+    },
+    "moroccan": {
+      "official_name": "العربية المغربية",
+      "name": "Moroccan Arabic"
+    },
+    "jordanian": {
+      "official_name": "العربية الأردنية",
+      "name": "Jordanian Arabic"
+    },
+    "gulf": {
+      "official_name": "العربية الخليجية",
+      "name": "Gulf Arabic"
+    },
+    "kuwaiti": {
+      "official_name": "العربية الكويتية",
+      "name": "Kuwaiti Arabic"
+    },
+    "levantine": {
+      "official_name": "العربية الشامية",
+      "name": "Levantine Arabic"
+    }
+  },
+  "nl": {
+    "standard": {
+      "official_name": "Nederlands",
+      "name": "Dutch"
+    },
+    "flemish": {
+      "official_name": "Vlaams",
+      "name": "Flemish Dutch"
+    },
+    "limburgish": {
+      "official_name": "Limburgs",
+      "name": "Limburgish Dutch"
+    }
+  },
+  "tr": {
+    "standard": {
+      "official_name": "Türkiye Türkçesi",
+      "name": "Turkish"
+    },
+    "istanbul": {
+      "official_name": "İstanbul Türkçesi",
+      "name": "Istanbul Turkish"
+    },
+    "aegean": {
+      "official_name": "Ege Türkçesi",
+      "name": "Aegean Turkish"
+    },
+    "eastern": {
+      "official_name": "Doğu Türkçesi",
+      "name": "Eastern Turkish"
+    },
+    "central": {
+      "official_name": "İç Anadolu Türkçesi",
+      "name": "Central Anatolian Turkish"
+    },
+    "anatolian": {
+      "official_name": "Anadolu Türkçesi",
+      "name": "Anatolian Turkish"
+    },
+    "american": {
+      "official_name": "Amerikan Türkçesi",
+      "name": "American Turkish"
+    },
+    "british": {
+      "official_name": "İngiliz Türkçesi",
+      "name": "British Turkish"
+    }
+  },
+  "cs": {
+    "standard": {
+      "official_name": "Čeština",
+      "name": "Czech"
+    },
+    "moravian": {
+      "official_name": "Moravština",
+      "name": "Moravian Czech"
+    },
+    "prague": {
+      "official_name": "Pražština",
+      "name": "Prague Czech"
+    }
+  },
+  "zh": {
+    "taiwan mandarin": {
+      "official_name": "臺灣國語",
+      "name": "Taiwan Mandarin"
+    },
+    "beijing mandarin": {
+      "official_name": "北京官話",
+      "name": "Beijing Mandarin"
+    },
+    "hong kong cantonese": {
+      "official_name": "香港粵語",
+      "name": "Hong Kong Cantonese"
+    },
+    "standard": {
+      "official_name": "標準中文",
+      "name": "Chinese"
+    },
+    "singapore mandarin": {
+      "official_name": "新加坡華語",
+      "name": "Singapore Mandarin"
+    }
+  },
+  "ro": {
+    "moldovan": {
+      "official_name": "Română Moldovenească",
+      "name": "Moldovan Romanian"
+    },
+    "standard": {
+      "official_name": "Română",
+      "name": "Romanian"
+    },
+    "oltenia": {
+      "official_name": "Olteneană",
+      "name": "Oltenia Romanian"
+    },
+    "transylvanian": {
+      "official_name": "Ardeleană",
+      "name": "Transylvanian Romanian"
+    }
+  },
+  "ms": {
+    "malaysian": {
+      "official_name": "Bahasa Malaysia",
+      "name": "Malaysian Malay"
+    }
+  },
+  "uk": {
+    "standard": {
+      "official_name": "Українська мова",
+      "name": "Ukrainian"
+    },
+    "kiev": {
+      "official_name": "Київський діалект",
+      "name": "Kiev Ukrainian"
+    }
+  },
+  "ta": {
+    "chennai": {
+      "official_name": "சென்னை தமிழ்",
+      "name": "Chennai Tamil"
+    },
+    "standard": {
+      "official_name": "தமிழ்",
+      "name": "Tamil"
+    },
+    "coimbatore": {
+      "official_name": "கோயம்புத்தூர் தமிழ்",
+      "name": "Coimbatore Tamil"
+    }
+  },
+  "bg": {
+    "sofia": {
+      "official_name": "Софийски диалект",
+      "name": "Sofia Bulgarian"
+    },
+    "standard": {
+      "official_name": "Български език",
+      "name": "Bulgarian"
+    }
+  },
+  "hu": {
+    "standard": {
+      "official_name": "Magyar",
+      "name": "Hungarian"
+    },
+    "budapest": {
+      "official_name": "Budapesti Magyar",
+      "name": "Budapest Hungarian"
+    }
+  },
+  "no": {
+    "oslo": {
+      "official_name": "Oslo Norsk",
+      "name": "Oslo Norwegian"
+    },
+    "bergen": {
+      "official_name": "Bergensk",
+      "name": "Bergen Norwegian"
+    },
+    "standard": {
+      "official_name": "Norsk",
+      "name": "Norwegian"
+    }
+  },
+  "fi": {
+    "turku": {
+      "official_name": "Turun Suomi",
+      "name": "Turku Finnish"
+    },
+    "helsinki": {
+      "official_name": "Helsingin Suomi",
+      "name": "Helsinki Finnish"
+    },
+    "standard": {
+      "official_name": "Suomi",
+      "name": "Finnish"
+    },
+    "western": {
+      "official_name": "Länsisuomi",
+      "name": "Western Finnish"
+    }
+  },
+  "sv": {
+    "scanian": {
+      "official_name": "Skånska",
+      "name": "Scanian Swedish"
+    },
+    "gothenburg": {
+      "official_name": "Göteborgska",
+      "name": "Gothenburg Swedish"
+    },
+    "standard": {
+      "official_name": "Svenska",
+      "name": "Swedish"
+    },
+    "stockholm": {
+      "official_name": "Stockholmska",
+      "name": "Stockholm Swedish"
+    }
+  },
+  "da": {
+    "standard": {
+      "official_name": "Dansk",
+      "name": "Danish"
+    },
+    "jutlandic": {
+      "official_name": "Jysk",
+      "name": "Jutlandic Danish"
+    },
+    "zealandic": {
+      "official_name": "Sjællandsk",
+      "name": "Zealand Danish"
+    }
+  },
+  "hr": {
+    "standard": {
+      "official_name": "Hrvatski",
+      "name": "Croatian"
+    },
+    "zagreb": {
+      "official_name": "Zagrebački Dijalekt",
+      "name": "Zagreb Croatian"
+    }
+  },
+  "el": {
+    "standard": {
+      "official_name": "Ελληνικά",
+      "name": "Greek"
+    },
+    "macedonian": {
+      "official_name": "Μακεδονικά Ελληνικά",
+      "name": "Macedonian Greek"
+    },
+    "athenian": {
+      "official_name": "Αθηναϊκά",
+      "name": "Athenian Greek"
+    },
+    "aegean": {
+      "official_name": "Αιγαιακά",
+      "name": "Aegean Greek"
+    }
+  }
+}
