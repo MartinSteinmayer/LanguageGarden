@@ -1,0 +1,1086 @@
+{
+  "es": {
+    "mexican": {
+      "official_name": "Español Mexicano",
+      "name": "Mexican Spanish",
+      "speakers": 125000000,
+      "source": "Mexico has 125 million native Spanish speakers (94% of 133M population)"
+    },
+    "peninsular": {
+      "official_name": "Español Peninsular",
+      "name": "Peninsular Spanish",
+      "speakers": 43520000,
+      "source": "Spain has 43.52 million native Spanish speakers"
+    },
+    "argentine": {
+      "official_name": "Español Argentino",
+      "name": "Argentine Spanish",
+      "speakers": 45000000,
+      "source": "Argentina has approximately 45 million Spanish speakers"
+    },
+    "peruvian": {
+      "official_name": "Español Peruano",
+      "name": "Peruvian Spanish",
+      "speakers": 26000000,
+      "source": "Estimated based on Peru's population and Spanish prevalence"
+    },
+    "colombian": {
+      "official_name": "Español Colombiano",
+      "name": "Colombian Spanish",
+      "speakers": 51740000,
+      "source": "Colombia has around 51.74 million native Spanish speakers"
+    },
+    "dominican": {
+      "official_name": "Español Dominicano",
+      "name": "Dominican Spanish",
+      "speakers": 10500000,
+      "source": "Estimated based on Dominican Republic population"
+    },
+    "chilean": {
+      "official_name": "Español Chileno",
+      "name": "Chilean Spanish",
+      "speakers": 18500000,
+      "source": "Estimated based on Chile's population"
+    },
+    "andalusian": {
+      "official_name": "Andaluz",
+      "name": "Andalusian Spanish",
+      "speakers": 8400000,
+      "source": "Estimated based on Andalusia region population"
+    },
+    "cuban": {
+      "official_name": "Español Cubano",
+      "name": "Cuban Spanish",
+      "speakers": 11300000,
+      "source": "Cuba population plus Cuban diaspora"
+    },
+    "puerto rican": {
+      "official_name": "Español Puertorriqueño",
+      "name": "Puerto Rican Spanish",
+      "speakers": 6000000,
+      "source": "Puerto Rico population plus diaspora"
+    },
+    "ecuadorian": {
+      "official_name": "Español Ecuatoriano",
+      "name": "Ecuadorian Spanish",
+      "speakers": 16000000,
+      "source": "Estimated based on Ecuador's population"
+    },
+    "venezuelan": {
+      "official_name": "Español Venezolano",
+      "name": "Venezuelan Spanish",
+      "speakers": 28000000,
+      "source": "Venezuela plus diaspora population"
+    },
+    "canary islands": {
+      "official_name": "Español Canario",
+      "name": "Canary Islands Spanish",
+      "speakers": 2200000,
+      "source": "Canary Islands population"
+    },
+    "galician": {
+      "official_name": "Español Gallego",
+      "name": "Galician Spanish",
+      "speakers": 2700000,
+      "source": "Galicia region population"
+    },
+    "castillian": {
+      "official_name": "Castellano",
+      "name": "Castilian Spanish",
+      "speakers": 6500000,
+      "source": "Castilla regions population"
+    }
+  },
+  "en": {
+    "american": {
+      "official_name": "American English",
+      "name": "American English",
+      "speakers": 230000000,
+      "source": "US has over 230 million native English speakers"
+    },
+    "british": {
+      "official_name": "British English",
+      "name": "British English",
+      "speakers": 60000000,
+      "source": "UK has approximately 60 million native English speakers"
+    },
+    "indian": {
+      "official_name": "Indian English",
+      "name": "Indian English",
+      "speakers": 125000000,
+      "source": "India has 125 million English speakers (mostly second language)"
+    },
+    "australian": {
+      "official_name": "Australian English",
+      "name": "Australian English",
+      "speakers": 17000000,
+      "source": "Australia has around 17 million native English speakers"
+    },
+    "south african": {
+      "official_name": "South African English",
+      "name": "South African English",
+      "speakers": 4800000,
+      "source": "Estimated South African English speakers"
+    },
+    "new zealand": {
+      "official_name": "New Zealand English",
+      "name": "New Zealand English",
+      "speakers": 3800000,
+      "source": "New Zealand English speaking population"
+    },
+    "irish": {
+      "official_name": "Irish English",
+      "name": "Irish English",
+      "speakers": 4500000,
+      "source": "Ireland English speaking population"
+    },
+    "us southern": {
+      "official_name": "Southern American English",
+      "name": "Southern American English",
+      "speakers": 85000000,
+      "source": "Estimated Southern US dialect speakers"
+    },
+    "canadian": {
+      "official_name": "Canadian English",
+      "name": "Canadian English",
+      "speakers": 20000000,
+      "source": "Canada has about 20 million native English speakers"
+    },
+    "nigerian": {
+      "official_name": "Nigerian English",
+      "name": "Nigerian English",
+      "speakers": 79000000,
+      "source": "Nigeria has 79 million English speakers (mix native/non-native)"
+    },
+    "scottish": {
+      "official_name": "Scottish English",
+      "name": "Scottish English",
+      "speakers": 5200000,
+      "source": "Scotland population"
+    },
+    "new york": {
+      "official_name": "New York English",
+      "name": "New York English",
+      "speakers": 20000000,
+      "source": "New York metropolitan area"
+    },
+    "african american": {
+      "official_name": "African American English",
+      "name": "African American English",
+      "speakers": 30000000,
+      "source": "Estimated African American English speakers"
+    },
+    "geordie": {
+      "official_name": "Geordie",
+      "name": "Geordie English",
+      "speakers": 800000,
+      "source": "Newcastle/Tyneside region population"
+    },
+    "singaporean": {
+      "official_name": "Singapore English",
+      "name": "Singaporean English",
+      "speakers": 4200000,
+      "source": "Singapore has over 4.2 million English speakers (80% of population)"
+    },
+    "boston": {
+      "official_name": "Boston English",
+      "name": "Boston English",
+      "speakers": 4500000,
+      "source": "Boston metropolitan area"
+    },
+    "yorkshire": {
+      "official_name": "Yorkshire English",
+      "name": "Yorkshire English",
+      "speakers": 5400000,
+      "source": "Yorkshire region population"
+    },
+    "chicago": {
+      "official_name": "Chicago English",
+      "name": "Chicago English",
+      "speakers": 9500000,
+      "source": "Chicago metropolitan area"
+    },
+    "welsh": {
+      "official_name": "Welsh English",
+      "name": "Welsh English",
+      "speakers": 2900000,
+      "source": "Wales population"
+    },
+    "jamaican": {
+      "official_name": "Jamaican English",
+      "name": "Jamaican English",
+      "speakers": 2800000,
+      "source": "Jamaica population"
+    },
+    "cockney": {
+      "official_name": "Cockney",
+      "name": "Cockney English",
+      "speakers": 500000,
+      "source": "Traditional Cockney speaker estimate"
+    },
+    "african": {
+      "official_name": "African English",
+      "name": "African English",
+      "speakers": 150000000,
+      "source": "Multiple African countries with English"
+    }
+  },
+  "fr": {
+    "parisian": {
+      "official_name": "Français Parisien",
+      "name": "Parisian French",
+      "speakers": 12000000,
+      "source": "Île-de-France region population"
+    },
+    "standard": {
+      "official_name": "Français",
+      "name": "French",
+      "speakers": 67000000,
+      "source": "France metropolitan population"
+    },
+    "swiss": {
+      "official_name": "Français Suisse",
+      "name": "Swiss French",
+      "speakers": 2000000,
+      "source": "French-speaking Switzerland population"
+    },
+    "quebec": {
+      "official_name": "Français Québécois",
+      "name": "Quebec French",
+      "speakers": 6500000,
+      "source": "Quebec has 6.5M who speak predominantly French at home in 2021"
+    },
+    "african": {
+      "official_name": "Français Africain",
+      "name": "African French",
+      "speakers": 120000000,
+      "source": "Multiple Francophone African countries"
+    },
+    "meridional": {
+      "official_name": "Français Méridional",
+      "name": "Southern French",
+      "speakers": 15000000,
+      "source": "Southern France regions"
+    },
+    "belgian": {
+      "official_name": "Français Belge",
+      "name": "Belgian French",
+      "speakers": 4500000,
+      "source": "French-speaking Belgium (Wallonia + Brussels)"
+    },
+    "american": {
+      "official_name": "Français Louisianais",
+      "name": "Louisiana French",
+      "speakers": 150000,
+      "source": "Louisiana French speakers estimate"
+    }
+  },
+  "vi": {
+    "standard": {
+      "official_name": "Tiếng Việt",
+      "name": "Vietnamese",
+      "speakers": 95000000,
+      "source": "Vietnam population plus diaspora"
+    },
+    "southern": {
+      "official_name": "Tiếng Việt Miền Nam",
+      "name": "Southern Vietnamese",
+      "speakers": 35000000,
+      "source": "Southern Vietnam population"
+    },
+    "central": {
+      "official_name": "Tiếng Việt Miền Trung",
+      "name": "Central Vietnamese",
+      "speakers": 15000000,
+      "source": "Central Vietnam population"
+    },
+    "northern": {
+      "official_name": "Tiếng Việt Miền Bắc",
+      "name": "Northern Vietnamese",
+      "speakers": 45000000,
+      "source": "Northern Vietnam population"
+    }
+  },
+  "pt": {
+    "rio de janeiro": {
+      "official_name": "Português Carioca",
+      "name": "Rio de Janeiro Portuguese",
+      "speakers": 13000000,
+      "source": "Rio de Janeiro metropolitan area"
+    },
+    "sao paulo": {
+      "official_name": "Português Paulista",
+      "name": "São Paulo Portuguese",
+      "speakers": 22000000,
+      "source": "São Paulo metropolitan area"
+    },
+    "minas gerais": {
+      "official_name": "Português Mineiro",
+      "name": "Minas Gerais Portuguese",
+      "speakers": 21000000,
+      "source": "Minas Gerais state population"
+    },
+    "interior paulista": {
+      "official_name": "Português do Interior Paulista",
+      "name": "Interior São Paulo Portuguese",
+      "speakers": 23000000,
+      "source": "São Paulo state interior population"
+    },
+    "nordeste": {
+      "official_name": "Português Nordestino",
+      "name": "Northeastern Brazilian Portuguese",
+      "speakers": 57000000,
+      "source": "Brazilian Northeast region population"
+    },
+    "centro-oeste": {
+      "official_name": "Português Centro-Oeste",
+      "name": "Central-West Brazilian Portuguese",
+      "speakers": 16000000,
+      "source": "Central-West Brazil region population"
+    },
+    "brazilian": {
+      "official_name": "Português Brasileiro",
+      "name": "Brazilian Portuguese",
+      "speakers": 215000000,
+      "source": "Brazil population"
+    },
+    "european": {
+      "official_name": "Português Europeu",
+      "name": "European Portuguese",
+      "speakers": 10500000,
+      "source": "Portugal population"
+    },
+    "african": {
+      "official_name": "Português Africano",
+      "name": "African Portuguese",
+      "speakers": 35000000,
+      "source": "Portuguese-speaking African countries (PALOP)"
+    }
+  },
+  "ko": {
+    "seoul": {
+      "official_name": "서울말",
+      "name": "Seoul Korean",
+      "speakers": 25000000,
+      "source": "Seoul metropolitan area population"
+    },
+    "jeolla": {
+      "official_name": "전라도 방언",
+      "name": "Jeolla Korean",
+      "speakers": 3500000,
+      "source": "Jeolla provinces population"
+    },
+    "standard": {
+      "official_name": "한국어",
+      "name": "Korean",
+      "speakers": 77000000,
+      "source": "South Korea + North Korea combined population"
+    },
+    "hamgyong": {
+      "official_name": "함경도 방언",
+      "name": "Hamgyong Korean",
+      "speakers": 2500000,
+      "source": "Hamgyong provinces population (historical)"
+    },
+    "gyeongsang": {
+      "official_name": "경상도 방언",
+      "name": "Gyeongsang Korean",
+      "speakers": 13000000,
+      "source": "Gyeongsang provinces population"
+    },
+    "chungcheong": {
+      "official_name": "충청도 방언",
+      "name": "Chungcheong Korean",
+      "speakers": 5500000,
+      "source": "Chungcheong provinces population"
+    }
+  },
+  "hi": {
+    "standard": {
+      "official_name": "हिन्दी",
+      "name": "Hindi",
+      "speakers": 600000000,
+      "source": "Hindi native and second language speakers in India"
+    },
+    "marathi": {
+      "official_name": "मराठी हिन्दी",
+      "name": "Marathi-influenced Hindi",
+      "speakers": 83000000,
+      "source": "Maharashtra Hindi speakers"
+    },
+    "bhojpuri": {
+      "official_name": "भोजपुरी हिन्दी",
+      "name": "Bhojpuri Hindi",
+      "speakers": 52000000,
+      "source": "Bhojpuri speaking regions"
+    },
+    "gujarati": {
+      "official_name": "गुजराती हिन्दी",
+      "name": "Gujarati Hindi",
+      "speakers": 56000000,
+      "source": "Gujarat Hindi speakers"
+    },
+    "bengali": {
+      "official_name": "बंगाली हिन्दी",
+      "name": "Bengali Hindi",
+      "speakers": 97000000,
+      "source": "West Bengal Hindi speakers"
+    },
+    "tamil": {
+      "official_name": "तमिल हिन्दी",
+      "name": "Tamil Hindi",
+      "speakers": 77000000,
+      "source": "Tamil Nadu Hindi speakers"
+    },
+    "bihari": {
+      "official_name": "बिहारी हिन्दी",
+      "name": "Bihari Hindi",
+      "speakers": 104000000,
+      "source": "Bihar Hindi speakers"
+    },
+    "punjabi": {
+      "official_name": "पंजाबी हिन्दी",
+      "name": "Punjabi Hindi",
+      "speakers": 33000000,
+      "source": "Punjab Hindi speakers"
+    },
+    "haryanvi": {
+      "official_name": "हरियाणवी हिन्दी",
+      "name": "Haryanvi Hindi",
+      "speakers": 25000000,
+      "source": "Haryana Hindi speakers"
+    }
+  },
+  "ja": {
+    "kanto": {
+      "official_name": "関東弁",
+      "name": "Kanto Japanese",
+      "speakers": 43000000,
+      "source": "Kanto region population (includes Tokyo)"
+    },
+    "kansai": {
+      "official_name": "関西弁",
+      "name": "Kansai Japanese",
+      "speakers": 22000000,
+      "source": "Kansai region population"
+    },
+    "standard": {
+      "official_name": "日本語",
+      "name": "Japanese",
+      "speakers": 125000000,
+      "source": "Japan population"
+    }
+  },
+  "sk": {
+    "central": {
+      "official_name": "Stredoslovenčina",
+      "name": "Central Slovak",
+      "speakers": 2000000,
+      "source": "Central Slovakia region population"
+    },
+    "standard": {
+      "official_name": "Slovenčina",
+      "name": "Slovak",
+      "speakers": 5400000,
+      "source": "Slovakia population speaking Slovak"
+    }
+  },
+  "ru": {
+    "moscow": {
+      "official_name": "Московский диалект",
+      "name": "Moscow Russian",
+      "speakers": 17000000,
+      "source": "Moscow metropolitan area"
+    },
+    "standard": {
+      "official_name": "Русский язык",
+      "name": "Russian",
+      "speakers": 154000000,
+      "source": "Russia native Russian speakers"
+    },
+    "saint petersburg": {
+      "official_name": "Петербургский диалект",
+      "name": "Saint Petersburg Russian",
+      "speakers": 5400000,
+      "source": "St. Petersburg metropolitan area"
+    }
+  },
+  "de": {
+    "standard": {
+      "official_name": "Hochdeutsch",
+      "name": "German",
+      "speakers": 76000000,
+      "source": "Germany native German speakers"
+    },
+    "bavarian": {
+      "official_name": "Boarisch",
+      "name": "Bavarian German",
+      "speakers": 14000000,
+      "source": "Bavaria and Austria Bavarian speakers"
+    },
+    "rhine franconian": {
+      "official_name": "Rheinfränkisch",
+      "name": "Rhine Franconian German",
+      "speakers": 3500000,
+      "source": "Rhine-Franconian dialect area"
+    },
+    "berlinerisch": {
+      "official_name": "Berlinerisch",
+      "name": "Berlin German",
+      "speakers": 4000000,
+      "source": "Berlin metropolitan area"
+    },
+    "saxon": {
+      "official_name": "Sächsisch",
+      "name": "Saxon German",
+      "speakers": 4000000,
+      "source": "Saxony region population"
+    },
+    "german": {
+      "official_name": "Deutsch",
+      "name": "German",
+      "speakers": 95000000,
+      "source": "Total German native speakers (Germany + Austria + Switzerland)"
+    },
+    "american german": {
+      "official_name": "Amerikanisches Deutsch",
+      "name": "American German",
+      "speakers": 400000,
+      "source": "German-American heritage speakers estimate"
+    }
+  },
+  "fil": {
+    "standard": {
+      "official_name": "Filipino",
+      "name": "Filipino",
+      "speakers": 45000000,
+      "source": "Tagalog/Filipino speakers including L2 speakers - 28M native + 17M L2"
+    },
+    "cebuano": {
+      "official_name": "Cebuano",
+      "name": "Cebuano Filipino",
+      "speakers": 15900000,
+      "source": "15.9 million Cebuano speakers (2020 study), 6.5% of households"
+    },
+    "ilocano": {
+      "official_name": "Ilokano",
+      "name": "Ilocano Filipino",
+      "speakers": 7700000,
+      "source": "Over 7.7 million native Ilocano speakers, 9.31% of Philippines"
+    }
+  },
+  "id": {
+    "standard": {
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian",
+      "speakers": 280000000,
+      "source": "Over 97% of Indonesia's 284M population are fluent in Indonesian"
+    },
+    "javanese": {
+      "official_name": "Bahasa Indonesia Jawa",
+      "name": "Javanese Indonesian",
+      "speakers": 85000000,
+      "source": "Javanese has 85 million native speakers, most populous Austronesian language"
+    },
+    "sundanese": {
+      "official_name": "Bahasa Indonesia Sunda",
+      "name": "Sundanese Indonesian",
+      "speakers": 40000000,
+      "source": "Sundanese speakers primarily in West Java (15.5% of Indonesia)"
+    },
+    "id-standard": {
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian",
+      "speakers": 23000000,
+      "source": "23 million native Indonesian speakers (Ethnologue)"
+    },
+    "balinese": {
+      "official_name": "Bahasa Indonesia Bali",
+      "name": "Balinese Indonesian",
+      "speakers": 4500000,
+      "source": "Balinese speakers (1.67% of Indonesia population)"
+    }
+  },
+  "it": {
+    "standard": {
+      "official_name": "Italiano",
+      "name": "Italian",
+      "speakers": 65000000,
+      "source": "Italy population speaking standard Italian"
+    },
+    "romanesco": {
+      "official_name": "Romanesco",
+      "name": "Roman Italian",
+      "speakers": 4000000,
+      "source": "Rome metropolitan area"
+    },
+    "tuscan": {
+      "official_name": "Toscano",
+      "name": "Tuscan Italian",
+      "speakers": 3700000,
+      "source": "Tuscany region population"
+    },
+    "milanese": {
+      "official_name": "Milanese",
+      "name": "Milanese Italian",
+      "speakers": 3200000,
+      "source": "Milan metropolitan area"
+    },
+    "venetian": {
+      "official_name": "Veneto",
+      "name": "Venetian Italian",
+      "speakers": 4900000,
+      "source": "Veneto region population"
+    },
+    "sicilian": {
+      "official_name": "Siciliano",
+      "name": "Sicilian Italian",
+      "speakers": 5000000,
+      "source": "Sicily population"
+    },
+    "florentine": {
+      "official_name": "Fiorentino",
+      "name": "Florentine Italian",
+      "speakers": 380000,
+      "source": "Florence metropolitan area"
+    },
+    "neapolitan": {
+      "official_name": "Napoletano",
+      "name": "Neapolitan Italian",
+      "speakers": 3100000,
+      "source": "Naples metropolitan area"
+    }
+  },
+  "pl": {
+    "standard": {
+      "official_name": "Polski",
+      "name": "Polish",
+      "speakers": 39700000,
+      "source": "Poland has over 39.7 million Polish native speakers (2024)"
+    },
+    "kashubian": {
+      "official_name": "Kaszubski",
+      "name": "Kashubian Polish",
+      "speakers": 87600,
+      "source": "87,600 people use mainly Kashubian at home (2021 census)"
+    },
+    "mazovian": {
+      "official_name": "Mazowiecki",
+      "name": "Mazovian Polish",
+      "speakers": 5500000,
+      "source": "Estimated speakers in Mazovia region"
+    }
+  },
+  "ar": {
+    "saudi": {
+      "official_name": "العربية السعودية",
+      "name": "Saudi Arabic",
+      "speakers": 35000000,
+      "source": "Saudi Arabia population"
+    },
+    "egyptian": {
+      "official_name": "العربية المصرية",
+      "name": "Egyptian Arabic",
+      "speakers": 104000000,
+      "source": "Egypt population"
+    },
+    "modern standard": {
+      "official_name": "العربية",
+      "name": "Modern Arabic",
+      "speakers": 422000000,
+      "source": "Total Arabic speakers worldwide"
+    },
+    "algerian": {
+      "official_name": "العربية الجزائرية",
+      "name": "Algerian Arabic",
+      "speakers": 44000000,
+      "source": "Algeria population"
+    },
+    "palestinian": {
+      "official_name": "العربية الفلسطينية",
+      "name": "Palestinian Arabic",
+      "speakers": 13000000,
+      "source": "Palestinian population worldwide"
+    },
+    "moroccan": {
+      "official_name": "العربية المغربية",
+      "name": "Moroccan Arabic",
+      "speakers": 37000000,
+      "source": "Morocco population"
+    },
+    "jordanian": {
+      "official_name": "العربية الأردنية",
+      "name": "Jordanian Arabic",
+      "speakers": 10000000,
+      "source": "Jordan population"
+    },
+    "gulf": {
+      "official_name": "العربية الخليجية",
+      "name": "Gulf Arabic",
+      "speakers": 10000000,
+      "source": "Gulf states combined"
+    },
+    "kuwaiti": {
+      "official_name": "العربية الكويتية",
+      "name": "Kuwaiti Arabic",
+      "speakers": 4500000,
+      "source": "Kuwait population"
+    },
+    "levantine": {
+      "official_name": "العربية الشامية",
+      "name": "Levantine Arabic",
+      "speakers": 30000000,
+      "source": "Syria, Lebanon, Palestine, Jordan combined"
+    }
+  },
+  "nl": {
+    "standard": {
+      "official_name": "Nederlands",
+      "name": "Dutch",
+      "speakers": 17000000,
+      "source": "Netherlands has approximately 17 million Dutch speakers"
+    },
+    "flemish": {
+      "official_name": "Vlaams",
+      "name": "Flemish Dutch",
+      "speakers": 6500000,
+      "source": "6.5 million Dutch speakers in Belgium (60% of population)"
+    },
+    "limburgish": {
+      "official_name": "Limburgs",
+      "name": "Limburgish Dutch",
+      "speakers": 1300000,
+      "source": "Estimated Limburgish speakers in Netherlands and Belgium"
+    }
+  },
+  "tr": {
+    "standard": {
+      "official_name": "Türkiye Türkçesi",
+      "name": "Turkish",
+      "speakers": 82000000,
+      "source": "Turkey population"
+    },
+    "istanbul": {
+      "official_name": "İstanbul Türkçesi",
+      "name": "Istanbul Turkish",
+      "speakers": 16000000,
+      "source": "Istanbul metropolitan area"
+    },
+    "aegean": {
+      "official_name": "Ege Türkçesi",
+      "name": "Aegean Turkish",
+      "speakers": 10000000,
+      "source": "Aegean region population"
+    },
+    "eastern": {
+      "official_name": "Doğu Türkçesi",
+      "name": "Eastern Turkish",
+      "speakers": 8000000,
+      "source": "Eastern Turkey population"
+    },
+    "central": {
+      "official_name": "İç Anadolu Türkçesi",
+      "name": "Central Anatolian Turkish",
+      "speakers": 12000000,
+      "source": "Central Anatolia region"
+    },
+    "anatolian": {
+      "official_name": "Anadolu Türkçesi",
+      "name": "Anatolian Turkish",
+      "speakers": 50000000,
+      "source": "Central Anatolia population"
+    },
+    "american": {
+      "official_name": "Amerikan Türkçesi",
+      "name": "American Turkish",
+      "speakers": 500000,
+      "source": "Turkish diaspora in US"
+    },
+    "british": {
+      "official_name": "İngiliz Türkçesi",
+      "name": "British Turkish",
+      "speakers": 400000,
+      "source": "Turkish diaspora in UK"
+    }
+  },
+  "cs": {
+    "standard": {
+      "official_name": "Čeština",
+      "name": "Czech",
+      "speakers": 10700000,
+      "source": "Czech Republic plus diaspora Czech speakers"
+    },
+    "moravian": {
+      "official_name": "Moravština",
+      "name": "Moravian Czech",
+      "speakers": 3200000,
+      "source": "Moravia region population"
+    },
+    "prague": {
+      "official_name": "Pražština",
+      "name": "Prague Czech",
+      "speakers": 2700000,
+      "source": "Prague metropolitan area population"
+    }
+  },
+  "zh": {
+    "taiwan mandarin": {
+      "official_name": "臺灣國語",
+      "name": "Taiwan Mandarin",
+      "speakers": 19500000,
+      "source": "83.5% of Taiwan's 23.4M population speaks Taiwanese Mandarin"
+    },
+    "beijing mandarin": {
+      "official_name": "北京官話",
+      "name": "Beijing Mandarin",
+      "speakers": 22000000,
+      "source": "Beijing metropolitan area population"
+    },
+    "hong kong cantonese": {
+      "official_name": "香港粵語",
+      "name": "Hong Kong Cantonese",
+      "speakers": 7500000,
+      "source": "Hong Kong population"
+    },
+    "standard": {
+      "official_name": "標準中文",
+      "name": "Chinese",
+      "speakers": 955000000,
+      "source": "Mainland China has 955M Mandarin speakers as first language"
+    },
+    "singapore mandarin": {
+      "official_name": "新加坡華語",
+      "name": "Singapore Mandarin",
+      "speakers": 2800000,
+      "source": "About half of Singapore's population speaks Mandarin"
+    }
+  },
+  "ro": {
+    "moldovan": {
+      "official_name": "Română Moldovenească",
+      "name": "Moldovan Romanian",
+      "speakers": 2600000,
+      "source": "Moldova Romanian speakers"
+    },
+    "standard": {
+      "official_name": "Română",
+      "name": "Romanian",
+      "speakers": 24000000,
+      "source": "Romania plus Moldova and diaspora Romanian speakers"
+    },
+    "oltenia": {
+      "official_name": "Olteneană",
+      "name": "Oltenia Romanian",
+      "speakers": 2100000,
+      "source": "Oltenia region population"
+    },
+    "transylvanian": {
+      "official_name": "Ardeleană",
+      "name": "Transylvanian Romanian",
+      "speakers": 7000000,
+      "source": "Transylvania region population"
+    }
+  },
+  "ms": {
+    "malaysian": {
+      "official_name": "Bahasa Malaysia",
+      "name": "Malaysian Malay",
+      "speakers": 33500000,
+      "source": "Malaysia population speaking Malay"
+    }
+  },
+  "uk": {
+    "standard": {
+      "official_name": "Українська мова",
+      "name": "Ukrainian",
+      "speakers": 41000000,
+      "source": "Ukraine native Ukrainian speakers"
+    },
+    "kiev": {
+      "official_name": "Київський діалект",
+      "name": "Kiev Ukrainian",
+      "speakers": 3500000,
+      "source": "Kiev metropolitan area population"
+    }
+  },
+  "ta": {
+    "chennai": {
+      "official_name": "சென்னை தமிழ்",
+      "name": "Chennai Tamil",
+      "speakers": 10000000,
+      "source": "Chennai metropolitan area Tamil speakers"
+    },
+    "standard": {
+      "official_name": "தமிழ்",
+      "name": "Tamil",
+      "speakers": 78000000,
+      "source": "Tamil speakers worldwide including India and Sri Lanka"
+    },
+    "coimbatore": {
+      "official_name": "கோயம்புத்தூர் தமிழ்",
+      "name": "Coimbatore Tamil",
+      "speakers": 3500000,
+      "source": "Coimbatore region Tamil speakers"
+    }
+  },
+  "bg": {
+    "sofia": {
+      "official_name": "Софийски диалект",
+      "name": "Sofia Bulgarian",
+      "speakers": 1400000,
+      "source": "Sofia metropolitan area population"
+    },
+    "standard": {
+      "official_name": "Български език",
+      "name": "Bulgarian",
+      "speakers": 7000000,
+      "source": "Bulgaria population speaking Bulgarian"
+    }
+  },
+  "hu": {
+    "standard": {
+      "official_name": "Magyar",
+      "name": "Hungarian",
+      "speakers": 13000000,
+      "source": "Hungary plus diaspora Hungarian speakers"
+    },
+    "budapest": {
+      "official_name": "Budapesti Magyar",
+      "name": "Budapest Hungarian",
+      "speakers": 3300000,
+      "source": "Budapest metropolitan area population"
+    }
+  },
+  "no": {
+    "oslo": {
+      "official_name": "Oslo Norsk",
+      "name": "Oslo Norwegian",
+      "speakers": 1700000,
+      "source": "Oslo metropolitan area population"
+    },
+    "bergen": {
+      "official_name": "Bergensk",
+      "name": "Bergen Norwegian",
+      "speakers": 420000,
+      "source": "Bergen metropolitan area population"
+    },
+    "standard": {
+      "official_name": "Norsk",
+      "name": "Norwegian",
+      "speakers": 5400000,
+      "source": "Norway population speaking Norwegian"
+    }
+  },
+  "fi": {
+    "turku": {
+      "official_name": "Turun Suomi",
+      "name": "Turku Finnish",
+      "speakers": 330000,
+      "source": "Turku metropolitan area population"
+    },
+    "helsinki": {
+      "official_name": "Helsingin Suomi",
+      "name": "Helsinki Finnish",
+      "speakers": 1500000,
+      "source": "Helsinki metropolitan area population"
+    },
+    "standard": {
+      "official_name": "Suomi",
+      "name": "Finnish",
+      "speakers": 5500000,
+      "source": "Finland population speaking Finnish"
+    },
+    "western": {
+      "official_name": "Länsisuomi",
+      "name": "Western Finnish",
+      "speakers": 2000000,
+      "source": "Western Finland region population"
+    }
+  },
+  "sv": {
+    "scanian": {
+      "official_name": "Skånska",
+      "name": "Scanian Swedish",
+      "speakers": 1400000,
+      "source": "Scania region population"
+    },
+    "gothenburg": {
+      "official_name": "Göteborgska",
+      "name": "Gothenburg Swedish",
+      "speakers": 1000000,
+      "source": "Gothenburg metropolitan area population"
+    },
+    "standard": {
+      "official_name": "Svenska",
+      "name": "Swedish",
+      "speakers": 10500000,
+      "source": "Sweden plus Finland Swedish speakers"
+    },
+    "stockholm": {
+      "official_name": "Stockholmska",
+      "name": "Stockholm Swedish",
+      "speakers": 2400000,
+      "source": "Stockholm metropolitan area population"
+    }
+  },
+  "da": {
+    "standard": {
+      "official_name": "Dansk",
+      "name": "Danish",
+      "speakers": 6000000,
+      "source": "Denmark plus Greenland/Faroe Islands Danish speakers"
+    },
+    "jutlandic": {
+      "official_name": "Jysk",
+      "name": "Jutlandic Danish",
+      "speakers": 2800000,
+      "source": "Jutland peninsula population"
+    },
+    "zealandic": {
+      "official_name": "Sjællandsk",
+      "name": "Zealand Danish",
+      "speakers": 2500000,
+      "source": "Zealand region population"
+    }
+  },
+  "hr": {
+    "standard": {
+      "official_name": "Hrvatski",
+      "name": "Croatian",
+      "speakers": 5600000,
+      "source": "Croatia plus diaspora Croatian speakers"
+    },
+    "zagreb": {
+      "official_name": "Zagrebački Dijalekt",
+      "name": "Zagreb Croatian",
+      "speakers": 1200000,
+      "source": "Zagreb metropolitan area population"
+    }
+  },
+  "el": {
+    "standard": {
+      "official_name": "Ελληνικά",
+      "name": "Greek",
+      "speakers": 13400000,
+      "source": "Greece plus Cyprus and diaspora Greek speakers"
+    },
+    "macedonian": {
+      "official_name": "Μακεδονικά Ελληνικά",
+      "name": "Macedonian Greek",
+      "speakers": 2400000,
+      "source": "Northern Greece Macedonian region population"
+    },
+    "athenian": {
+      "official_name": "Αθηναϊκά",
+      "name": "Athenian Greek",
+      "speakers": 3800000,
+      "source": "Athens metropolitan area population"
+    },
+    "aegean": {
+      "official_name": "Αιγαιακά",
+      "name": "Aegean Greek",
+      "speakers": 500000,
+      "source": "Aegean islands population"
+    }
+  }
+}
