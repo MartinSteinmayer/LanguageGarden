@@ -72,7 +72,10 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
     <Card className="w-80 shadow-lg border-0 bg-white/95 backdrop-blur-sm animate-in slide-in-from-right-5 duration-300">
       <CardHeader className="pb-3">
         <div className="flex items-center justify-between">
-          <CardTitle className="text-xl font-bold">{currentLanguage.name}</CardTitle>
+            <div className="flex flex-col">
+                <CardTitle className="text-xl font-bold">{currentLanguage.name}</CardTitle>
+                <p className="text-xs text-gray-700 font-semibold w-fit">{currentLanguage.officialName}</p>
+            </div>
           <button
             onClick={onClose}
             className="text-gray-400 hover:text-gray-600 text-xl font-semibold"

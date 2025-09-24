@@ -110,7 +110,8 @@ const MapboxExample = () => {
           const status = 'voice';
           
           const languageInfo = {
-            name: `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
+            name: dialect.name || `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
+            officialName: dialect.official_name,
             iso6393: langCode,
             dialect: dialectKey,
             status: status,

@@ -5,6 +5,8 @@
         "lat": "23.6345",
         "long": "-102.5528"
       },
+      "official_name": "Español Mexicano",
+      "name": "Mexican Spanish",
       "voice_ids": [
         "UrKtSFzzmJW3NBpFdBsS",
         "CQLNn2VcdhTOSAfK3xmF",
@@ -72,6 +74,8 @@
         "lat": "40.4637",
         "long": "-3.7492"
       },
+      "official_name": "Español Peninsular",
+      "name": "Peninsular Spanish",
       "voice_ids": [
         "LR6WU3P6sHdPMKrBbLsS",
         "8HzSA5Qg18ahiIQuvLhv",
@@ -238,6 +242,8 @@
         "lat": "-38.4161",
         "long": "-63.6167"
       },
+      "official_name": "Español Argentino",
+      "name": "Argentine Spanish",
       "voice_ids": [
         "r3lotmx3BZETVvcKm6R6",
         "0bu1GUsOfNJYyXbmSTxD",
@@ -276,6 +282,8 @@
         "lat": "-9.1900",
         "long": "-75.0152"
       },
+      "official_name": "Español Peruano",
+      "name": "Peruvian Spanish",
       "voice_ids": [
         "buK0D4pdD2B4JPTMm848",
         "I9uZPOVoQkQEhHPStmJz",
@@ -297,6 +305,8 @@
         "lat": "4.5709",
         "long": "-74.2973"
       },
+      "official_name": "Español Colombiano",
+      "name": "Colombian Spanish",
       "voice_ids": [
         "QpDQJR3frbDwOhTIo8nW",
         "d2Cxiyh5zS7CQNTlRrdT",
@@ -336,6 +346,8 @@
         "lat": "18.7357",
         "long": "-70.1627"
       },
+      "official_name": "Español Dominicano",
+      "name": "Dominican Spanish",
       "voice_ids": [
         "IeiHyO4UwOOUdKQ0HSDK",
         "2vyVHGyPYK7eCnfdVvk9",
@@ -347,6 +359,8 @@
         "lat": "-35.6751",
         "long": "-71.5430"
       },
+      "official_name": "Español Chileno",
+      "name": "Chilean Spanish",
       "voice_ids": [
         "6ZDFxWiAykFxCoe683WK",
         "OFrdGXwCzoE56a9sp1fk",
@@ -364,6 +378,8 @@
         "lat": "37.3891",
         "long": "-5.9845"
       },
+      "official_name": "Andaluz",
+      "name": "Andalusian Spanish",
       "voice_ids": [
         "2VUqK4PEdMj16L6xTN4J",
         "SbxCN6LQhBInYaeKjhhW",
@@ -377,6 +393,8 @@
         "lat": "21.5218",
         "long": "-77.7812"
       },
+      "official_name": "Español Cubano",
+      "name": "Cuban Spanish",
       "voice_ids": [
         "1hB7zCGWj11SeMuBseeI",
         "BjEROETieA12i9gT25f7"
@@ -387,6 +405,8 @@
         "lat": "18.2208",
         "long": "-66.5901"
       },
+      "official_name": "Español Puertorriqueño",
+      "name": "Puerto Rican Spanish",
       "voice_ids": [
         "K1OQ9JIf2aW3auYuVMF5"
       ]
@@ -396,6 +416,8 @@
         "lat": "-1.8312",
         "long": "-78.1834"
       },
+      "official_name": "Español Ecuatoriano",
+      "name": "Ecuadorian Spanish",
       "voice_ids": [
         "gzUGUDCUQFhwNLVHw3ER",
         "DZksvRcjbVkbnIwYVMEQ"
@@ -406,6 +428,8 @@
         "lat": "6.4238",
         "long": "-66.5897"
       },
+      "official_name": "Español Venezolano",
+      "name": "Venezuelan Spanish",
       "voice_ids": [
         "SIpDYvpsUzCaJ0WmnSA8",
         "n6b7167RXAtrYaNTTD31",
@@ -418,6 +442,8 @@
         "lat": "28.2916",
         "long": "-16.6291"
       },
+      "official_name": "Español Canario",
+      "name": "Canary Islands Spanish",
       "voice_ids": [
         "GdP4WGpargn0HxK4FwVg",
         "QjNmDWTOplw88qfcVfTn"
@@ -428,6 +454,8 @@
         "lat": "42.5751",
         "long": "-8.1339"
       },
+      "official_name": "Español Gallego",
+      "name": "Galician Spanish",
       "voice_ids": [
         "Syqs6p4s6hxhfAyhhlbS"
       ]
@@ -437,6 +465,8 @@
         "lat": "41.8519",
         "long": "-4.7245"
       },
+      "official_name": "Castellano",
+      "name": "Castilian Spanish",
       "voice_ids": [
         "PBaBRSRTvwmnK1PAq9e0"
       ]
@@ -448,6 +478,8 @@
         "lat": "39.8283",
         "long": "-98.5795"
       },
+      "official_name": "American English",
+      "name": "American English",
       "voice_ids": [
         "XR9GguuIygACVtitt58W",
         "Zx2Te8tHLMMfLtFPv3Z3",
@@ -2552,6 +2584,8 @@
         "lat": "55.3781",
         "long": "-3.4360"
       },
+      "official_name": "British English",
+      "name": "British English",
       "voice_ids": [
         "VYkr1IQzbDVb2GJoYAIl",
         "xbOj8ppmiYz8dqX2I2ri",
@@ -3134,6 +3168,8 @@
         "lat": "20.5937",
         "long": "78.9629"
       },
+      "official_name": "Indian English",
+      "name": "Indian English",
       "voice_ids": [
         "xCN9aWv7lchapggKrrBC",
         "KB7pif0QgSfqcDSiT9aq",
@@ -3458,6 +3494,8 @@
         "lat": "-25.2744",
         "long": "133.7751"
       },
+      "official_name": "Australian English",
+      "name": "Australian English",
       "voice_ids": [
         "YkKBPKM1ltIn03Zfnis2",
         "snyKKuaGYk1VUEh42zbW",
@@ -3618,80 +3656,13 @@
         "cjwXchLLF0a3P7QhvU7K"
       ]
     },
-    "us midwest": {
-      "coordinates": {
-        "lat": "41.8781",
-        "long": "-87.6298"
-      },
-      "voice_ids": [
-        "icPTk9OyVYtATYLYUhF2",
-        "qw7umalaxtwARKLRsRVe",
-        "ejia7iiH0hTDlHNBXmFM",
-        "VeCVR24o7g2y1IxLJzZs",
-        "ddkaHps52S0dEkBv58GD",
-        "3cb1kceDIYlJwnoZWqaw",
-        "akUFCCWkjm1xGZbLWhMZ",
-        "EK4IAYGwCrQUchP03Yjp",
-        "Owr3wktNf34NKcu7Gcmz",
-        "okHxMu8VqPJSDzvWl7jh",
-        "DMMiU1v90cukq8CEHjqP",
-        "f7vvnP66omATFbJFopnZ",
-        "YmP1fAL2C7KGze05u879",
-        "6Xb9dRSSm1t1OLWvzT1T",
-        "H2CgnIux8C0XLWQ97uPA",
-        "hyqpbxvsDwE0hQA0TcGB",
-        "XdxYCbvu4pF876vgEQRe",
-        "wgKk07zoxxDRH18KKNOf"
-      ]
-    },
-    "russian": {
-      "coordinates": {
-        "lat": "61.5240",
-        "long": "105.3188"
-      },
-      "voice_ids": [
-        "5TwDP51l99ppAUaY6pdC",
-        "Xh5OictnmgRO4dff7pLm",
-        "gRUaWJngCuSre3Tohuso",
-        "5UMgKj4onct4FrNhrI4c",
-        "8HSRAwEWAAa6wv9cdi5S",
-        "XjdmlV0OFXfXE6Mg2Sb7",
-        "EAHourGM2PqzHHl0Ywjp",
-        "jmuki9rdPecaWw4g7Exe",
-        "a98zlaAGWmORSQiFT1ps",
-        "YO5U6V757mqh3xnbe4XE",
-        "9xDZ0uWK4h0mYOKCXBnw",
-        "S8uKNSkW3pTOTAIAXKJR",
-        "rRPLnoWWsKxLg1wPTcjx",
-        "3faLw6tqzw5w1UZMFTgL",
-        "lrAMYdevetahiZbiSohB",
-        "froLDspwCiytX4g1Pobg",
-        "GCPLhb1XrVwcoKUJYcvz"
-      ]
-    },
-    "us northeast": {
-      "coordinates": {
-        "lat": "42.3601",
-        "long": "-71.0589"
-      },
-      "voice_ids": [
-        "Ul66D5Xdlp0sRU5Hqs8S",
-        "ha75gudyD2K4lsKbDFj7",
-        "iCPaWKsfvR3aiSeCa4iL",
-        "CvsQQiWsGXyiXqjJUDV3",
-        "XLGOsWMj26dAyK7wHEfW",
-        "hYjzO0gkYN6FIXTHyEpi",
-        "GttLHvAanVsdyJN0LBjc",
-        "6HphnnBTY3ihDaKWux6H",
-        "c51VqUTljshmftbhJEGm",
-        "DTKMou8ccj1ZaWGBiotd"
-      ]
-    },
     "south african": {
       "coordinates": {
         "lat": "-30.5595",
         "long": "22.9375"
       },
+      "official_name": "South African English",
+      "name": "South African English",
       "voice_ids": [
         "tFbs0XxZ7TP2yWyrfBty",
         "0z8S749Xe6jLCD34QXl1",
@@ -3730,141 +3701,13 @@
         "gsm4lUH9bnZ3pjR1Pw7w"
       ]
     },
-    "arabic": {
-      "coordinates": {
-        "lat": "23.8859",
-        "long": "45.0792"
-      },
-      "voice_ids": [
-        "Os2frcqCuUz8b9F93RuI",
-        "uJgAp2HcS4msGNrkrmbb",
-        "GTQ4ImqrRljZAa9VJX6B",
-        "h81gfyGWrUlTXXbhWE80",
-        "RzNYiYBiH7YrpC9QKXyc",
-        "tlz2I4zMDRDFMFFHKQv6",
-        "B89ZNbQSjyFiBSY6m1uG",
-        "xYWUvKNK6zWCgsdAK7Wi",
-        "8KVwlbLHGvmAEpy5b8PM",
-        "aCChyB4P5WEomwRsOKRh",
-        "EzoxNTKsg4JNN7wxAgut",
-        "tlETan7Okc4pzjD0z62P",
-        "uQPOhlzA94sogqmhGLCI"
-      ]
-    },
-    "romanian": {
-      "coordinates": {
-        "lat": "45.9432",
-        "long": "24.9668"
-      },
-      "voice_ids": [
-        "AEPS4amQpAYS3CULyGRe",
-        "8WRfTpaUoqZSfTerOXzI",
-        "14iWUINMs4HQDhlTdS7G",
-        "54YYBuRuAG6KJooiOhFI"
-      ]
-    },
-    "filipino": {
-      "coordinates": {
-        "lat": "12.8797",
-        "long": "121.7740"
-      },
-      "voice_ids": [
-        "Ut5AWJgla3AWMsiT7lQF",
-        "BloqV8o05jrfb4aqLGfZ",
-        "tQJBzhqqVBFYUh4M7Uxp",
-        "neuKegR4bFeXZWzEAgYg",
-        "bY54gWrN4O4G9QOFtXwl",
-        "PnTU6nhvGLMS2NnGWPkh",
-        "iyZZ2rpPw5XY3ZQltAWV",
-        "wNl2YBRc8v5uIcq6gOxd",
-        "4iFyyEDsYTr0ahgC6e0h",
-        "xPxcbMow6TxJNnXUmibO",
-        "2WM58lWaTXuuBkN1puHx",
-        "T2OtqAWGDq4sh6HX3MwH",
-        "ZTLBC2emTrxYTdCF99Kb",
-        "XeomjLZoU5rr4yNIg16w",
-        "i3jmyqAiMz1kG1rQEOGK",
-        "iW5UKo8wEfpqHg3Xw3i3",
-        "Ye1MpqqwU4fY5iXl4rqN",
-        "eL3uTiepNoZu4JBCGvwX",
-        "JJQDkHrp6uKU5Vk0WKhY",
-        "koz1BlPszSyECRwl4ZjV",
-        "TOHdGJrknwd4eal0jqpE",
-        "1iVhBJHHyzlerh1JY0FV",
-        "62H95ManZqyJcuidlnvX",
-        "H1CuHzAGVrv9ODHDEOZe",
-        "iSwrnpET4L5IyyN7X7UT",
-        "6cSqcNIahorJPJv3MkCM",
-        "600O7iEunh5E45KC2IWV",
-        "zRxHLmHsnVpb1uUG38lk",
-        "HwhObBWrAsC1oRu6cc4t",
-        "M9umV91aYFeyuewSREwA",
-        "Lz5FBDWJGhQJHRkgh8DE",
-        "cYFZSlrM2dt21SlCIokN",
-        "jSc0fl7ySVBKbBreRrYP",
-        "EVHfImLeQUjQG40OZl3q",
-        "J8f1H4cMZ1c0AfhHGMag",
-        "X69aMGx8u7YHtScNLx9R",
-        "sfEqHIAPrP82grzla9Ji",
-        "Z7waMujh537KStREwfTf",
-        "yaEGPh9UGwCWQSEACoBP",
-        "UPeEHhD60Z9Djsbwmmy4"
-      ]
-    },
-    "spanish": {
-      "coordinates": {
-        "lat": "40.4637",
-        "long": "-3.7492"
-      },
-      "voice_ids": [
-        "CAkdBZRAuEhffe8OL5xD",
-        "n3yMmKmTfVCEM13Kk2lp",
-        "7iZ1bFUofSK6GtL04cm0",
-        "5sPGxVw5vqj7a08c5Xbw",
-        "t0PQLsA3czeVWIL7A0xi",
-        "xJgWxOHOKbdv0ahpsrvi",
-        "IP2syKL31S2JthzSSfZH",
-        "MAW4WB2jdE9QHMGbecwe",
-        "WLjZnm4PkNmYtNCyiCq8",
-        "lOEtO6uKXvOvJeMZaY4u",
-        "5GR0JTHRVmv00OeaRI9u",
-        "1THll2MhJjluQYaSQxDr",
-        "XbbE5gIVcncHxXK9Iqf3",
-        "0q9TlrIoQJIdxZP9oZh7",
-        "86ZLAUcyPNBrbdJKn3u6",
-        "Lrd8QHYUxHOQgV6Kbgy4",
-        "OhisAd2u8Q6qSA4xXAAT",
-        "pBZVCk298iJlHAcHQwLr",
-        "tvWD4i07Hg5L4uEvbxYV",
-        "EhUOUANKUFX7ZAzGROyR",
-        "AsHHje51j2aYdrvLDHfG",
-        "MwiOKvjSl5ySgXEgOlJi",
-        "3l9iCMrNSRR0w51JvFB0"
-      ]
-    },
-    "received pronunciation": {
-      "coordinates": {
-        "lat": "51.5074",
-        "long": "-0.1278"
-      },
-      "voice_ids": [
-        "CbcSCAj3eHmU52Bu7tys",
-        "uLfPT2jUO3X81OwnftBP",
-        "9jqmtgVIWllolxv8XDEv",
-        "JUiouZUsWIv7TeUpAitn",
-        "iEnJ0ja1nodlpS0lClI3",
-        "hDCQ0elACClokHYB6RkC",
-        "z3E18FrCyWYWiN9JtkIM",
-        "By0bsrm9u2OySdQ7DOxS",
-        "jO0ekHDv8Hih93WO8dLb",
-        "rr0A91JHKDIrts589ikk"
-      ]
-    },
     "new zealand": {
       "coordinates": {
         "lat": "-40.9006",
         "long": "174.8860"
       },
+      "official_name": "New Zealand English",
+      "name": "New Zealand English",
       "voice_ids": [
         "ocDS3nMDsIPV8dFsOOyf",
         "7R9vnLAE0ZSpY0xWp0mv",
@@ -3890,6 +3733,8 @@
         "lat": "53.4129",
         "long": "-8.2439"
       },
+      "official_name": "Irish English",
+      "name": "Irish English",
       "voice_ids": [
         "Zm3m9lkSTa2T4oB6U1PH",
         "nBGpwX2gxJKzCm2Z6Oxj",
@@ -3945,6 +3790,8 @@
         "lat": "33.7490",
         "long": "-84.3880"
       },
+      "official_name": "Southern American English",
+      "name": "Southern American English",
       "voice_ids": [
         "EWx0RRDmpbbmVRmQfzC0",
         "BVq2CupjBl5ZBjg6H0Vb",
@@ -3984,6 +3831,8 @@
         "lat": "56.1304",
         "long": "-106.3468"
       },
+      "official_name": "Canadian English",
+      "name": "Canadian English",
       "voice_ids": [
         "Lrl88CRXU6FqDlSUfFT8",
         "Lcy5kkLckO3NCrnvaHJe",
@@ -4094,6 +3943,8 @@
         "lat": "9.0820",
         "long": "8.6753"
       },
+      "official_name": "Nigerian English",
+      "name": "Nigerian English",
       "voice_ids": [
         "bcbkbYJpNzQGHml4XFrp",
         "9hEb6p6ZCFsloAWErEvE",
@@ -4152,6 +4003,8 @@
         "lat": "56.4907",
         "long": "-4.2026"
       },
+      "official_name": "Scottish English",
+      "name": "Scottish English",
       "voice_ids": [
         "aMdQCEO9kwP77QH1DiFy",
         "Lny4bN2CTZWgKZAgIHKa",
@@ -4181,6 +4034,8 @@
         "lat": "40.7128",
         "long": "-74.0060"
       },
+      "official_name": "New York English",
+      "name": "New York English",
       "voice_ids": [
         "cWSZ6SpBJvdOCi1jF6te",
         "LwQhUK1qiO2rG6MLKa45",
@@ -4200,6 +4055,8 @@
         "lat": "28.7041",
         "long": "77.1025"
       },
+      "official_name": "Hindi English",
+      "name": "Hindi English",
       "voice_ids": [
         "zZeq6FndupLBP33ngh9e",
         "WoB1yCV3pS7cFlDlu8ZU",
@@ -4208,36 +4065,13 @@
         "ogSj7jM4rppgY9TgZMqW"
       ]
     },
-    "chinese": {
-      "coordinates": {
-        "lat": "35.8617",
-        "long": "104.1954"
-      },
-      "voice_ids": [
-        "JSCTyVBWLnK6P8LQBFMR",
-        "zmcVlqmyk3Jpn5AVYcAL",
-        "mBoVD3461U2BagYEwjeo",
-        "2Zf5wdKeS7ZKPgAQm5Jy",
-        "h1i3CVVBUuF6s46cxUGG",
-        "7kBsLPSomsBitGHuwCdF",
-        "ykMqqjWs4pQdCIvGPn0z",
-        "7QwDAfHpHjPD14XYTSiq",
-        "wrxvN1LZJIfL3HHvffqe",
-        "DkVHY251JcjFstLRlihO",
-        "L1QogKoobNwLy4IaMsyA",
-        "6z4qitu552uH4K9c5vrj",
-        "gAMZphRyrWJnLMDnom6H",
-        "8xsdoepm9GrzPPzYsiLP",
-        "mbL34QDB5FptPamlgvX5",
-        "ngiiW8FFLIdMew1cqwSB",
-        "jGf6Nvwr7qkFPrcLThmD"
-      ]
-    },
     "african american": {
       "coordinates": {
         "lat": "33.7490",
         "long": "-84.3880"
       },
+      "official_name": "African American English",
+      "name": "African American English",
       "voice_ids": [
         "YjlcD3XHztjJEo2wNszv",
         "l9tGNEOXywIMjpp2p3gN",
@@ -4253,88 +4087,13 @@
         "SgG3x729SgH346SJc0ck"
       ]
     },
-    "french": {
-      "coordinates": {
-        "lat": "46.2276",
-        "long": "2.2137"
-      },
-      "voice_ids": [
-        "DicKhqTSSypNTAkYn5aN",
-        "KZW681TTkoQ1dS9Hu5WY",
-        "StNeMCwU6GIfZWUPm26j",
-        "LifjXiNLcYfyYJD8PCDT",
-        "xTZlmU8dKXdyk4XGYGFg",
-        "kmuUqyzoZLUXn7KeBkuY",
-        "2h7ex7B1yGrkcLFI8zUO",
-        "xNtG3W2oqJs0cJZuTyBc",
-        "sa2z6gEuOalzawBHvrCV",
-        "dDpKZ6xv1gpboV4okVbc",
-        "8pUlMjxRlg5lKBiTtQfk",
-        "X9B7BmukKmFqQsEb4zZF",
-        "o86w79lw8Y208S2HjL2M",
-        "uOTaQ3KfK7rOT2MpeNyr"
-      ]
-    },
-    "dutch": {
-      "coordinates": {
-        "lat": "52.1326",
-        "long": "5.2913"
-      },
-      "voice_ids": [
-        "YNr5toZDmVAcfU359LYc",
-        "ieEKJ5Ete0YAm4KU4CXK",
-        "Je8d8oi82sj0l8L1VM0l",
-        "Wz5VyMwarjxJoceKovDZ",
-        "C3vQkbnSZGf6I9az4Qo4",
-        "PW7PuXtvQ2D7ViYH2zwB",
-        "33TnQ4T1Fu1IUNLy4MCf",
-        "lcTLi9xWPS1iGUE7JXQO",
-        "lOg4rs9vOIKiYNmAA4C5",
-        "dtWhnuTdWbT27pITkWhW",
-        "kTFgb5oHuZ0QSKHRTHer",
-        "nrdaHyh0J0bEyUi50LUg",
-        "gIvqZOUTPy4VbQwwKu9Z"
-      ]
-    },
-    "german": {
-      "coordinates": {
-        "lat": "51.1657",
-        "long": "10.4515"
-      },
-      "voice_ids": [
-        "OlGyuc9rsWI61WNNpqZV",
-        "LYVmjLXENrTHSIZHWApg",
-        "8SXUsBrYH2zn8t2CUNq4",
-        "ZBjEfck3GpofRpP7YduB",
-        "lkkYHYBn2tuMgVKAP9bx",
-        "BIvP0GN1cAtSRTxNHnWS",
-        "RuBa4qzQ26xwgva6lxFZ",
-        "VSy05caiuOBJdp42Y45T",
-        "fASUSboQ0VCIoRXDqH4m",
-        "au7Q2pqB7wdio9LWlvt7",
-        "GROMoQXjD2D16z0prfB1",
-        "dGku3wKAuA20JBmsCsXv",
-        "oR4uRy4fHDUGGISL0Rev",
-        "66PBrqxlmGTw9isOc21D",
-        "PrNINjunOMpMdmWJaLA1",
-        "9ykbMbZ9spm3mWyhe0Gr",
-        "nzeAacJi50IvxcyDnMXa",
-        "qTYTve5yPlN0yHKVuCYy",
-        "IokmXfIsrOE3umjiwHWz",
-        "Jvf6TAXwMUVTSR20U0f9",
-        "DzcRs71mIqvZ5truEdVC",
-        "ztyYYqlYMny7nllhThgo",
-        "A9evEp8yGjv4c3WsIKuY",
-        "OZ5NFxPCh40uGDshxKOi",
-        "zZp9y0VzL7J3DmI1Z0U6",
-        "oIrReGAWJuGKVf4DxEt8"
-      ]
-    },
     "geordie": {
       "coordinates": {
         "lat": "54.9783",
         "long": "-1.6178"
       },
+      "official_name": "Geordie",
+      "name": "Geordie English",
       "voice_ids": [
         "9jd0hkEFS2KFCw19Rddp",
         "b6T2IrWoTx7ZIb3BHJSg"
@@ -4345,6 +4104,8 @@
         "lat": "1.3521",
         "long": "103.8198"
       },
+      "official_name": "Singapore English",
+      "name": "Singaporean English",
       "voice_ids": [
         "9Wusvmr4ZmdAQ3uLJw1k",
         "6EYhQ5gVgyv1Z20WprFH",
@@ -4364,28 +4125,13 @@
         "0S12nzScPvj2C9L6Lc5J"
       ]
     },
-    "polish": {
-      "coordinates": {
-        "lat": "51.9194",
-        "long": "19.1451"
-      },
-      "voice_ids": [
-        "yOhXTwcNX7GiQq8AsROm",
-        "xTv86awUs9qX4HxeRH2n",
-        "hH2PlxWs8rI3FQNdgREU",
-        "H3ie4yhCHsIiADTvwJot",
-        "e2odxVHlmLJ5GY1yuWNl",
-        "p94IxOGpv0T5KpOiLphN",
-        "CrUgYsIsJviHDLBi9vXo",
-        "8jMNCczgLGJQ3uVTkRhG",
-        "rsBAttTC3FdrM71zfEoV"
-      ]
-    },
     "boston": {
       "coordinates": {
         "lat": "42.3601",
         "long": "-71.0589"
       },
+      "official_name": "Boston English",
+      "name": "Boston English",
       "voice_ids": [
         "Ufjib38uSsKFbrDM99ro",
         "037vK30hDXR4IW8DJnGE",
@@ -4395,36 +4141,13 @@
         "p5KzTXXzGkmC3iDdYHCl"
       ]
     },
-    "malay": {
-      "coordinates": {
-        "lat": "4.2105",
-        "long": "101.9758"
-      },
-      "voice_ids": [
-        "iNcWjhaFeQ3JBOWGLwyn",
-        "PPybRLZHRicSB057bHyI",
-        "FRzaj7L4px15biN0RGSj",
-        "cALE2CwoMM2QxiEdDEhv",
-        "djUbJhnXETnX31p3rgun"
-      ]
-    },
-    "finnish": {
-      "coordinates": {
-        "lat": "61.9241",
-        "long": "25.7482"
-      },
-      "voice_ids": [
-        "Ta4ysiFlma9ZfFUj4rt9",
-        "dyhBdqTHSSeokEOBnWmf",
-        "JgHmW3ojZwT0NDP5D1JJ",
-        "tIFPE2y0DAU6xfZn3Fka"
-      ]
-    },
     "yorkshire": {
       "coordinates": {
         "lat": "53.9583",
         "long": "-1.0803"
       },
+      "official_name": "Yorkshire English",
+      "name": "Yorkshire English",
       "voice_ids": [
         "Q7VrUY6f87ZLFJfAckYV",
         "ZR8ruiC9tbg7bV9RmBmC",
@@ -4436,49 +4159,12 @@
         "lat": "13.0827",
         "long": "80.2707"
       },
+      "official_name": "Tamil English",
+      "name": "Tamil English",
       "voice_ids": [
         "rgltZvTfiMmgWweZhh7n",
         "gICjJSQVKT7ErrqRA3l3",
         "xPVEa1fRos3Rlvw7i1XC"
-      ]
-    },
-    "swedish": {
-      "coordinates": {
-        "lat": "60.1282",
-        "long": "18.6435"
-      },
-      "voice_ids": [
-        "xVvh7KgfbHX1WS6JTNXX",
-        "3uM0j1QyzPcBQLiEIOOi",
-        "6XVxc5pFxXre3breYJhP",
-        "pIsMvEB8LP1GR5k3OcQj",
-        "GSq0NPB1I3yKJdQ0rvzP",
-        "1akQNyt9mMzTni2Y99lv",
-        "LcBivrWPNJfG7tkEwHPJ",
-        "ljo9gAlSqKOvF6D8sOsX"
-      ]
-    },
-    "portuguese": {
-      "coordinates": {
-        "lat": "39.3999",
-        "long": "-8.2245"
-      },
-      "voice_ids": [
-        "IpCcRCVYm2nsZJjBFn4H"
-      ]
-    },
-    "turkish": {
-      "coordinates": {
-        "lat": "38.9637",
-        "long": "35.2433"
-      },
-      "voice_ids": [
-        "cWzYlIcYTquPCigOQKX0",
-        "NZiuR1C6kVMSWHG27sIM",
-        "rBy0iXHigDXmxEypBVz7",
-        "pAXUI16pSZnIYIiwHlZ1",
-        "Aq1CvMcf5BlfAAgoxyj2",
-        "spa9IALJDrGWqKYWII2J"
       ]
     },
     "chicago": {
@@ -4486,19 +4172,10 @@
         "lat": "41.8781",
         "long": "-87.6298"
       },
+      "official_name": "Chicago English",
+      "name": "Chicago English",
       "voice_ids": [
         "jgZhwQhGPa2RZhtCI0j0"
-      ]
-    },
-    "croatian": {
-      "coordinates": {
-        "lat": "45.1000",
-        "long": "15.2000"
-      },
-      "voice_ids": [
-        "MbrxCIK2KCrGGqsm5dEq",
-        "y1ORRnLsPhYkUEggxyAY",
-        "exxAZVMfY4Qs7F9CS1oN"
       ]
     },
     "welsh": {
@@ -4506,6 +4183,8 @@
         "lat": "52.1307",
         "long": "-3.7837"
       },
+      "official_name": "Welsh English",
+      "name": "Welsh English",
       "voice_ids": [
         "698IrvLv5nahuUHY2tLv"
       ]
@@ -4515,23 +4194,12 @@
         "lat": "18.1096",
         "long": "-77.2975"
       },
+      "official_name": "Jamaican English",
+      "name": "Jamaican English",
       "voice_ids": [
         "mrDMz4sYNCz18XYFpmyV",
         "eRcsJdPMOM0mtGC03ul7",
         "dhwafD61uVd8h85wAZSE"
-      ]
-    },
-    "italian": {
-      "coordinates": {
-        "lat": "41.8719",
-        "long": "12.5674"
-      },
-      "voice_ids": [
-        "qQFoiN2eQXULODjD1SwL",
-        "j06nw9Co1V47P1pQkaG8",
-        "KlyEVp7Cr4uWil0rM5Lq",
-        "s2wvuS7SwITYg8dqsJdn",
-        "iLVmqjzCGGvqtMCk6vVQ"
       ]
     },
     "cockney": {
@@ -4539,85 +4207,10 @@
         "lat": "51.5074",
         "long": "-0.1278"
       },
+      "official_name": "Cockney",
+      "name": "Cockney English",
       "voice_ids": [
         "kOVqQImaJYcrUxZmjqgl"
-      ]
-    },
-    "ukrainian": {
-      "coordinates": {
-        "lat": "48.3794",
-        "long": "31.1656"
-      },
-      "voice_ids": [
-        "WfAlRPDvwudHwu88rxEX",
-        "PiBXZZuiwjbPrmxGgRi3",
-        "XeYTv1UwuV9mT4Hi5ZpQ"
-      ]
-    },
-    "danish": {
-      "coordinates": {
-        "lat": "56.2639",
-        "long": "9.5018"
-      },
-      "voice_ids": [
-        "jCxbkArMg3nfWZAmsdkB",
-        "tahWrGVL3fokg7ZEUr3o"
-      ]
-    },
-    "slovak": {
-      "coordinates": {
-        "lat": "48.6690",
-        "long": "19.6990"
-      },
-      "voice_ids": [
-        "CV4xD6M8z1X1kya4Pepj"
-      ]
-    },
-    "bulgarian": {
-      "coordinates": {
-        "lat": "42.7339",
-        "long": "25.4858"
-      },
-      "voice_ids": [
-        "Tj9l48J9AJbry5yCP5eW"
-      ]
-    },
-    "japanese": {
-      "coordinates": {
-        "lat": "36.2048",
-        "long": "138.2529"
-      },
-      "voice_ids": [
-        "qjx83Y0UcERgVPICvVpl",
-        "Gwf9mOMZG8bkPbhsbOVc",
-        "UznIBkKIQe3ZG2tGydre"
-      ]
-    },
-    "czech": {
-      "coordinates": {
-        "lat": "49.8175",
-        "long": "15.4730"
-      },
-      "voice_ids": [
-        "qomNIe05PS2HOqkLJCkG"
-      ]
-    },
-    "indonesian": {
-      "coordinates": {
-        "lat": "-0.7893",
-        "long": "113.9213"
-      },
-      "voice_ids": [
-        "4h05pJAlcSqTMs5KRd8X"
-      ]
-    },
-    "korean": {
-      "coordinates": {
-        "lat": "35.9078",
-        "long": "127.7669"
-      },
-      "voice_ids": [
-        "wstmCVSVzHzNM3bbwPQw"
       ]
     },
     "african": {
@@ -4625,6 +4218,8 @@
         "lat": "-8.7832",
         "long": "34.5085"
       },
+      "official_name": "African English",
+      "name": "African English",
       "voice_ids": [
         "8B4Pfz8BwZh0sAFOespj",
         "Yru1AaCztNSYkMNCbM1k",
@@ -4641,6 +4236,8 @@
         "lat": "48.8566",
         "long": "2.3522"
       },
+      "official_name": "Français Parisien",
+      "name": "Parisian French",
       "voice_ids": [
         "mvhJVdVoTWVUtL4keT7W",
         "TdzWtzL6Oq0fq2kndSSV",
@@ -4701,6 +4298,8 @@
         "lat": "46.2276",
         "long": "2.2137"
       },
+      "official_name": "Français",
+      "name": "French",
       "voice_ids": [
         "sW4oAri1O4pOd4MpNWmn",
         "F9KUTOne5xOKqAbIU7yg",
@@ -4904,6 +4503,8 @@
         "lat": "46.8182",
         "long": "8.2275"
       },
+      "official_name": "Français Suisse",
+      "name": "Swiss French",
       "voice_ids": [
         "pvJIyGSZpDNn4fk2rC7g",
         "kWizegWJXBObNdNjdS0h",
@@ -4919,6 +4520,8 @@
         "lat": "52.9399",
         "long": "-73.5491"
       },
+      "official_name": "Français Québécois",
+      "name": "Quebec French",
       "voice_ids": [
         "UJCi4DDncuo0VJDSIegj",
         "XMdxKBqjwo8oPUfMl4G0",
@@ -4947,6 +4550,8 @@
         "lat": "14.4974",
         "long": "-14.4524"
       },
+      "official_name": "Français Africain",
+      "name": "African French",
       "voice_ids": [
         "Ix5oBMHpatfp3naMIpLk",
         "YwEKgPNrswweXodAZi29",
@@ -4960,6 +4565,8 @@
         "lat": "43.6047",
         "long": "1.4442"
       },
+      "official_name": "Français Méridional",
+      "name": "Southern French",
       "voice_ids": [
         "Pu4OBG4H4NW628nfJmtm"
       ]
@@ -4969,6 +4576,8 @@
         "lat": "50.5039",
         "long": "4.4699"
       },
+      "official_name": "Français Belge",
+      "name": "Belgian French",
       "voice_ids": [
         "IpTJxgMFj1wbxpha4zxm",
         "HDc7042zGcc1SdpT2m1U"
@@ -4979,6 +4588,8 @@
         "lat": "29.9511",
         "long": "-90.0715"
       },
+      "official_name": "Français Louisianais",
+      "name": "Louisiana French",
       "voice_ids": [
         "VwQZoIAyyglWE7jHRNDB"
       ]
@@ -4990,6 +4601,8 @@
         "lat": "14.0583",
         "long": "108.2772"
       },
+      "official_name": "Tiếng Việt",
+      "name": "Vietnamese",
       "voice_ids": [
         "Bez9NttCzZYS4xIWTJ2M",
         "rBPOXJ1BAFm78yP1UmBB",
@@ -5031,6 +4644,8 @@
         "lat": "10.8231",
         "long": "106.6297"
       },
+      "official_name": "Tiếng Việt Miền Nam",
+      "name": "Southern Vietnamese",
       "voice_ids": [
         "yS7aiYdIV6YnJ3ZFcQZA",
         "0eXHGNoETNSO4IGTBKno",
@@ -5066,6 +4681,8 @@
         "lat": "15.8801",
         "long": "108.3380"
       },
+      "official_name": "Tiếng Việt Miền Trung",
+      "name": "Central Vietnamese",
       "voice_ids": [
         "QocxxnxEa0x8mrL2d4VT",
         "9w5lSVhu8VnBEqFqdrD9",
@@ -5083,6 +4700,8 @@
         "lat": "21.0285",
         "long": "105.8542"
       },
+      "official_name": "Tiếng Việt Miền Bắc",
+      "name": "Northern Vietnamese",
       "voice_ids": [
         "mTMLdrFZdBqiPUW1W47D",
         "5kHtQh4XW1fP87agvLYH",
@@ -5117,6 +4736,8 @@
         "lat": "-22.9068",
         "long": "-43.1729"
       },
+      "official_name": "Português Carioca",
+      "name": "Rio de Janeiro Portuguese",
       "voice_ids": [
         "fUvGSEaJxwAISe7Lwyh4"
       ]
@@ -5126,6 +4747,8 @@
         "lat": "-23.5505",
         "long": "-46.6333"
       },
+      "official_name": "Português Paulista",
+      "name": "São Paulo Portuguese",
       "voice_ids": [
         "oArP4WehPe3qjqvCwHNo"
       ]
@@ -5135,6 +4758,8 @@
         "lat": "-18.5122",
         "long": "-44.5550"
       },
+      "official_name": "Português Mineiro",
+      "name": "Minas Gerais Portuguese",
       "voice_ids": [
         "7lu3ze7orhWaNeSPowWx"
       ]
@@ -5144,6 +4769,8 @@
         "lat": "-22.4056",
         "long": "-49.0083"
       },
+      "official_name": "Português do Interior Paulista",
+      "name": "Interior São Paulo Portuguese",
       "voice_ids": [
         "yY7KGpDzir8WP7P97McA"
       ]
@@ -5153,6 +4780,8 @@
         "lat": "-8.0476",
         "long": "-34.8770"
       },
+      "official_name": "Português Nordestino",
+      "name": "Northeastern Brazilian Portuguese",
       "voice_ids": [
         "83Nae6GFQiNslSbuzmE7"
       ]
@@ -5162,6 +4791,8 @@
         "lat": "-15.6014",
         "long": "-56.0979"
       },
+      "official_name": "Português Centro-Oeste",
+      "name": "Central-West Brazilian Portuguese",
       "voice_ids": [
         "1eBtZhneFpMPiYsjVTGl"
       ]
@@ -5171,6 +4802,8 @@
         "lat": "-14.2350",
         "long": "-51.9253"
       },
+      "official_name": "Português Brasileiro",
+      "name": "Brazilian Portuguese",
       "voice_ids": [
         "PzTMbh7ilIswxFbjDqwL",
         "WSBwiRQRmi2mEG7BfKwS",
@@ -5310,6 +4943,8 @@
         "lat": "39.3999",
         "long": "-8.2245"
       },
+      "official_name": "Português Europeu",
+      "name": "European Portuguese",
       "voice_ids": [
         "UkO7OCLgMp3WYf4UPjE5",
         "DMcOknq8n1B6XshFIJKJ",
@@ -5328,6 +4963,8 @@
         "lat": "-11.2027",
         "long": "17.8739"
       },
+      "official_name": "Português Africano",
+      "name": "African Portuguese",
       "voice_ids": [
         "FbFkkfp4Iv6U5Q1WC4C2"
       ]
@@ -5339,6 +4976,8 @@
         "lat": "37.5665",
         "long": "126.9780"
       },
+      "official_name": "서울말",
+      "name": "Seoul Korean",
       "voice_ids": [
         "WxT7YmPQFYeD5ueVMQpQ",
         "9vTWeZwjAkqIiZJdCarV",
@@ -5381,6 +5020,8 @@
         "lat": "35.1595",
         "long": "126.8526"
       },
+      "official_name": "전라도 방언",
+      "name": "Jeolla Korean",
       "voice_ids": [
         "bciERhbhQhAIWwvnQA7H"
       ]
@@ -5390,6 +5031,8 @@
         "lat": "35.9078",
         "long": "127.7669"
       },
+      "official_name": "한국어",
+      "name": "Korean",
       "voice_ids": [
         "4p0HBzAAGyju0nYfNntV",
         "gmRUMzXYROUiUpOrXA0z",
@@ -5435,6 +5078,8 @@
         "lat": "41.7658",
         "long": "129.7669"
       },
+      "official_name": "함경도 방언",
+      "name": "Hamgyong Korean",
       "voice_ids": [
         "SWu2lWaUX4JBPKyh7h1p"
       ]
@@ -5444,6 +5089,8 @@
         "lat": "35.5384",
         "long": "129.3114"
       },
+      "official_name": "경상도 방언",
+      "name": "Gyeongsang Korean",
       "voice_ids": [
         "WzMnDIgiICcj1oXbUBO0"
       ]
@@ -5453,6 +5100,8 @@
         "lat": "36.5184",
         "long": "126.8000"
       },
+      "official_name": "충청도 방언",
+      "name": "Chungcheong Korean",
       "voice_ids": [
         "TRO4gatqxbbwLXHLDLSk"
       ]
@@ -5464,6 +5113,8 @@
         "lat": "28.7041",
         "long": "77.1025"
       },
+      "official_name": "हिन्दी",
+      "name": "Hindi",
       "voice_ids": [
         "cFvQm3lZl5miSWHxawFj",
         "ALCIIw5qAlLDox8iBl0U",
@@ -5782,6 +5433,8 @@
         "lat": "19.7515",
         "long": "75.7139"
       },
+      "official_name": "मराठी हिन्दी",
+      "name": "Marathi-influenced Hindi",
       "voice_ids": [
         "RBxPIvrKOP4ugCK2jVHD"
       ]
@@ -5791,6 +5444,8 @@
         "lat": "25.9340",
         "long": "85.2722"
       },
+      "official_name": "भोजपुरी हिन्दी",
+      "name": "Bhojpuri Hindi",
       "voice_ids": [
         "VESUG427mhGhpQ6fo6Rh"
       ]
@@ -5800,6 +5455,8 @@
         "lat": "22.2587",
         "long": "71.1924"
       },
+      "official_name": "गुजराती हिन्दी",
+      "name": "Gujarati Hindi",
       "voice_ids": [
         "PAWGsCXfevSUEnid2Ika",
         "4yF24b9emqK8f4DBqL2Q",
@@ -5813,6 +5470,8 @@
         "lat": "22.9868",
         "long": "87.8550"
       },
+      "official_name": "बंगाली हिन्दी",
+      "name": "Bengali Hindi",
       "voice_ids": [
         "WiaIVvI1gDL4vT4y7qUU"
       ]
@@ -5822,6 +5481,8 @@
         "lat": "11.1271",
         "long": "78.6569"
       },
+      "official_name": "तमिल हिन्दी",
+      "name": "Tamil Hindi",
       "voice_ids": [
         "MMVrkmhLnrg92ZxR742J"
       ]
@@ -5831,6 +5492,8 @@
         "lat": "25.0961",
         "long": "85.3131"
       },
+      "official_name": "बिहारी हिन्दी",
+      "name": "Bihari Hindi",
       "voice_ids": [
         "3Th96YoTP1kEKxJroYo1"
       ]
@@ -5840,6 +5503,8 @@
         "lat": "31.1471",
         "long": "75.3412"
       },
+      "official_name": "पंजाबी हिन्दी",
+      "name": "Punjabi Hindi",
       "voice_ids": [
         "RgArqterc5zx6RLQqzcs"
       ]
@@ -5849,6 +5514,8 @@
         "lat": "29.0588",
         "long": "76.0856"
       },
+      "official_name": "हरियाणवी हिन्दी",
+      "name": "Haryanvi Hindi",
       "voice_ids": [
         "v984ziaDjt5EKuv3UFRU"
       ]
@@ -5858,6 +5525,8 @@
         "lat": "20.5937",
         "long": "78.9629"
       },
+      "official_name": "भारतीय हिन्दी",
+      "name": "Indian Hindi",
       "voice_ids": [
         "amiAXapsDOAiHJqbsAZj",
         "rW2lcIFbB5AVdzWcOG9n"
@@ -5870,6 +5539,8 @@
         "lat": "35.6762",
         "long": "139.6503"
       },
+      "official_name": "関東弁",
+      "name": "Kanto Japanese",
       "voice_ids": [
         "DOL4zlUH4vnnX1hByxsw",
         "A8vsSyy1xmJQkBgZacW0",
@@ -5890,6 +5561,8 @@
         "lat": "34.6937",
         "long": "135.5023"
       },
+      "official_name": "関西弁",
+      "name": "Kansai Japanese",
       "voice_ids": [
         "sVWsMHkLPX1qFn88g9s4",
         "nHEVPT3LS1V37bXZNr82"
@@ -5900,6 +5573,8 @@
         "lat": "36.2048",
         "long": "138.2529"
       },
+      "official_name": "日本語",
+      "name": "Japanese",
       "voice_ids": [
         "fUjY9K2nAIwlALOwSiwc",
         "KdlbMHGeafEyWqPCWkW0",
@@ -5948,6 +5623,8 @@
         "lat": "48.6690",
         "long": "19.6990"
       },
+      "official_name": "Stredoslovenčina",
+      "name": "Central Slovak",
       "voice_ids": [
         "T4CPtAHlrClEH8iCFo2h",
         "5TUD5nYN251MvBggIfLu",
@@ -5959,6 +5636,8 @@
         "lat": "48.6690",
         "long": "19.6990"
       },
+      "official_name": "Slovenčina",
+      "name": "Slovak",
       "voice_ids": [
         "2ST3sI2j7fz4A5oXjnbA",
         "d6IbhdqAKkXCCVuJjbie",
@@ -5973,6 +5652,8 @@
         "lat": "55.7558",
         "long": "37.6173"
       },
+      "official_name": "Московский диалект",
+      "name": "Moscow Russian",
       "voice_ids": [
         "ogi2DyUAKJb7CEdqqvlU",
         "pmBaSTYT1W9R6YCJq6o2",
@@ -6000,6 +5681,8 @@
         "lat": "61.5240",
         "long": "105.3188"
       },
+      "official_name": "Русский язык",
+      "name": "Russian",
       "voice_ids": [
         "dek1gko9oKp5FxJd0u4k",
         "rPg1CrZNSjgOqGse65jS",
@@ -6082,6 +5765,8 @@
         "lat": "59.9311",
         "long": "30.3609"
       },
+      "official_name": "Петербургский диалект",
+      "name": "Saint Petersburg Russian",
       "voice_ids": [
         "q22qntNqQAvTaBoqE089",
         "gXMhWmiqsFkrcssqVb5k",
@@ -6096,6 +5781,8 @@
         "lat": "51.1657",
         "long": "10.4515"
       },
+      "official_name": "Hochdeutsch",
+      "name": "German",
       "voice_ids": [
         "pAv8jpTgMw5oY9iCVOly",
         "baebHbhnJ9ASPPp11oEY",
@@ -6481,6 +6168,8 @@
         "lat": "48.7904",
         "long": "11.4979"
       },
+      "official_name": "Boarisch",
+      "name": "Bavarian German",
       "voice_ids": [
         "Ah5UjbC5d1A2iCl9Lbe7",
         "NkhHdPbLqYzmdIaSUuIy",
@@ -6500,6 +6189,8 @@
         "lat": "49.4875",
         "long": "8.4660"
       },
+      "official_name": "Rheinfränkisch",
+      "name": "Rhine Franconian German",
       "voice_ids": [
         "fehqjfT0R2fGKeUX2YeE"
       ]
@@ -6509,6 +6200,8 @@
         "lat": "52.5200",
         "long": "13.4050"
       },
+      "official_name": "Berlinerisch",
+      "name": "Berlin German",
       "voice_ids": [
         "GjwXO8ukYgApX02zJ6SN",
         "63KlGpLjampc6zPAnzRO",
@@ -6520,6 +6213,8 @@
         "lat": "51.1045",
         "long": "13.2017"
       },
+      "official_name": "Sächsisch",
+      "name": "Saxon German",
       "voice_ids": [
         "sbJf8opzqSGRyRJzCVjD",
         "WHC0PNPIwjx2cCk34Hm8",
@@ -6532,6 +6227,8 @@
         "lat": "51.1657",
         "long": "10.4515"
       },
+      "official_name": "Deutsch",
+      "name": "German",
       "voice_ids": [
         "bAFkvitDGeDMmqo9gJzO"
       ]
@@ -6541,6 +6238,8 @@
         "lat": "41.2033",
         "long": "-77.1945"
       },
+      "official_name": "Amerikanisches Deutsch",
+      "name": "American German",
       "voice_ids": [
         "tUGS6AkOqpB4R8nb1DTU"
       ]
@@ -6552,6 +6251,8 @@
         "lat": "12.8797",
         "long": "121.7740"
       },
+      "official_name": "Filipino",
+      "name": "Filipino",
       "voice_ids": [
         "4Bk8kSmfWn7kN1am2GME",
         "S0erf8BY5pzZPCxzCfku",
@@ -6655,6 +6356,8 @@
         "lat": "10.3157",
         "long": "123.8854"
       },
+      "official_name": "Cebuano",
+      "name": "Cebuano Filipino",
       "voice_ids": [
         "RKj1DIXprh8zdvjllfhJ",
         "K6AzvUWLhMiziMuhhX31",
@@ -6666,6 +6369,8 @@
         "lat": "17.5967",
         "long": "120.5979"
       },
+      "official_name": "Ilokano",
+      "name": "Ilocano Filipino",
       "voice_ids": [
         "210zNy7juwIO3DylDyJk"
       ]
@@ -6677,6 +6382,8 @@
         "lat": "-0.7893",
         "long": "113.9213"
       },
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian",
       "voice_ids": [
         "WQ4h6sgS9p2XXvLsESBT",
         "AuBaOxpzoX6MXx6bnkls",
@@ -6754,6 +6461,8 @@
         "lat": "-7.7956",
         "long": "110.3695"
       },
+      "official_name": "Bahasa Indonesia Jawa",
+      "name": "Javanese Indonesian",
       "voice_ids": [
         "1kNciG1jHVSuFBPoxdRZ",
         "Qa9zArlgOY7VaQYY8EgP",
@@ -6774,6 +6483,8 @@
         "lat": "-6.9175",
         "long": "107.6191"
       },
+      "official_name": "Bahasa Indonesia Sunda",
+      "name": "Sundanese Indonesian",
       "voice_ids": [
         "HAgxKI7rtnxUE03TcuzE",
         "fVD2Zbuz3x4CZwbYMVMF"
@@ -6784,6 +6495,8 @@
         "lat": "-0.7893",
         "long": "113.9213"
       },
+      "official_name": "Bahasa Indonesia",
+      "name": "Indonesian",
       "voice_ids": [
         "2vWyCz46C1DzMIf4aE0n"
       ]
@@ -6793,6 +6506,8 @@
         "lat": "-8.4095",
         "long": "115.1889"
       },
+      "official_name": "Bahasa Indonesia Bali",
+      "name": "Balinese Indonesian",
       "voice_ids": [
         "5EcwHcWuVGGxY91hupUf",
         "3mAVBNEqop5UbHtD8oxQ"
@@ -6805,6 +6520,8 @@
         "lat": "41.8719",
         "long": "12.5674"
       },
+      "official_name": "Italiano",
+      "name": "Italian",
       "voice_ids": [
         "MU9G8HOuEgdhUELfPshS",
         "QITiGyM4owEZrBEf0QV8",
@@ -6902,6 +6619,8 @@
         "lat": "41.9028",
         "long": "12.4964"
       },
+      "official_name": "Romanesco",
+      "name": "Roman Italian",
       "voice_ids": [
         "VF9jh6iUlVsOIpSPkT8P",
         "UpS8xQpFvE8XAzZeW2Iu",
@@ -6913,6 +6632,8 @@
         "lat": "43.4647",
         "long": "11.8816"
       },
+      "official_name": "Toscano",
+      "name": "Tuscan Italian",
       "voice_ids": [
         "IzDbWB6XgPxY7rx4Mwu8"
       ]
@@ -6922,6 +6643,8 @@
         "lat": "45.4642",
         "long": "9.1900"
       },
+      "official_name": "Milanese",
+      "name": "Milanese Italian",
       "voice_ids": [
         "nH7uLS5UdEnvKEOAXtlQ",
         "ko0CPqOV7GGUcPkJMPej",
@@ -6934,6 +6657,8 @@
         "lat": "45.4408",
         "long": "12.3155"
       },
+      "official_name": "Veneto",
+      "name": "Venetian Italian",
       "voice_ids": [
         "MTgv1KRJpUnc34UMGTHK"
       ]
@@ -6943,6 +6668,8 @@
         "lat": "37.5079",
         "long": "15.0830"
       },
+      "official_name": "Siciliano",
+      "name": "Sicilian Italian",
       "voice_ids": [
         "mJSddcekWUkB3BOnjPFb",
         "8KInRSd4DtD5L5gK7itu"
@@ -6953,6 +6680,8 @@
         "lat": "43.7696",
         "long": "11.2558"
       },
+      "official_name": "Fiorentino",
+      "name": "Florentine Italian",
       "voice_ids": [
         "slEjHpiFudesZaivDTNt"
       ]
@@ -6962,6 +6691,8 @@
         "lat": "40.8518",
         "long": "14.2681"
       },
+      "official_name": "Napoletano",
+      "name": "Neapolitan Italian",
       "voice_ids": [
         "jlhiuC3oLEP3JDAx1ECk"
       ]
@@ -6973,6 +6704,8 @@
         "lat": "51.9194",
         "long": "19.1451"
       },
+      "official_name": "Polski",
+      "name": "Polish",
       "voice_ids": [
         "Czpm0ILwHmgdxzeIhCyL",
         "fm56ETThd0xxRkmPJBxH",
@@ -7077,6 +6810,8 @@
         "lat": "54.2024",
         "long": "17.9158"
       },
+      "official_name": "Kaszubski",
+      "name": "Kashubian Polish",
       "voice_ids": [
         "uvear2FyfRVNE3AJh2sG"
       ]
@@ -7086,6 +6821,8 @@
         "lat": "52.2297",
         "long": "21.0122"
       },
+      "official_name": "Mazowiecki",
+      "name": "Mazovian Polish",
       "voice_ids": [
         "KCJooY7WxDtVu1pJICfQ",
         "aAY9hMI6VU335JUszdRs",
@@ -7101,6 +6838,8 @@
         "lat": "23.8859",
         "long": "45.0792"
       },
+      "official_name": "العربية السعودية",
+      "name": "Saudi Arabic",
       "voice_ids": [
         "FjJJxwBrv1I5sk34AdgP",
         "v7UCHHCrHj1KBa4E41gb",
@@ -7116,6 +6855,8 @@
         "lat": "26.0975",
         "long": "31.2357"
       },
+      "official_name": "العربية المصرية",
+      "name": "Egyptian Arabic",
       "voice_ids": [
         "ocqVw6LVSdCxCra4XhMH",
         "VqHyN6PYNu3uNKGdbxKs",
@@ -7139,6 +6880,8 @@
         "lat": "23.4241",
         "long": "53.8478"
       },
+      "official_name": "العربية",
+      "name": "Modern Arabic",
       "voice_ids": [
         "K6EjAWq39CfwwPD4jafo",
         "tQmkB3iscssYrX0QDy4N",
@@ -7169,6 +6912,8 @@
         "lat": "28.0339",
         "long": "1.6596"
       },
+      "official_name": "العربية الجزائرية",
+      "name": "Algerian Arabic",
       "voice_ids": [
         "jpofSqItAIlT4TLP5CrK"
       ]
@@ -7178,6 +6923,8 @@
         "lat": "31.9522",
         "long": "35.2332"
       },
+      "official_name": "العربية الفلسطينية",
+      "name": "Palestinian Arabic",
       "voice_ids": [
         "8sSDN08XkFeN2zqNwCZk",
         "drMurExmkWVIH5nW8snR"
@@ -7188,6 +6935,8 @@
         "lat": "31.7917",
         "long": "-7.0926"
       },
+      "official_name": "العربية المغربية",
+      "name": "Moroccan Arabic",
       "voice_ids": [
         "PmGnwGtnBs40iau7JfoF",
         "OfGMGmhShO8iL9jCkXy8",
@@ -7200,6 +6949,8 @@
         "lat": "30.5852",
         "long": "36.2384"
       },
+      "official_name": "العربية الأردنية",
+      "name": "Jordanian Arabic",
       "voice_ids": [
         "4wf10lgibMnboGJGCLrP",
         "jAAHNNqlbAX9iWjJPEtE"
@@ -7210,6 +6961,8 @@
         "lat": "25.3548",
         "long": "51.1839"
       },
+      "official_name": "العربية الخليجية",
+      "name": "Gulf Arabic",
       "voice_ids": [
         "DANw8bnAVbjDEHwZIoYa",
         "5Spsi3mCH9e7futpnGE5"
@@ -7220,6 +6973,8 @@
         "lat": "29.3117",
         "long": "47.4818"
       },
+      "official_name": "العربية الكويتية",
+      "name": "Kuwaiti Arabic",
       "voice_ids": [
         "G1QUjBCuRBbLbAmYlTgl",
         "6wsXez7Nsh9HQSbtqwIK"
@@ -7230,6 +6985,8 @@
         "lat": "33.8869",
         "long": "35.5131"
       },
+      "official_name": "العربية الشامية",
+      "name": "Levantine Arabic",
       "voice_ids": [
         "a1KZUXKFVFDOb33I1uqr"
       ]
@@ -7241,6 +6998,8 @@
         "lat": "52.1326",
         "long": "5.2913"
       },
+      "official_name": "Nederlands",
+      "name": "Dutch",
       "voice_ids": [
         "MvXvvAlQPNAM8HbStvg5",
         "fIYdULbypRf7uZYX6u0T",
@@ -7293,6 +7052,8 @@
         "lat": "51.0543",
         "long": "3.7174"
       },
+      "official_name": "Vlaams",
+      "name": "Flemish Dutch",
       "voice_ids": [
         "HHFpWBwQTh88FexTy2bU",
         "FpLGR2n1CcG1v7SHJFsa",
@@ -7315,6 +7076,8 @@
         "lat": "50.8798",
         "long": "5.9166"
       },
+      "official_name": "Limburgs",
+      "name": "Limburgish Dutch",
       "voice_ids": [
         "5tiZStRJQ98Xw420MFFx"
       ]
@@ -7326,6 +7089,8 @@
         "lat": "38.9637",
         "long": "35.2433"
       },
+      "official_name": "Türkiye Türkçesi",
+      "name": "Turkish",
       "voice_ids": [
         "Nim5QmE9iFIYtEoAgHf8",
         "8D6p2rXeXWggXKx2gWiS",
@@ -7451,6 +7216,8 @@
         "lat": "41.0082",
         "long": "28.9784"
       },
+      "official_name": "İstanbul Türkçesi",
+      "name": "Istanbul Turkish",
       "voice_ids": [
         "4beSxG7EOp1Zp56REJeW",
         "oppP7By4ZUSatPEc3enA",
@@ -7790,6 +7557,8 @@
         "lat": "38.4237",
         "long": "27.1428"
       },
+      "official_name": "Ege Türkçesi",
+      "name": "Aegean Turkish",
       "voice_ids": [
         "2Fcgvd9HcXNMy9VbxBCv",
         "dKmdJ8jq2hPAyWUBHu3C",
@@ -7803,6 +7572,8 @@
         "lat": "39.9334",
         "long": "41.2769"
       },
+      "official_name": "Doğu Türkçesi",
+      "name": "Eastern Turkish",
       "voice_ids": [
         "658gPsXiPVFBBYNjegdx",
         "5uEJotkO1FzLxXhXsgIv",
@@ -7814,6 +7585,8 @@
         "lat": "39.9334",
         "long": "32.8597"
       },
+      "official_name": "İç Anadolu Türkçesi",
+      "name": "Central Anatolian Turkish",
       "voice_ids": [
         "sEDjMxrrP45McDlhJ8eF",
         "jGqlr3dGaFN0IfJZa3zS",
@@ -7829,6 +7602,8 @@
         "lat": "39.0742",
         "long": "35.3213"
       },
+      "official_name": "Anadolu Türkçesi",
+      "name": "Anatolian Turkish",
       "voice_ids": [
         "le6ImqkWLjZcvAQDhZuL",
         "ZtGdWraC1DwzOIES26AL",
@@ -7848,6 +7623,8 @@
         "lat": "39.8283",
         "long": "-98.5795"
       },
+      "official_name": "Amerikan Türkçesi",
+      "name": "American Turkish",
       "voice_ids": [
         "YXfTfjS5baixEmJfseKO",
         "qn7FTtcMCdv0ZUc1re2n"
@@ -7858,6 +7635,8 @@
         "lat": "55.3781",
         "long": "-3.4360"
       },
+      "official_name": "İngiliz Türkçesi",
+      "name": "British Turkish",
       "voice_ids": [
         "9uhNxSMI5mkVW6Mg8b2Y"
       ]
@@ -7869,6 +7648,8 @@
         "lat": "49.8175",
         "long": "15.4730"
       },
+      "official_name": "Čeština",
+      "name": "Czech",
       "voice_ids": [
         "pbkYN44QoHzaZgZJyduO",
         "e36pGtHFyzkf4HTb9rQG",
@@ -7895,6 +7676,8 @@
         "lat": "49.5955",
         "long": "17.2517"
       },
+      "official_name": "Moravština",
+      "name": "Moravian Czech",
       "voice_ids": [
         "vP4R9CqQI4q0HlVrXJWj",
         "YGC6ZJiKMRyw4pLwsjIq",
@@ -7909,6 +7692,8 @@
         "lat": "50.0755",
         "long": "14.4378"
       },
+      "official_name": "Pražština",
+      "name": "Prague Czech",
       "voice_ids": [
         "bF7C2fCv7Zf30iT84wZ1",
         "QCEqWTTfey2JvmWVLLl8",
@@ -7923,6 +7708,8 @@
         "lat": "23.6978",
         "long": "120.9605"
       },
+      "official_name": "臺灣國語",
+      "name": "Taiwan Mandarin",
       "voice_ids": [
         "tSv4yoTPFFmCMaJpNf0A",
         "NIqnuIdrAT3LLSSxN05L",
@@ -7944,6 +7731,8 @@
         "lat": "39.9042",
         "long": "116.4074"
       },
+      "official_name": "北京官話",
+      "name": "Beijing Mandarin",
       "voice_ids": [
         "DowyQ68vDpgFYdWVGjc3",
         "ZL9dtgFhmkTzAHUUtQL8",
@@ -7959,6 +7748,8 @@
         "lat": "22.3193",
         "long": "114.1694"
       },
+      "official_name": "香港粵語",
+      "name": "Hong Kong Cantonese",
       "voice_ids": [
         "OjkyUe8dIihIFvOisuvM"
       ]
@@ -7968,6 +7759,8 @@
         "lat": "35.8617",
         "long": "104.1954"
       },
+      "official_name": "標準中文",
+      "name": "Chinese",
       "voice_ids": [
         "DVE92KG0Yd4X7RoMqy8J",
         "M0TrFmFeBJS9H4xzdk8Z",
@@ -7986,6 +7779,8 @@
         "lat": "1.3521",
         "long": "103.8198"
       },
+      "official_name": "新加坡華語",
+      "name": "Singapore Mandarin",
       "voice_ids": [
         "Ixmp8zKRajBp10jLtsrq"
       ]
@@ -7997,6 +7792,8 @@
         "lat": "47.4116",
         "long": "28.3699"
       },
+      "official_name": "Română Moldovenească",
+      "name": "Moldovan Romanian",
       "voice_ids": [
         "kzOjSddNpacn5uKPKxDC"
       ]
@@ -8006,6 +7803,8 @@
         "lat": "45.9432",
         "long": "24.9668"
       },
+      "official_name": "Română",
+      "name": "Romanian",
       "voice_ids": [
         "QtObtrglHRaER8xlDZsr",
         "kZXTQfulCLOSFsxuZQHx",
@@ -8051,6 +7850,8 @@
         "lat": "44.3302",
         "long": "23.7949"
       },
+      "official_name": "Olteneană",
+      "name": "Oltenia Romanian",
       "voice_ids": [
         "kSzPnNuStUkotwtINL0l"
       ]
@@ -8060,6 +7861,8 @@
         "lat": "46.0671",
         "long": "23.5850"
       },
+      "official_name": "Ardeleană",
+      "name": "Transylvanian Romanian",
       "voice_ids": [
         "i1hQ7UR6ze5abbJFmxXJ",
         "5BZv9Z02hAMUmkkcd5Hj"
@@ -8072,6 +7875,8 @@
         "lat": "4.2105",
         "long": "101.9758"
       },
+      "official_name": "Bahasa Malaysia",
+      "name": "Malaysian Malay",
       "voice_ids": [
         "jtEc6V0BMZoMqpAMRJbl",
         "15Y62ZlO8it2f5wduybx",
@@ -8093,6 +7898,8 @@
         "lat": "48.3794",
         "long": "31.1656"
       },
+      "official_name": "Українська мова",
+      "name": "Ukrainian",
       "voice_ids": [
         "dsMnpPwLzyXZ8HKoHVCm",
         "dZde1M1SiLkAKiqjpqqT",
@@ -8126,6 +7933,8 @@
         "lat": "50.4501",
         "long": "30.5234"
       },
+      "official_name": "Київський діалект",
+      "name": "Kiev Ukrainian",
       "voice_ids": [
         "y0wqfELbh1IIpK0GAf9W",
         "FqTvupDLWXjo91Dte1vR",
@@ -8141,6 +7950,8 @@
         "lat": "13.0827",
         "long": "80.2707"
       },
+      "official_name": "சென்னை தமிழ்",
+      "name": "Chennai Tamil",
       "voice_ids": [
         "yIFUVClxedWzoMYhk15k"
       ]
@@ -8150,6 +7961,8 @@
         "lat": "11.1271",
         "long": "78.6569"
       },
+      "official_name": "தமிழ்",
+      "name": "Tamil",
       "voice_ids": [
         "V9LCAAi4tTlqe9JadbCo",
         "DNLl3gCCSh2dfn1WDBpZ",
@@ -8182,6 +7995,8 @@
         "lat": "11.0168",
         "long": "76.9558"
       },
+      "official_name": "கோயம்புத்தூர் தமிழ்",
+      "name": "Coimbatore Tamil",
       "voice_ids": [
         "CxUF1MnX2dESXqaELxCQ"
       ]
@@ -8193,6 +8008,8 @@
         "lat": "42.6977",
         "long": "23.3219"
       },
+      "official_name": "Софийски диалект",
+      "name": "Sofia Bulgarian",
       "voice_ids": [
         "406EiNlYvqFqcz3vsnOm",
         "pREMn4INXSs2KOPsNcsD",
@@ -8204,6 +8021,8 @@
         "lat": "42.7339",
         "long": "25.4858"
       },
+      "official_name": "Български език",
+      "name": "Bulgarian",
       "voice_ids": [
         "31jwlwrRwpOA5yGuVAby",
         "vnewfQdVVk9Y9DZWVRNm",
@@ -8217,6 +8036,8 @@
         "lat": "47.1625",
         "long": "19.5033"
       },
+      "official_name": "Magyar",
+      "name": "Hungarian",
       "voice_ids": [
         "polm59PrdXp5lKpce2EG",
         "WYg5oajoUHxVa6ikQXec",
@@ -8236,6 +8057,8 @@
         "lat": "47.4979",
         "long": "19.0402"
       },
+      "official_name": "Budapesti Magyar",
+      "name": "Budapest Hungarian",
       "voice_ids": [
         "cMsXlIKXHl8d4otxIJz2",
         "US0EMRNBs44Vv1m9j3Li",
@@ -8249,6 +8072,8 @@
         "lat": "59.9139",
         "long": "10.7522"
       },
+      "official_name": "Oslo Norsk",
+      "name": "Oslo Norwegian",
       "voice_ids": [
         "CMbvLbbccSd611KtwxV3",
         "s2xtA7B2CTXPPlJzch1v",
@@ -8264,6 +8089,8 @@
         "lat": "60.3913",
         "long": "5.3221"
       },
+      "official_name": "Bergensk",
+      "name": "Bergen Norwegian",
       "voice_ids": [
         "CMVyxPycEkgLpEF85ShA",
         "b3jcIbyC3BSnaRu8avEk"
@@ -8274,6 +8101,8 @@
         "lat": "60.4720",
         "long": "8.4689"
       },
+      "official_name": "Norsk",
+      "name": "Norwegian",
       "voice_ids": [
         "dgrgQcxISbZtq517iweJ",
         "k5IgYJw2jfo6mO5HhagG",
@@ -8287,6 +8116,8 @@
         "lat": "60.4518",
         "long": "22.2666"
       },
+      "official_name": "Turun Suomi",
+      "name": "Turku Finnish",
       "voice_ids": [
         "BlAlpGV1KY8jfuqWubtQ"
       ]
@@ -8296,6 +8127,8 @@
         "lat": "60.1699",
         "long": "24.9384"
       },
+      "official_name": "Helsingin Suomi",
+      "name": "Helsinki Finnish",
       "voice_ids": [
         "x9EhwObb3HT9l7gQ18oM",
         "fC33e0BIKA7wWK2MeARj",
@@ -8308,6 +8141,8 @@
         "lat": "61.9241",
         "long": "25.7482"
       },
+      "official_name": "Suomi",
+      "name": "Finnish",
       "voice_ids": [
         "GdUwr3tVJwSb22ROvLCr",
         "JMfkzZiSsox62UXcXUqM",
@@ -8323,6 +8158,8 @@
         "lat": "62.6000",
         "long": "22.2500"
       },
+      "official_name": "Länsisuomi",
+      "name": "Western Finnish",
       "voice_ids": [
         "XFCwH7g0WlOZiFnelted",
         "ULbs8g3EYdQWA5MDrrx1"
@@ -8335,6 +8172,8 @@
         "lat": "55.6059",
         "long": "13.0007"
       },
+      "official_name": "Skånska",
+      "name": "Scanian Swedish",
       "voice_ids": [
         "CuaAIFbkzX2kaNH5EtHZ"
       ]
@@ -8344,6 +8183,8 @@
         "lat": "57.7089",
         "long": "11.9746"
       },
+      "official_name": "Göteborgska",
+      "name": "Gothenburg Swedish",
       "voice_ids": [
         "1uZ0SLDbZd88cfCPzFQo"
       ]
@@ -8353,6 +8194,8 @@
         "lat": "60.1282",
         "long": "18.6435"
       },
+      "official_name": "Svenska",
+      "name": "Swedish",
       "voice_ids": [
         "yZkiC6zJeQy7CQJNTGHs",
         "4Ct5uMEndw4cJ7q0Jx0l",
@@ -8369,6 +8212,8 @@
         "lat": "59.3293",
         "long": "18.0686"
       },
+      "official_name": "Stockholmska",
+      "name": "Stockholm Swedish",
       "voice_ids": [
         "JhAQDwsLijg4qbxGNQGH",
         "6eknYWL7D5Z4nRkDy15t",
@@ -8387,6 +8232,8 @@
         "lat": "56.2639",
         "long": "9.5018"
       },
+      "official_name": "Dansk",
+      "name": "Danish",
       "voice_ids": [
         "xj6X4BCUsv9oxohm1E8o",
         "4RklGmuxoAskAbGXplXN",
@@ -8401,6 +8248,8 @@
         "lat": "56.1572",
         "long": "10.2107"
       },
+      "official_name": "Jysk",
+      "name": "Jutlandic Danish",
       "voice_ids": [
         "MTfGnENDP7GCFq2vMVZq",
         "qhEux886xDKbOdF7jkFP",
@@ -8412,6 +8261,8 @@
         "lat": "55.6761",
         "long": "12.0683"
       },
+      "official_name": "Sjællandsk",
+      "name": "Zealand Danish",
       "voice_ids": [
         "C43bq5qXRueL1cBQEOt3"
       ]
@@ -8423,6 +8274,8 @@
         "lat": "45.1000",
         "long": "15.2000"
       },
+      "official_name": "Hrvatski",
+      "name": "Croatian",
       "voice_ids": [
         "F2kYsMGahtg8auErVXgY",
         "pZPGvLM3dfmqzJubZLiF",
@@ -8443,6 +8296,8 @@
         "lat": "45.8150",
         "long": "15.9819"
       },
+      "official_name": "Zagrebački Dijalekt",
+      "name": "Zagreb Croatian",
       "voice_ids": [
         "TRnNlYQWHAJwo9K75wNE",
         "vFQACl5nAIV0owAavYxE"
@@ -8455,6 +8310,8 @@
         "lat": "39.0742",
         "long": "21.8243"
       },
+      "official_name": "Ελληνικά",
+      "name": "Greek",
       "voice_ids": [
         "5DAtyqt3LGjv9jkjNVFd",
         "PaZ8laODC1yRxHTPYJFh",
@@ -8474,6 +8331,8 @@
         "lat": "40.6401",
         "long": "22.9444"
       },
+      "official_name": "Μακεδονικά Ελληνικά",
+      "name": "Macedonian Greek",
       "voice_ids": [
         "0oYUKTNPbymIKVAkDQqh"
       ]
@@ -8483,6 +8342,8 @@
         "lat": "37.9838",
         "long": "23.7275"
       },
+      "official_name": "Αθηναϊκά",
+      "name": "Athenian Greek",
       "voice_ids": [
         "aTP4J5SJLQl74WTSRXKW",
         "20zUtLxCwVzsFDWub4sB",
@@ -8494,6 +8355,8 @@
         "lat": "37.4414",
         "long": "25.3662"
       },
+      "official_name": "Αιγαιακά",
+      "name": "Aegean Greek",
       "voice_ids": [
         "Jv2zcgjn9Qu0uNMKJjb1"
       ]
