@@ -167,10 +167,6 @@
     "belgian": {
       "official_name": "Français Belge",
       "name": "Belgian French"
-    },
-    "american": {
-      "official_name": "Français Louisianais",
-      "name": "Louisiana French"
     }
   },
   "vi": {
@@ -344,17 +340,9 @@
       "official_name": "Rheinfränkisch",
       "name": "Rhine Franconian German"
     },
-    "berlinerisch": {
-      "official_name": "Berlinerisch",
-      "name": "Berlin German"
-    },
     "saxon": {
       "official_name": "Sächsisch",
       "name": "Saxon German"
-    },
-    "american german": {
-      "official_name": "Amerikanisches Deutsch",
-      "name": "American German"
     }
   },
   "fil": {
