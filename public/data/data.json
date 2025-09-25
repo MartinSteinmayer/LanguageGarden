@@ -8791,21 +8791,6 @@
       ]
     }
   },
-  "ca": {
-    "standard": {
-      "coordinates": {
-        "lat": "41.3851",
-        "long": "2.1734"
-      },
-      "official_name": "Català",
-      "name": "Catalan",
-      "speakers": 10000000,
-      "iso_639_3": "cat",
-      "voice_ids": [
-        "1SM7GgM6IMuvQlz2BwM3"
-      ]
-    }
-  },
   "ceb": {
     "standard": {
       "coordinates": {
