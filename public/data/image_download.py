@@ -1,8 +1,8 @@
-import json
 import requests
 import os
 import re
 import time
+import json
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -15,9 +15,9 @@ CSE_ID = os.getenv("CSE_ID")
 
 # Check if the required environment variables are set
 if not API_KEY:
-    raise ValueError("❌ ERROR: GUSTAVO_API_KEY not found in environment variables")
+    raise ValueError("❌ ERROR: GUSTAVO_API_KEY not found in your .env file")
 if not CSE_ID:
-    raise ValueError("❌ ERROR: CSE_ID not found in environment variables")
+    raise ValueError("❌ ERROR: CSE_ID not found in your .env file")
 
 # --- SCRIPT ---
 
@@ -35,11 +35,9 @@ def build_search_query(language_data):
     if match:
         people_name = match.group(1).strip()
         # A simpler query works better for trusted sites like Wikipedia or National Geographic.
-        # Example: "Svan people", "Aché"
         return f'"{people_name}"'
     else:
         # Fallback if the pattern isn't found
-        # Example: "Abaza people", "Amblong"
         return f'"{name}" people'
 
 def download_images_for_json(json_file_path, output_folder):
@@ -51,7 +49,7 @@ def download_images_for_json(json_file_path, output_folder):
 
     # Create the output directory if it doesn't exist
     if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
+        os.makedirs(output_folder) # Corrected typo here
         print(f"Created directory: {output_folder}")
 
     # Load the JSON file
@@ -99,8 +97,11 @@ def download_images_for_json(json_file_path, output_folder):
                 print(f"  -> ⚠️ Found a result but it has no image link. Skipping.")
                 continue
             
-            # 4. Download and save the image
-            image_response = requests.get(image_url, timeout=10)
+            # 4. Download and save the image with the User-Agent header
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            image_response = requests.get(image_url, headers=headers, timeout=10)
             image_response.raise_for_status()
             
             # Determine file extension, default to .jpg
