@@ -152,9 +152,9 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
 
             <div className="grid md:grid-cols-2 gap-0">
               {/* Image / Placeholder */}
-              <div className="relative h-64 md:h-full bg-gray-100 flex items-center justify-center">
+              <div className="relative h-64 md:h-full bg-gray-100 flex items-center justify-center p-4">
                 {imageSrc ? (
-                  <img src={imageSrc} alt={language.name} className="object-cover w-full h-full" />
+                  <img src={imageSrc} alt={language.name} className="object-cover w-full h-full rounded-2xl shadow-2xl" />
                 ) : imageTried ? (
                   <div className="flex flex-col items-center text-gray-400 text-xs gap-2">
                     <ImageOff className="h-8 w-8" />
