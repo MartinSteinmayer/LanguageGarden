@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
-    "start": "next start"
+    "start": "next start",
+    "extract:languages": "node scripts/extract-languages.js",
+    "enrich:descriptions": "node scripts/fetch-descriptions.js"
   },
   "dependencies": {
     "@elevenlabs/elevenlabs-js": "^2.16.0",
