@@ -117,8 +117,9 @@ const MapboxExample = () => {
           const baseLong = parseFloat(coordinates.long);
           const coordKey = `${baseLat.toFixed(4)},${baseLong.toFixed(4)}`; // Round to avoid floating point issues
           
-          // All ElevenLabs voices are green (voice chat available)
-          const status = 'voice';
+          // Languages with voices get voice chat + history (green)
+          // Languages without voices get history only (red)
+          const status = voiceCount > 0 ? 'voice' : 'history';
           
           const languageInfo = {
             name: dialect.name || `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
@@ -128,7 +129,9 @@ const MapboxExample = () => {
             status: status,
             voiceCount: voiceCount,
             speakers: speakers,
-            description: `${voiceCount} ElevenLabs voices available for ${dialectKey} ${languageName}`,
+            description: voiceCount > 0 
+              ? `Voice chat & cultural history available for ${dialectKey} ${languageName}`
+              : `Cultural history available for ${dialectKey} ${languageName} - Help fund voice chat!`,
             voice_ids: dialect.voice_ids
           };
           
@@ -153,10 +156,9 @@ const MapboxExample = () => {
       // Sort languages by speaker count (descending)
       group.languages.sort((a, b) => b.speakers - a.speakers);
       
-      // Determine the overall status of the group (prioritize voice > history > funding)
+      // Determine the overall status of the group (prioritize voice > history)
       const hasVoice = group.languages.some(lang => lang.status === 'voice');
-      const hasHistory = group.languages.some(lang => lang.status === 'history');
-      const groupStatus = hasVoice ? 'voice' : (hasHistory ? 'history' : 'funding');
+      const groupStatus = hasVoice ? 'voice' : 'history';
       
       // Create the feature
       const feature = {
@@ -271,10 +273,8 @@ const MapboxExample = () => {
           'circle-color': [
             'case',
             ['==', ['get', 'status'], 'voice'],
-            '#22c55e', // Green for voice chat available
-            ['==', ['get', 'status'], 'history'],
-            '#eab308', // Yellow for history available
-            '#ef4444' // Red for needs funding
+            '#22c55e', // Green for voice chat + history available
+            '#ef4444' // Red for history only
           ],
           // Enhanced stroke - selected state gets thickest border
           // Groups get thicker strokes to indicate multiple languages
@@ -527,9 +527,9 @@ const MapboxExample = () => {
       
       {/* Header */}
       <div className="absolute top-6 left-6 z-10">
-        <div className="bg-white/90 backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
+        <div className="bg-gradient-to-r from-white to-gray-400 backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
           <h1 className="text-2xl font-bold text-gray-800 mb-1">
-            World Languages
+            Language Garden
           </h1>
           <p className="text-sm text-gray-600">
             Explore languages around the globe

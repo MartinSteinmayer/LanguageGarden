@@ -43,26 +43,18 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
     switch (status) {
       case 'voice':
         return {
-          badge: 'Voice Available',
+          badge: 'Voice Chat + History',
           color: 'bg-green-500',
           icon: <Mic className="h-4 w-4" />,
           buttonText: 'Start Voice Chat',
           buttonVariant: 'default'
         };
-      case 'history':
+      default: // 'history' or any other status
         return {
-          badge: 'History Available',
-          color: 'bg-yellow-500',
-          icon: <Book className="h-4 w-4" />,
-          buttonText: 'Donate for Voice',
-          buttonVariant: 'outline'
-        };
-      default:
-        return {
-          badge: 'Needs Funding',
+          badge: 'History Only',
           color: 'bg-red-500',
           icon: <Heart className="h-4 w-4" />,
-          buttonText: 'Donate to Fund',
+          buttonText: 'Learn & Fund Voice',
           buttonVariant: 'outline'
         };
     }
