@@ -4,8 +4,8 @@ I am currently in a 2-day Hackathon (so dont worry about testing or anything, bu
 
 3D globe shows language dots:
 
-- **Green** → voice chat (ElevenLabs).
-- **Yellow/Red** → short history + **Donate to fund voice** (Stripe).
+- **Green** → Voice Available
+- **Yellow/Red** → Endangered/Severely Endangered
 
 ---
 
