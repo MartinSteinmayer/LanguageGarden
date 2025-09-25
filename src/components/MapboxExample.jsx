@@ -544,7 +544,7 @@ const MapboxExample = () => {
           }`}
         >
           <div className="bg-black/80 text-white px-2 py-1 rounded-lg text-xs" style={{
-            animation: showHint ? 'gentleBounce 1s ease-in-out infinite' : 'none'
+            animation: 'gentleBounce 1s ease-in-out infinite'
           }}>
             Click on any language dot to learn more
           </div>
