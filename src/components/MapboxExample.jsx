@@ -19,7 +19,7 @@ const MapboxExample = () => {
   useEffect(() => {
     const loadVoiceData = async () => {
       try {
-        const response = await fetch('/data/eleven_lab_voices_coordinates.json');
+        const response = await fetch('/data/data.json');
         const voiceData = await response.json();
         setCountriesData(voiceData);
       } catch (error) {
