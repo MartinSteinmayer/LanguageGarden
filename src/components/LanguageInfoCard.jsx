@@ -7,6 +7,8 @@ import { Separator } from "@/components/ui/separator";
 import { Mic, Heart, Book, ChevronLeft, ChevronRight } from "lucide-react";
 import { useState } from "react";
 import VoiceChat from "./VoiceChatSimple";
+import DonateModal from "./DonateModal";
+import ExtendedLanguageModal from "./ExtendedLanguageModal";
 
 const LanguageInfoCard = ({ languageGroup, onClose }) => {
   if (!languageGroup) return null;
@@ -28,6 +30,8 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
   
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showVoiceChat, setShowVoiceChat] = useState(false);
+  const [showDonate, setShowDonate] = useState(false);
+  const [showExtended, setShowExtended] = useState(false);
   const currentLanguage = languages[currentIndex];
   const hasMultiple = languages.length > 1;
   
@@ -146,13 +150,6 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
               <span>{currentLanguage.countryName}</span>
             </div>
           )}
-          
-          {currentLanguage.voiceCount && (
-            <div className="flex justify-between">
-              <span className="font-medium text-gray-700">Voices:</span>
-              <span>{currentLanguage.voiceCount}</span>
-            </div>
-          )}
         </div>
         
         {/* Show multiple languages indicator */}
@@ -166,30 +163,31 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
         )}
         
         <Separator />
-        
-        <Button 
-          className={`w-full ${statusConfig.color} cursor-pointer`}
-          variant={statusConfig.buttonVariant}
-          onClick={() => {
-            if (currentLanguage.status === 'voice') {
-              setShowVoiceChat(true);
-            } else {
-              console.log('Opening preservation/donation for', currentLanguage.name, 'Status:', currentLanguage.status);
-              // Implement preservation/donation logic based on status
-            }
-          }}
-        >
-          <span className="flex items-center gap-2">
-            {statusConfig.icon}
-            {statusConfig.buttonText}
-          </span>
-        </Button>
-        
-        {currentLanguage.status !== 'voice' && (
-          <p className="text-xs text-gray-500 text-center">
-            Help preserve {currentLanguage.name} and bring voice chat to speakers worldwide
-          </p>
-        )}
+        <div className="flex flex-col gap-2">
+          <Button 
+            className={`w-full ${statusConfig.color} cursor-pointer`}
+            variant={statusConfig.buttonVariant}
+            onClick={() => {
+              if (currentLanguage.status === 'voice') {
+                setShowVoiceChat(true);
+              } else {
+                setShowDonate(true); // Open donation modal
+              }
+            }}
+          >
+            <span className="flex items-center gap-2">
+              {statusConfig.icon}
+              {statusConfig.buttonText}
+            </span>
+          </Button>
+          <Button
+            variant="outline"
+            className="w-full text-xs"
+            onClick={() => setShowExtended(true)}
+          >
+            More Info
+          </Button>
+        </div>
       </CardContent>
       
       {/* Voice Chat Modal */}
@@ -197,6 +195,20 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
         <VoiceChat 
           language={currentLanguage}
           onClose={() => setShowVoiceChat(false)}
+        />
+      )}
+      {showDonate && (
+        <DonateModal
+          language={currentLanguage}
+            onClose={() => setShowDonate(false)}
+        />
+      )}
+      {showExtended && (
+        <ExtendedLanguageModal
+          languageGroup={languageGroup}
+          currentIndex={currentIndex}
+          onSelectIndex={(i) => setCurrentIndex(i)}
+          onClose={() => setShowExtended(false)}
         />
       )}
     </Card>
