@@ -2,7 +2,7 @@
 import json
 
 def join_voices_coordinates_and_names():
-    # Load all four JSON files
+    # Load all five JSON files
     with open('voices.json', 'r', encoding='utf-8') as f:
         voices_data = json.load(f)
 
@@ -15,27 +15,40 @@ def join_voices_coordinates_and_names():
     with open('speakers.json', 'r', encoding='utf-8') as f:
         speakers_data = json.load(f)
 
+    try:
+        with open('isos.json', 'r', encoding='utf-8') as f:
+            content = f.read().strip()
+            if content:
+                isos_data = json.loads(content)
+            else:
+                isos_data = {}
+    except (FileNotFoundError, json.JSONDecodeError):
+        isos_data = {}
+
     joined_data = {}
 
     for language, accents in voices_data.items():
-        # Inner join: only include if language exists in all four files
-        if language in coordinates_data and language in names_data and language in speakers_data:
+        # Inner join: only include if language exists in all five files
+        if language in coordinates_data and language in names_data and language in speakers_data and language in isos_data:
             joined_data[language] = {}
 
             for accent, voice_ids in accents.items():
-                # Inner join: only include if accent exists in all four files
+                # Inner join: only include if accent exists in all five files
                 if (accent in coordinates_data[language] and
                     accent in names_data[language] and
-                    accent in speakers_data[language]):
+                    accent in speakers_data[language] and
+                    accent in isos_data[language]):
                     coordinates = coordinates_data[language][accent]["coordinates"]
                     names_info = names_data[language][accent]
                     speakers_info = speakers_data[language][accent]
+                    isos_info = isos_data[language][accent]
 
                     joined_data[language][accent] = {
                         "coordinates": coordinates,
                         "official_name": names_info.get("official_name", ""),
                         "name": names_info.get("name", ""),
                         "speakers": speakers_info.get("speakers", 0),
+                        "iso_639_3": isos_info.get("iso_639_3", ""),
                         "voice_ids": voice_ids
                     }
 
@@ -47,7 +60,7 @@ def join_voices_coordinates_and_names():
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(joined_data, f, indent=2, ensure_ascii=False)
 
-    print("Created data.json (inner join of voices, coordinates, names, and speakers)")
+    print("Created data.json (inner join of voices, coordinates, names, speakers, and isos)")
     print(f"Languages: {len(joined_data)}")
 
     # Count total accents and voice IDs
