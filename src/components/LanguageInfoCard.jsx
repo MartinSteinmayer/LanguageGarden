@@ -61,7 +61,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
         };
       case 'endangered':
         return {
-          badge: 'Endangered Language',
+          badge: 'Definitely Endangered',
           color: 'bg-amber-500',
           icon: <Heart className="h-4 w-4" />,
           buttonText: 'Help Preserve Language',

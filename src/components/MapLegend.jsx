@@ -2,9 +2,13 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Mic, Book, Heart } from "lucide-react";
+import { Mic, Book, Heart, Info } from "lucide-react";
+import { useState } from "react";
+import UNESCOInfoModal from "./UNESCOInfoModal";
 
 const MapLegend = () => {
+  const [showUNESCOInfo, setShowUNESCOInfo] = useState(false);
+  
   const legendItems = [
     {
       icon: <Mic className="h-3 w-3" />,
@@ -29,9 +33,18 @@ const MapLegend = () => {
   return (
     <Card className="w-64 shadow-lg border-0 bg-white backdrop-blur-sm gap-0">
       <CardHeader className="md:pb-3">
-        <CardTitle className="text-lg font-bold text-gray-800">
-          Language Status
-        </CardTitle>
+        <div className="flex items-center justify-between">
+          <CardTitle className="text-lg font-bold text-gray-800">
+            Language Status
+          </CardTitle>
+          <button
+            onClick={() => setShowUNESCOInfo(true)}
+            className="text-gray-400 hover:text-blue-600 transition-colors p-1 rounded-full hover:bg-blue-50"
+            aria-label="Learn about UNESCO language classification"
+          >
+            <Info className="h-4 w-4" />
+          </button>
+        </div>
       </CardHeader>
       
       <CardContent className="space-y-3">
@@ -59,6 +72,11 @@ const MapLegend = () => {
           </p>
         </div>
       </CardContent>
+      
+      {/* UNESCO Info Modal */}
+      {showUNESCOInfo && (
+        <UNESCOInfoModal onClose={() => setShowUNESCOInfo(false)} />
+      )}
     </Card>
   );
 };
