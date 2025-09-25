@@ -644,13 +644,13 @@ const MapboxExample = () => {
             )}
 
             {/* Map Legend */}
-            <div className="absolute bottom-6 left-6 z-10">
+            <div className="absolute bottom-4 left-1 md:bottom-6 md:left-6 z-10 scale-75 md:scale-100">
                 <MapLegend />
             </div>
 
             {/* Header */}
-            <div className="absolute top-6 left-6 z-10">
-                <div className="bg-gradient-to-r from-white to-green-100 backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
+            <div className="hidden md:block absolute top-6 left-6 z-10">
+                <div className="bg-gradient-to-r from-white to-gray-400 backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
                     <h1 className="text-2xl font-bold text-gray-800 mb-1">Language Garden</h1>
                     <p className="text-sm text-gray-600">Explore and help languages around the globe</p>
                 </div>
