@@ -8,15 +8,21 @@ const MapLegend = () => {
   const legendItems = [
     {
       icon: <Mic className="h-3 w-3" />,
-      label: "Language Available",
+      label: "Voice Available",
       color: "bg-green-500",
       description: "Chat & learn culture"
     },
     {
       icon: <Heart className="h-3 w-3" />,
-      label: "Endangered Language",
+      label: "Endangered",
+      color: "bg-amber-500",
+      description: "Help preserve language"
+    },
+    {
+      icon: <Heart className="h-3 w-3" />,
+      label: "Severely Endangered",
       color: "bg-red-500",
-      description: "Learn & fund voice chat"
+      description: "Urgent preservation needed"
     }
   ];
 

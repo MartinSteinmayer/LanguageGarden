@@ -31,6 +31,12 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
   const currentLanguage = languages[currentIndex];
   const hasMultiple = languages.length > 1;
   
+  // Additional safety check - if currentLanguage is undefined, don't render
+  if (!currentLanguage) {
+    console.error('Current language is undefined:', { languageGroup, languages, currentIndex });
+    return null;
+  }
+  
   const navigateLanguage = (direction) => {
     if (direction === 'next') {
       setCurrentIndex((prev) => (prev + 1) % languages.length);
@@ -43,24 +49,32 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
     switch (status) {
       case 'voice':
         return {
-          badge: 'Voice Chat + History',
+          badge: 'Voice Chat Available',
           color: 'bg-green-500',
           icon: <Mic className="h-4 w-4" />,
           buttonText: 'Start Voice Chat',
           buttonVariant: 'default'
         };
-      default: // 'history' or any other status
+      case 'endangered':
         return {
-          badge: 'History Only',
+          badge: 'Endangered Language',
+          color: 'bg-amber-500',
+          icon: <Heart className="h-4 w-4" />,
+          buttonText: 'Help Preserve Language',
+          buttonVariant: 'outline'
+        };
+      default: // 'severely_endangered' or any other status
+        return {
+          badge: 'Severely Endangered',
           color: 'bg-red-500',
           icon: <Heart className="h-4 w-4" />,
-          buttonText: 'Learn & Fund Voice',
+          buttonText: 'Urgent: Help Preserve',
           buttonVariant: 'outline'
         };
     }
   };
 
-  const statusConfig = getStatusConfig(currentLanguage.status);
+  const statusConfig = getStatusConfig(currentLanguage.status || 'severely_endangered');
 
   return (
     <Card className="w-80 shadow-lg border-0 bg-white/95 backdrop-blur-sm animate-in slide-in-from-right-5 duration-300">
@@ -160,8 +174,8 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
             if (currentLanguage.status === 'voice') {
               setShowVoiceChat(true);
             } else {
-              console.log('Opening donation for', currentLanguage.name);
-              // Implement donation logic
+              console.log('Opening preservation/donation for', currentLanguage.name, 'Status:', currentLanguage.status);
+              // Implement preservation/donation logic based on status
             }
           }}
         >
@@ -173,7 +187,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
         
         {currentLanguage.status !== 'voice' && (
           <p className="text-xs text-gray-500 text-center">
-            Help bring voice chat to {currentLanguage.name} speakers worldwide
+            Help preserve {currentLanguage.name} and bring voice chat to speakers worldwide
           </p>
         )}
       </CardContent>

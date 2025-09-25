@@ -15,20 +15,35 @@ const MapboxExample = () => {
   const [hoveredLanguage, setHoveredLanguage] = useState(null);
   const [showHint, setShowHint] = useState(true);
 
-  // Load ElevenLabs voice data
+  // Load all language data (voice available, endangered, severely endangered)
   useEffect(() => {
-    const loadVoiceData = async () => {
+    const loadLanguageData = async () => {
       try {
-        const response = await fetch('/data/data.json');
-        const voiceData = await response.json();
-        setCountriesData(voiceData);
+        const [voiceResponse, endangeredResponse, severelyEndangeredResponse] = await Promise.all([
+          fetch('/data/data.json'),
+          fetch('/data/definitely_endangered.json'),
+          fetch('/data/severely_endangered.json')
+        ]);
+        
+        const voiceData = await voiceResponse.json();
+        const endangeredData = await endangeredResponse.json();
+        const severelyEndangeredData = await severelyEndangeredResponse.json();
+        
+        // Combine all datasets with their respective statuses
+        const combinedData = {
+          ...voiceData, // These will have 'voice' status
+          ...endangeredData, // These will have 'endangered' status
+          ...severelyEndangeredData // These will have 'severely_endangered' status
+        };
+        
+        setCountriesData(combinedData);
       } catch (error) {
-        console.error('Error loading voice data:', error);
+        console.error('Error loading language data:', error);
         setCountriesData({});
       }
     };
 
-    loadVoiceData();
+    loadLanguageData();
   }, []);
 
   // Hide hint after 5 seconds
@@ -103,7 +118,7 @@ const MapboxExample = () => {
     // First pass: collect all languages by coordinate
     Object.keys(countriesData).forEach(langCode => {
       const language = countriesData[langCode];
-      const languageName = languageNames[langCode] || langCode.toUpperCase();
+      const languageName = languageNames[langCode] || language.standard?.name || langCode.toUpperCase();
       
       // Process each dialect/region for this language
       Object.keys(language).forEach(dialectKey => {
@@ -117,9 +132,17 @@ const MapboxExample = () => {
           const baseLong = parseFloat(coordinates.long);
           const coordKey = `${baseLat.toFixed(4)},${baseLong.toFixed(4)}`; // Round to avoid floating point issues
           
-          // Languages with voices get voice chat + history (green)
-          // Languages without voices get history only (red)
-          const status = voiceCount > 0 ? 'voice' : 'history';
+          // Determine status based on data source and voice availability
+          let status;
+          if (voiceCount > 0) {
+            status = 'voice'; // Green - Voice chat available
+          } else if (dialect.status === 'definitely_endangered') {
+            status = 'endangered'; // Yellow/Orange - Endangered
+          } else {
+            // All other languages without voice are severely endangered by default
+            // (since they come from the severely_endangered.json or are at risk)
+            status = 'severely_endangered'; // Red - Severely endangered
+          }
           
           const languageInfo = {
             name: dialect.name || `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
@@ -129,10 +152,9 @@ const MapboxExample = () => {
             status: status,
             voiceCount: voiceCount,
             speakers: speakers,
-            description: voiceCount > 0 
-              ? `Voice chat & cultural history available for ${dialectKey} ${languageName}`
-              : `Cultural history available for ${dialectKey} ${languageName} - Help fund voice chat!`,
-            voice_ids: dialect.voice_ids
+            description: getLanguageDescription(status, dialectKey, languageName, voiceCount),
+            voice_ids: dialect.voice_ids,
+            notes: dialect.notes
           };
           
           // Group by coordinates
@@ -149,6 +171,21 @@ const MapboxExample = () => {
       });
     });
     
+    // Helper function to generate descriptions based on status
+    function getLanguageDescription(status, dialectKey, languageName, voiceCount) {
+      switch (status) {
+        case 'voice':
+          return `Voice chat & cultural history available for ${dialectKey} ${languageName}`;
+        case 'endangered':
+          return `Endangered language - Cultural history available for ${dialectKey} ${languageName}. Help preserve this language!`;
+        case 'severely_endangered':
+          return `Severely endangered language - Cultural history available for ${dialectKey} ${languageName}. Urgent preservation needed!`;
+        default:
+          // Fallback should not happen with new logic, but just in case
+          return `Cultural history available for ${dialectKey} ${languageName}. Help preserve this language!`;
+      }
+    }
+    
     // Second pass: create features from grouped coordinates
     Object.keys(coordinateGroups).forEach(coordKey => {
       const group = coordinateGroups[coordKey];
@@ -156,9 +193,18 @@ const MapboxExample = () => {
       // Sort languages by speaker count (descending)
       group.languages.sort((a, b) => b.speakers - a.speakers);
       
-      // Determine the overall status of the group (prioritize voice > history)
+      // Determine the overall status of the group (prioritize: voice > endangered > severely_endangered)
       const hasVoice = group.languages.some(lang => lang.status === 'voice');
-      const groupStatus = hasVoice ? 'voice' : 'history';
+      const hasEndangered = group.languages.some(lang => lang.status === 'endangered');
+      
+      let groupStatus;
+      if (hasVoice) {
+        groupStatus = 'voice';
+      } else if (hasEndangered) {
+        groupStatus = 'endangered';
+      } else {
+        groupStatus = 'severely_endangered';
+      }
       
       // Create the feature
       const feature = {
@@ -273,8 +319,10 @@ const MapboxExample = () => {
           'circle-color': [
             'case',
             ['==', ['get', 'status'], 'voice'],
-            '#22c55e', // Green for voice chat + history available
-            '#ef4444' // Red for history only
+            '#22c55e', // Green for voice chat available
+            ['==', ['get', 'status'], 'endangered'],
+            '#f59e0b', // Amber/Orange for endangered languages
+            '#ef4444' // Red for severely endangered languages (default)
           ],
           // Enhanced stroke - selected state gets thickest border
           // Groups get thicker strokes to indicate multiple languages
@@ -397,7 +445,13 @@ const MapboxExample = () => {
         
         // Pass the feature properties, which now contain either single language or language group
         console.log('Selected language/group:', feature.properties);
-        setSelectedLanguage(feature.properties);
+        
+        // Validate the feature properties before setting
+        if (feature.properties && (feature.properties.name || feature.properties.languages)) {
+          setSelectedLanguage(feature.properties);
+        } else {
+          console.error('Invalid feature properties:', feature.properties);
+        }
       }
     });
 
@@ -418,7 +472,13 @@ const MapboxExample = () => {
       // Set new selection
       if (feature.id !== undefined) {
         map.setFeatureState({ source: 'languages', id: feature.id }, { selected: true });
-        setSelectedLanguage(feature.properties);
+        
+        // Validate the feature properties before setting
+        if (feature.properties && (feature.properties.name || feature.properties.languages)) {
+          setSelectedLanguage(feature.properties);
+        } else {
+          console.error('Invalid feature properties:', feature.properties);
+        }
       }
     });
 
