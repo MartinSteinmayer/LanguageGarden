@@ -20,12 +20,13 @@ const MapboxExample = () => {
     useEffect(() => {
         const loadLanguageData = async () => {
             try {
-                const [voiceResponse, endangeredResponse, severelyEndangeredResponse, descriptionsResponse] = await Promise.all([
-                    fetch("/data/data.json"),
-                    fetch("/data/definitely_endangered.json"),
-                    fetch("/data/severely_endangered.json"),
-                    fetch("/data/descriptions.json"),
-                ]);
+                const [voiceResponse, endangeredResponse, severelyEndangeredResponse, descriptionsResponse] =
+                    await Promise.all([
+                        fetch("/data/data.json"),
+                        fetch("/data/definitely_endangered.json"),
+                        fetch("/data/severely_endangered.json"),
+                        fetch("/data/descriptions.json"),
+                    ]);
 
                 const voiceData = await voiceResponse.json();
                 const endangeredData = await endangeredResponse.json();
@@ -150,32 +151,56 @@ const MapboxExample = () => {
                         status = "severely_endangered"; // Red - Severely endangered
                     }
 
-                    const fullName = dialect.name ||
-                            `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`;
-                    
-                    const languageInfo = {
-                        name: fullName,
-                        officialName: dialect.official_name,
-                        iso6393: langCode,
-                        dialect: dialectKey,
-                        status: status,
-                        voiceCount: voiceCount,
-                        speakers: speakers,
-                        description: getLanguageDescription(fullName, dialectKey, languageName),
-                        voice_ids: dialect.voice_ids,
-                        notes: dialect.notes,
-                    };
+                    const fullName =
+                        dialect.name || `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`;
 
-                    // Group by coordinates
-                    if (!coordinateGroups[coordKey]) {
-                        coordinateGroups[coordKey] = {
-                            lat: baseLat,
-                            long: baseLong,
-                            languages: [],
+                    if (dialect.notes) {
+                        const languageInfo = {
+                            name: fullName,
+                            officialName: dialect.official_name,
+                            iso6393: langCode,
+                            dialect: dialectKey,
+                            status: status,
+                            voiceCount: voiceCount,
+                            speakers: speakers,
+                            description: dialect.notes,
+                            voice_ids: dialect.voice_ids,
+                            notes: null,
                         };
-                    }
 
-                    coordinateGroups[coordKey].languages.push(languageInfo);
+                        // Group by coordinates
+                        if (!coordinateGroups[coordKey]) {
+                            coordinateGroups[coordKey] = {
+                                lat: baseLat,
+                                long: baseLong,
+                                languages: [],
+                            };
+                        }
+
+                        coordinateGroups[coordKey].languages.push(languageInfo);
+                    } else {
+                        const languageInfo = {
+                            name: fullName,
+                            officialName: dialect.official_name,
+                            iso6393: langCode,
+                            dialect: dialectKey,
+                            status: status,
+                            voiceCount: voiceCount,
+                            speakers: speakers,
+                            description: getLanguageDescription(fullName, dialectKey, languageName),
+                            voice_ids: dialect.voice_ids,
+                            notes: null,
+                        };
+                        // Group by coordinates
+                        if (!coordinateGroups[coordKey]) {
+                            coordinateGroups[coordKey] = {
+                                lat: baseLat,
+                                long: baseLong,
+                                languages: [],
+                            };
+                        }
+                        coordinateGroups[coordKey].languages.push(languageInfo);
+                    }
                 }
             });
         });
@@ -189,12 +214,10 @@ const MapboxExample = () => {
             console.log(`Looking for description for: "${fullName}" (dialect: ${dialectKey}, base: ${baseName})`);
 
             // Remove parentheses and content inside for cleaner matching
-            const cleanName = fullName.replace(/\s*\([^)]*\)/g, '').trim();
-            
+            const cleanName = fullName.replace(/\s*\([^)]*\)/g, "").trim();
+
             // Try exact match with full name first
-            let match = descriptionsData.find(
-                (d) => d.name && d.name.toLowerCase() === fullName.toLowerCase()
-            );
+            let match = descriptionsData.find((d) => d.name && d.name.toLowerCase() === fullName.toLowerCase());
 
             if (match?.description) {
                 console.log(`Found exact match with full name: "${match.name}"`);
@@ -202,9 +225,7 @@ const MapboxExample = () => {
             }
 
             // Try exact match with clean name (without parentheses)
-            match = descriptionsData.find(
-                (d) => d.name && d.name.toLowerCase() === cleanName.toLowerCase()
-            );
+            match = descriptionsData.find((d) => d.name && d.name.toLowerCase() === cleanName.toLowerCase());
 
             if (match?.description) {
                 console.log(`Found exact match with clean name: "${match.name}"`);
@@ -213,9 +234,7 @@ const MapboxExample = () => {
 
             // Try with dialect key combined with base name (e.g., "British English")
             const dialectName = `${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)} ${baseName}`;
-            match = descriptionsData.find(
-                (d) => d.name && d.name.toLowerCase() === dialectName.toLowerCase()
-            );
+            match = descriptionsData.find((d) => d.name && d.name.toLowerCase() === dialectName.toLowerCase());
 
             if (match?.description) {
                 console.log(`Found dialect combination match: "${match.name}"`);
@@ -223,9 +242,7 @@ const MapboxExample = () => {
             }
 
             // Try base name alone
-            match = descriptionsData.find(
-                (d) => d.name && d.name.toLowerCase() === baseName.toLowerCase()
-            );
+            match = descriptionsData.find((d) => d.name && d.name.toLowerCase() === baseName.toLowerCase());
 
             if (match?.description) {
                 console.log(`Found base name match: "${match.name}"`);

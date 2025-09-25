@@ -14,6 +14,8 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
   const [activeIndex, setActiveIndex] = useState(currentIndex);
   const [imageSrc, setImageSrc] = useState(null);
   const [imageTried, setImageTried] = useState(false);
+  const [googleFontsData, setGoogleFontsData] = useState(null);
+  const [fontsDataLoading, setFontsDataLoading] = useState(false);
   const closeBtnRef = useRef(null);
 
   // Normalize languages array
@@ -55,6 +57,33 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
     return () => { cancelled = true; };
   }, [activeIndex, language]);
 
+  // Load Google Fonts language data
+  useEffect(() => {
+    if (!language?.iso6393) return;
+    
+    let cancelled = false;
+    setFontsDataLoading(true);
+    setGoogleFontsData(null);
+    
+    (async () => {
+      try {
+        const response = await fetch(`/api/google-fonts-lang?lang=${language.iso6393.toLowerCase()}`);
+        if (response.ok) {
+          const result = await response.json();
+          if (result.success && !cancelled) {
+            setGoogleFontsData(result.data);
+          }
+        }
+      } catch (error) {
+        console.error('Error fetching Google Fonts data:', error);
+      } finally {
+        if (!cancelled) setFontsDataLoading(false);
+      }
+    })();
+    
+    return () => { cancelled = true; };
+  }, [activeIndex, language]);
+
   useEffect(() => {
     closeBtnRef.current?.focus();
   }, []);
@@ -75,11 +104,15 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
   }, [activeIndex, onSelectIndex]);
 
   const metaItems = [
-    { icon: <Users className="h-4 w-4 text-gray-500" />, label: 'Speakers', value: language.speakers ? language.speakers.toLocaleString() : '—' },
-    { icon: <Globe2 className="h-4 w-4 text-gray-500" />, label: 'Dialect', value: language.dialect || 'Standard' },
+    { icon: <Users className="h-4 w-4 text-gray-500" />, label: 'Speakers', value: language.speakers ? language.speakers.toLocaleString() : (googleFontsData?.population ? parseInt(googleFontsData.population).toLocaleString() : '—') },
+    { icon: <Globe2 className="h-4 w-4 text-gray-500" />, label: 'Script', value: googleFontsData?.script || 'Unknown' },
     { icon: <Languages className="h-4 w-4 text-gray-500" />, label: 'ISO', value: language.iso6393?.toUpperCase() },
     { icon: <BookOpen className="h-4 w-4 text-gray-500" />, label: 'Voices', value: language.voiceCount ?? 0 },
   ];
+
+  // Additional Google Fonts data
+  const regionList = googleFontsData?.regions?.slice(0, 8) || [];
+  const hasMoreRegions = googleFontsData?.regions?.length > 8;
 
   return (
     <ModalPortal>
@@ -152,6 +185,73 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
                     </div>
                   ))}
                 </div>
+
+                {/* Google Fonts regions data */}
+                {googleFontsData && regionList.length > 0 && (
+                  <div className="space-y-2">
+                    <h3 className="text-sm font-semibold text-gray-700">Regions ({googleFontsData.regions.length})</h3>
+                    <div className="flex flex-wrap gap-1.5">
+                      {regionList.map(region => (
+                        <span key={region} className="px-2 py-1 bg-blue-50 text-blue-700 text-xs rounded-md border">
+                          {region}
+                        </span>
+                      ))}
+                      {hasMoreRegions && (
+                        <span className="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded-md">
+                          +{googleFontsData.regions.length - 8} more
+                        </span>
+                      )}
+                    </div>
+                  </div>
+                )}
+
+                {/* Sample text from Google Fonts */}
+                {googleFontsData?.sample_text?.specimen_21 && (
+                  <div className="space-y-2">
+                    <h3 className="text-sm font-semibold text-gray-700">Sample Text</h3>
+                    <div className="bg-gray-50 rounded-lg p-3 border">
+                      <p className="text-sm text-gray-800 leading-relaxed" style={{ fontFamily: 'serif' }}>
+                        {googleFontsData.sample_text.specimen_21.split('\n')[0]}
+                      </p>
+                      {googleFontsData.autonym && googleFontsData.autonym !== googleFontsData.name && (
+                        <p className="text-xs text-gray-500 mt-2 italic">
+                          Native name: {googleFontsData.autonym}
+                        </p>
+                      )}
+                    </div>
+                  </div>
+                )}
+
+                {/* Character information */}
+                {googleFontsData?.exemplar_chars?.base && (
+                  <div className="space-y-2">
+                    <h3 className="text-sm font-semibold text-gray-700">Writing System</h3>
+                    <div className="bg-gray-50 rounded-lg p-3 border">
+                      <p className="text-xs text-gray-600 mb-1">Base characters:</p>
+                      <p className="text-sm font-mono text-gray-800 leading-relaxed break-all">
+                        {googleFontsData.exemplar_chars.base}
+                      </p>
+                      {googleFontsData.exemplar_chars.marks && (
+                        <div className="mt-2">
+                          <p className="text-xs text-gray-600 mb-1">Diacritical marks:</p>
+                          <p className="text-sm font-mono text-gray-800">
+                            {googleFontsData.exemplar_chars.marks}
+                          </p>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                )}
+
+                {/* Loading state for Google Fonts data */}
+                {fontsDataLoading && (
+                  <div className="bg-blue-50 rounded-lg p-3 border border-blue-200">
+                    <div className="flex items-center gap-2 text-blue-700">
+                      <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-blue-600"></div>
+                      <span className="text-xs">Loading additional language data...</span>
+                    </div>
+                  </div>
+                )}
 
                 {languages.length > 1 && (
                   <div className="space-y-2">
