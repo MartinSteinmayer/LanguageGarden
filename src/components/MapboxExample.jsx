@@ -193,10 +193,10 @@ const MapboxExample = () => {
     map.on('style.load', () => {
       map.setFog({
         'range': [0.5, 10],
-        'color': '#fafafa',
+        'color': 'rgba(34, 197, 94, 0.4)', // Green glow to match language dots
         'horizon-blend': 0.01,
-        'space-color': '#13141d',
-        'star-intensity': 0.1
+        'space-color': 'rgba(19, 20, 29, 0.2)', // Much more transparent space color
+        'star-intensity': 0.05 // Reduced star intensity
       });
 
       // Remove all labels - try multiple approaches for better compatibility
@@ -496,7 +496,16 @@ const MapboxExample = () => {
 
   return (
     <div className="relative w-full h-screen">
-      <div ref={mapContainerRef} className="w-full h-full" />
+      <div 
+        ref={mapContainerRef} 
+        className="w-full h-full"
+        style={{
+          backgroundImage: 'url(/globe_background.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat'
+        }}
+      />
       
       {/* Loading State */}
       {!countriesData && (
@@ -527,7 +536,7 @@ const MapboxExample = () => {
       
       {/* Header */}
       <div className="absolute top-6 left-6 z-10">
-        <div className="bg-gradient-to-r from-white to-gray-400 backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
+        <div className="bg-white backdrop-blur-sm rounded-lg px-6 py-4 shadow-lg">
           <h1 className="text-2xl font-bold text-gray-800 mb-1">
             Language Garden
           </h1>

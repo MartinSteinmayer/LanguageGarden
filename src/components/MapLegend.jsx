@@ -21,7 +21,7 @@ const MapLegend = () => {
   ];
 
   return (
-    <Card className="w-64 shadow-lg border-0 bg-gradient-to-r from-white to-gray-400 backdrop-blur-sm">
+    <Card className="w-64 shadow-lg border-0 bg-white backdrop-blur-sm">
       <CardHeader className="pb-3">
         <CardTitle className="text-lg font-bold text-gray-800">
           Language Status
