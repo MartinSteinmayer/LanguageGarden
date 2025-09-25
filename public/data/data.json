@@ -6268,21 +6268,6 @@
         "1SM7GgM6IMuvQlz2BwM3"
       ]
     },
-    "berlinerisch": {
-      "coordinates": {
-        "lat": "52.5200",
-        "long": "13.4050"
-      },
-      "official_name": "Berlinerisch",
-      "name": "Berlin German",
-      "speakers": 4000000,
-      "voice_ids": [
-        "63KlGpLjampc6zPAnzRO",
-        "1SM7GgM6IMuvQlz2BwM3",
-        "GjwXO8ukYgApX02zJ6SN",
-        "8WgkgItVYGBs7XNW7D6w"
-      ]
-    },
     "saxon": {
       "coordinates": {
         "lat": "51.1045",
@@ -6292,11 +6277,11 @@
       "name": "Saxon German",
       "speakers": 4000000,
       "voice_ids": [
+        "SMQKgThKQvXmuAzjIP2x",
+        "WHC0PNPIwjx2cCk34Hm8",
         "ONL1Ql05Ii3uXMufXbU7",
         "1SM7GgM6IMuvQlz2BwM3",
-        "sbJf8opzqSGRyRJzCVjD",
-        "WHC0PNPIwjx2cCk34Hm8",
-        "SMQKgThKQvXmuAzjIP2x"
+        "sbJf8opzqSGRyRJzCVjD"
       ]
     }
   },
