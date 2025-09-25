@@ -1,9 +1,10 @@
 "use client";
 
 import { useConversation } from "@elevenlabs/react";
-import { useCallback, useState, useRef, useEffect } from "react";
+import { useCallback, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
+import { isValidVoiceId } from "@/data/availableVoices";
 
 // Generate custom prompt for the language assistant
 const getPrompt = (language) => {
@@ -74,30 +75,6 @@ const VoiceChat = ({ language, onClose }) => {
 
     const [subtitle, setSubtitle] = useState("");
     const [isTranslating, setIsTranslating] = useState(false);
-    const [isThinking, setIsThinking] = useState(false);
-    const subtitleTimerRef = useRef(null);
-
-    // Clear subtitle timer function
-    const clearSubtitleTimer = () => {
-        if (subtitleTimerRef.current) {
-            clearTimeout(subtitleTimerRef.current);
-            subtitleTimerRef.current = null;
-        }
-    };
-
-    // Start 3-second timer to clear subtitles
-    const startSubtitleTimer = () => {
-        clearSubtitleTimer(); // Clear any existing timer
-        subtitleTimerRef.current = setTimeout(() => {
-            setSubtitle("");
-        }, 3000);
-    };
-
-
-    // Cleanup timer on unmount
-    useEffect(() => {
-        return () => clearSubtitleTimer();
-    }, []);
 
     // Translation function using Google Translate API
     const translateToEnglish = async (text, sourceLang) => {
@@ -132,15 +109,10 @@ const VoiceChat = ({ language, onClose }) => {
     // Initialize conversation exactly like official docs
     const conversation = useConversation({
         onConnect: () => console.log("Connected"),
-        onDisconnect: () => {
-            console.log("Disconnected");
-            clearSubtitleTimer();
-            setSubtitle("");
-        },
+        onDisconnect: () => console.log("Disconnected"),
         onMessage: async (message) => {
             if (message.source == "ai") {
                 console.log("AI Message:", message.message);
-                clearSubtitleTimer(); // Clear any existing timer when new message arrives
                 
                 // If the language is English, show directly
                 if (language.iso6393 === 'en') {
@@ -158,15 +130,6 @@ const VoiceChat = ({ language, onClose }) => {
         },
         onError: (error) => console.error("Error:", error),
     });
-
-    // Monitor when agent stops speaking to start subtitle timer
-    useEffect(() => {
-        if (conversation.status === "connected" && !conversation.isSpeaking && subtitle) {
-            startSubtitleTimer();
-        } else if (conversation.isSpeaking) {
-            clearSubtitleTimer(); // Clear timer if agent starts speaking again
-        }
-    }, [conversation.isSpeaking, conversation.status, subtitle]);
 
     const startConversation = useCallback(async () => {
         try {
@@ -210,7 +173,17 @@ const VoiceChat = ({ language, onClose }) => {
                 overrides.agent.language = language.iso6393;
             }
 
-            // Only add voice if we have a valid voice ID
+            // Only add voice if we have a valid voice ID that's in our approved list
+            if (voiceId && isValidVoiceId(voiceId)) {
+                overrides.tts = {
+                    voiceId: voiceId,
+                };
+                console.log("🎤 Using approved voice ID:", voiceId);
+            } else if (voiceId) {
+                console.log("⚠️ Voice ID not in approved list, using default agent voice. Requested:", voiceId);
+            } else {
+                console.log("⚠️ No voice ID found, using default agent voice");
+            }
 
             console.log("🚀 Starting session with overrides:", overrides);
             console.log("🔑 Agent ID:", process.env.NEXT_PUBLIC_ELEVENLABS_BASE_AGENT_ID);
@@ -267,9 +240,20 @@ const VoiceChat = ({ language, onClose }) => {
                 <div className="text-center mb-8">
                     <h2 className="text-2xl font-bold text-gray-800 mb-2">Voice Chat</h2>
                     <p className="text-gray-600">
-                        Practice <span className="font-semibold text-blue-600">{language.name}</span>
+                        Hear how <span className="font-semibold text-blue-600">{language.name}</span> sounds like!
                     </p>
                     {language.officialName && <p className="text-sm text-gray-500 mt-1">{language.officialName}</p>}
+                </div>
+
+                {/* Instructions */}
+                <div className="bg-blue-50 rounded-lg p-4 mb-6">
+                    <div className="text-center">
+                        <p className="text-sm text-blue-800 font-medium mb-1">💬 How to use:</p>
+                        <p className="text-xs text-blue-700">
+                            Talk in <span className="font-semibold">English</span> and the AI will respond in{" "}
+                            <span className="font-semibold">{language.name}</span> with English subtitles below
+                        </p>
+                    </div>
                 </div>
 
                 {/* Simple Status and Controls following official docs pattern */}
@@ -289,12 +273,6 @@ const VoiceChat = ({ language, onClose }) => {
                         >
                             Stop Conversation
                         </Button>
-                    </div>
-
-                    <div className="flex flex-col items-center text-center">
-                        <p className="text-gray-700">Status: {conversation.status}</p>
-                        <p className="text-gray-600">Agent is {conversation.isSpeaking ? "speaking" : "listening"}</p>
-                        <p className="text-sm text-gray-500 mt-2">Speaking in {language.name}</p>
                     </div>
                 </div>
 
