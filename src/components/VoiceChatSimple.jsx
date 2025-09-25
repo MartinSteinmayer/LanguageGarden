@@ -174,7 +174,7 @@ const VoiceChat = ({ language, onClose }) => {
             }
 
             // Only add voice if we have a valid voice ID that's in our approved list
-            if (voiceId && isValidVoiceId(voiceId)) {
+            if (voiceId && isValidVoiceId(voiceId) && voiceId !== "1SM7GgM6IMuvQlz2BwM3") {
                 overrides.tts = {
                     voiceId: voiceId,
                 };
@@ -279,7 +279,7 @@ const VoiceChat = ({ language, onClose }) => {
                 {/* Dynamic Subtitles */}
                 {conversation.status === "connected" && (
                     <div className="mb-6">
-                        <div className="bg-blue-50 rounded-lg p-4 min-h-[80px] max-h-[300px] overflow-y-auto">
+                        <div className="bg-blue-50 rounded-lg p-4 min-h-[80px] max-h-[500px] overflow-y-auto">
                             <div className="flex items-center justify-between mb-2">
                                 <span className="text-xs font-medium text-gray-500 uppercase tracking-wide">
                                     {conversation.isSpeaking ? "Agent Speaking" : "Listening..."}
