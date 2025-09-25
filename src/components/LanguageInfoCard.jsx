@@ -131,7 +131,23 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
       
       <CardContent className="space-y-4">
         <CardDescription className="text-sm text-gray-600">
-          {currentLanguage.description}
+          {currentLanguage.description && currentLanguage.description.length > 300 ? (
+            <>
+              {(() => {
+                const truncated = currentLanguage.description.substring(0, 300);
+                const lastSpaceIndex = truncated.lastIndexOf(' ');
+                return lastSpaceIndex > 0 ? truncated.substring(0, lastSpaceIndex) : truncated;
+              })()}
+              <button
+                onClick={() => setShowExtended(true)}
+                className="text-blue-600 hover:text-blue-800 font-medium cursor-pointer ml-1 transition-colors"
+              >
+                ...
+              </button>
+            </>
+          ) : (
+            currentLanguage.description
+          )}
         </CardDescription>
         
         <Separator />
@@ -185,7 +201,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
             className="w-full text-xs"
             onClick={() => setShowExtended(true)}
           >
-            More Info
+            Learn More
           </Button>
         </div>
       </CardContent>

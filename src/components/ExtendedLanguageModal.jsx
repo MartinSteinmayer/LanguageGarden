@@ -59,15 +59,16 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
 
   // Load Google Fonts language data
   useEffect(() => {
-    if (!language?.iso6393) return;
-    
+    let iso = language?.iso6393?.toLowerCase() || language?.iso_639_3?.toLowerCase();
+    if (!iso) return;
+
     let cancelled = false;
     setFontsDataLoading(true);
     setGoogleFontsData(null);
     
     (async () => {
       try {
-        const response = await fetch(`/api/google-fonts-lang?lang=${language.iso6393.toLowerCase()}`);
+        const response = await fetch(`/api/google-fonts-lang?lang=${iso}`);
         if (response.ok) {
           const result = await response.json();
           if (result.success && !cancelled) {
