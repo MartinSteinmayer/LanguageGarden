@@ -55,10 +55,6 @@
     "galician": {
       "official_name": "Español Gallego",
       "name": "Galician Spanish"
-    },
-    "castillian": {
-      "official_name": "Castellano",
-      "name": "Castilian Spanish"
     }
   },
   "en": {
@@ -90,10 +86,6 @@
       "official_name": "Irish English",
       "name": "Irish English"
     },
-    "us southern": {
-      "official_name": "Southern American English",
-      "name": "Southern American English"
-    },
     "canadian": {
       "official_name": "Canadian English",
       "name": "Canadian English"
@@ -109,10 +101,6 @@
     "new york": {
       "official_name": "New York English",
       "name": "New York English"
-    },
-    "hindi": {
-      "official_name": "Hindi English",
-      "name": "Hindi English"
     },
     "african american": {
       "official_name": "African American English",
@@ -134,10 +122,6 @@
       "official_name": "Yorkshire English",
       "name": "Yorkshire English"
     },
-    "tamil": {
-      "official_name": "Tamil English",
-      "name": "Tamil English"
-    },
     "chicago": {
       "official_name": "Chicago English",
       "name": "Chicago English"
@@ -153,10 +137,6 @@
     "cockney": {
       "official_name": "Cockney",
       "name": "Cockney English"
-    },
-    "african": {
-      "official_name": "African English",
-      "name": "African English"
     }
   },
   "fr": {
@@ -169,7 +149,7 @@
       "name": "French"
     },
     "swiss": {
-      "official_name": "Français Suisse",
+      "official_name": "Français de Suisse",
       "name": "Swiss French"
     },
     "quebec": {
@@ -311,10 +291,6 @@
     "haryanvi": {
       "official_name": "हरियाणवी हिन्दी",
       "name": "Haryanvi Hindi"
-    },
-    "indian": {
-      "official_name": "भारतीय हिन्दी",
-      "name": "Indian Hindi"
     }
   },
   "ja": {
@@ -347,7 +323,7 @@
       "name": "Moscow Russian"
     },
     "standard": {
-      "official_name": "Русский язык",
+      "official_name": "Русский",
       "name": "Russian"
     },
     "saint petersburg": {
@@ -375,10 +351,6 @@
     "saxon": {
       "official_name": "Sächsisch",
       "name": "Saxon German"
-    },
-    "german": {
-      "official_name": "Deutsch",
-      "name": "German"
     },
     "american german": {
       "official_name": "Amerikanisches Deutsch",

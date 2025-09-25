@@ -1,0 +1,567 @@
+{
+  "es": {
+    "mexican": {
+      "speakers": 125000000
+    },
+    "peninsular": {
+      "speakers": 43520000
+    },
+    "argentine": {
+      "speakers": 45000000
+    },
+    "peruvian": {
+      "speakers": 26000000
+    },
+    "colombian": {
+      "speakers": 51740000
+    },
+    "dominican": {
+      "speakers": 10500000
+    },
+    "chilean": {
+      "speakers": 18500000
+    },
+    "andalusian": {
+      "speakers": 8400000
+    },
+    "cuban": {
+      "speakers": 11300000
+    },
+    "puerto rican": {
+      "speakers": 6000000
+    },
+    "ecuadorian": {
+      "speakers": 16000000
+    },
+    "venezuelan": {
+      "speakers": 28000000
+    },
+    "canary islands": {
+      "speakers": 2200000
+    },
+    "galician": {
+      "speakers": 2400000
+    }
+  },
+  "en": {
+    "american": {
+      "speakers": 244079241
+    },
+    "british": {
+      "speakers": 63718834
+    },
+    "indian": {
+      "speakers": 228539090
+    },
+    "australian": {
+      "speakers": 23161344
+    },
+    "south african": {
+      "speakers": 16722208
+    },
+    "new zealand": {
+      "speakers": 3800000
+    },
+    "irish": {
+      "speakers": 6800000
+    },
+    "canadian": {
+      "speakers": 30480750
+    },
+    "nigerian": {
+      "speakers": 108044691
+    },
+    "scottish": {
+      "speakers": 5200000
+    },
+    "new york": {
+      "speakers": 20000000
+    },
+    "african american": {
+      "speakers": 30000000
+    },
+    "geordie": {
+      "speakers": 800000
+    },
+    "singaporean": {
+      "speakers": 4200000
+    },
+    "boston": {
+      "speakers": 4500000
+    },
+    "yorkshire": {
+      "speakers": 5400000
+    },
+    "chicago": {
+      "speakers": 9500000
+    },
+    "welsh": {
+      "speakers": 2900000
+    },
+    "jamaican": {
+      "speakers": 2800000
+    },
+    "cockney": {
+      "speakers": 15
+    }
+  },
+  "fr": {
+    "parisian": {
+      "speakers": 2048472
+    },
+    "standard": {
+      "speakers": 312000000
+    },
+    "swiss": {
+      "speakers": 2100000
+    },
+    "quebec": {
+      "speakers": 6500000
+    },
+    "african": {
+      "speakers": 320000000
+    },
+    "meridional": {
+      "speakers": 15000000
+    },
+    "belgian": {
+      "speakers": 4500000
+    },
+    "american": {
+      "speakers": 77000
+    }
+  },
+  "vi": {
+    "standard": {
+      "speakers": 95000000
+    },
+    "southern": {
+      "speakers": 35000000
+    },
+    "central": {
+      "speakers": 15000000
+    },
+    "northern": {
+      "speakers": 45000000
+    }
+  },
+  "pt": {
+    "rio de janeiro": {
+      "speakers": 13000000
+    },
+    "sao paulo": {
+      "speakers": 22000000
+    },
+    "minas gerais": {
+      "speakers": 21000000
+    },
+    "interior paulista": {
+      "speakers": 23000000
+    },
+    "nordeste": {
+      "speakers": 57000000
+    },
+    "centro-oeste": {
+      "speakers": 16000000
+    },
+    "brazilian": {
+      "speakers": 215000000
+    },
+    "european": {
+      "speakers": 10500000
+    },
+    "african": {
+      "speakers": 35000000
+    }
+  },
+  "ko": {
+    "seoul": {
+      "speakers": 25000000
+    },
+    "jeolla": {
+      "speakers": 3500000
+    },
+    "standard": {
+      "speakers": 77000000
+    },
+    "hamgyong": {
+      "speakers": 2500000
+    },
+    "gyeongsang": {
+      "speakers": 13000000
+    },
+    "chungcheong": {
+      "speakers": 5500000
+    }
+  },
+  "hi": {
+    "standard": {
+      "speakers": 600000000
+    },
+    "marathi": {
+      "speakers": 83000000
+    },
+    "bhojpuri": {
+      "speakers": 52000000
+    },
+    "gujarati": {
+      "speakers": 56000000
+    },
+    "bengali": {
+      "speakers": 97000000
+    },
+    "tamil": {
+      "speakers": 77000000
+    },
+    "bihari": {
+      "speakers": 104000000
+    },
+    "punjabi": {
+      "speakers": 33000000
+    },
+    "haryanvi": {
+      "speakers": 25000000
+    }
+  },
+  "ja": {
+    "kanto": {
+      "speakers": 43000000
+    },
+    "kansai": {
+      "speakers": 22000000
+    },
+    "standard": {
+      "speakers": 125000000
+    }
+  },
+  "sk": {
+    "central": {
+      "speakers": 2000000
+    },
+    "standard": {
+      "speakers": 5400000
+    }
+  },
+  "ru": {
+    "moscow": {
+      "speakers": 17000000
+    },
+    "standard": {
+      "speakers": 154000000
+    },
+    "saint petersburg": {
+      "speakers": 5400000
+    }
+  },
+  "de": {
+    "standard": {
+      "speakers": 95000000
+    },
+    "bavarian": {
+      "speakers": 14000000
+    },
+    "rhine franconian": {
+      "speakers": 3500000
+    },
+    "berlinerisch": {
+      "speakers": 4000000
+    },
+    "saxon": {
+      "speakers": 4000000
+    },
+    "german": {
+      "speakers": 95000000
+    },
+    "american german": {
+      "speakers": 400000
+    }
+  },
+  "fil": {
+    "standard": {
+      "speakers": 45000000
+    },
+    "cebuano": {
+      "speakers": 15900000
+    },
+    "ilocano": {
+      "speakers": 7700000
+    }
+  },
+  "id": {
+    "standard": {
+      "speakers": 280000000
+    },
+    "javanese": {
+      "speakers": 85000000
+    },
+    "sundanese": {
+      "speakers": 40000000
+    },
+    "id-standard": {
+      "speakers": 23000000
+    },
+    "balinese": {
+      "speakers": 4500000
+    }
+  },
+  "it": {
+    "standard": {
+      "speakers": 65000000
+    },
+    "romanesco": {
+      "speakers": 4000000
+    },
+    "tuscan": {
+      "speakers": 3700000
+    },
+    "milanese": {
+      "speakers": 3200000
+    },
+    "venetian": {
+      "speakers": 4900000
+    },
+    "sicilian": {
+      "speakers": 5000000
+    },
+    "florentine": {
+      "speakers": 380000
+    },
+    "neapolitan": {
+      "speakers": 3100000
+    }
+  },
+  "pl": {
+    "standard": {
+      "speakers": 39700000
+    },
+    "kashubian": {
+      "speakers": 87600
+    },
+    "mazovian": {
+      "speakers": 5500000
+    }
+  },
+  "ar": {
+    "saudi": {
+      "speakers": 35000000
+    },
+    "egyptian": {
+      "speakers": 104000000
+    },
+    "modern standard": {
+      "speakers": 422000000
+    },
+    "algerian": {
+      "speakers": 44000000
+    },
+    "palestinian": {
+      "speakers": 13000000
+    },
+    "moroccan": {
+      "speakers": 37000000
+    },
+    "jordanian": {
+      "speakers": 10000000
+    },
+    "gulf": {
+      "speakers": 10000000
+    },
+    "kuwaiti": {
+      "speakers": 4500000
+    },
+    "levantine": {
+      "speakers": 30000000
+    }
+  },
+  "nl": {
+    "standard": {
+      "speakers": 17000000
+    },
+    "flemish": {
+      "speakers": 6500000
+    },
+    "limburgish": {
+      "speakers": 1300000
+    }
+  },
+  "tr": {
+    "standard": {
+      "speakers": 82000000
+    },
+    "istanbul": {
+      "speakers": 16000000
+    },
+    "aegean": {
+      "speakers": 10000000
+    },
+    "eastern": {
+      "speakers": 8000000
+    },
+    "central": {
+      "speakers": 12000000
+    },
+    "anatolian": {
+      "speakers": 50000000
+    },
+    "american": {
+      "speakers": 500000
+    },
+    "british": {
+      "speakers": 400000
+    }
+  },
+  "cs": {
+    "standard": {
+      "speakers": 10700000
+    },
+    "moravian": {
+      "speakers": 3200000
+    },
+    "prague": {
+      "speakers": 2700000
+    }
+  },
+  "zh": {
+    "taiwan mandarin": {
+      "speakers": 19500000
+    },
+    "beijing mandarin": {
+      "speakers": 22000000
+    },
+    "hong kong cantonese": {
+      "speakers": 7500000
+    },
+    "standard": {
+      "speakers": 955000000
+    },
+    "singapore mandarin": {
+      "speakers": 2800000
+    }
+  },
+  "ro": {
+    "moldovan": {
+      "speakers": 2600000
+    },
+    "standard": {
+      "speakers": 24000000
+    },
+    "oltenia": {
+      "speakers": 2100000
+    },
+    "transylvanian": {
+      "speakers": 7000000
+    }
+  },
+  "ms": {
+    "malaysian": {
+      "speakers": 33500000
+    }
+  },
+  "uk": {
+    "standard": {
+      "speakers": 41000000
+    },
+    "kiev": {
+      "speakers": 3500000
+    }
+  },
+  "ta": {
+    "chennai": {
+      "speakers": 10000000
+    },
+    "standard": {
+      "speakers": 78000000
+    },
+    "coimbatore": {
+      "speakers": 3500000
+    }
+  },
+  "bg": {
+    "sofia": {
+      "speakers": 1400000
+    },
+    "standard": {
+      "speakers": 7000000
+    }
+  },
+  "hu": {
+    "standard": {
+      "speakers": 13000000
+    },
+    "budapest": {
+      "speakers": 3300000
+    }
+  },
+  "no": {
+    "oslo": {
+      "speakers": 1700000
+    },
+    "bergen": {
+      "speakers": 420000
+    },
+    "standard": {
+      "speakers": 5400000
+    }
+  },
+  "fi": {
+    "turku": {
+      "speakers": 330000
+    },
+    "helsinki": {
+      "speakers": 1500000
+    },
+    "standard": {
+      "speakers": 5500000
+    },
+    "western": {
+      "speakers": 2000000
+    }
+  },
+  "sv": {
+    "scanian": {
+      "speakers": 1400000
+    },
+    "gothenburg": {
+      "speakers": 1000000
+    },
+    "standard": {
+      "speakers": 10500000
+    },
+    "stockholm": {
+      "speakers": 2400000
+    }
+  },
+  "da": {
+    "standard": {
+      "speakers": 6000000
+    },
+    "jutlandic": {
+      "speakers": 2800000
+    },
+    "zealandic": {
+      "speakers": 2500000
+    }
+  },
+  "hr": {
+    "standard": {
+      "speakers": 5600000
+    },
+    "zagreb": {
+      "speakers": 1200000
+    }
+  },
+  "el": {
+    "standard": {
+      "speakers": 13400000
+    },
+    "macedonian": {
+      "speakers": 2400000
+    },
+    "athenian": {
+      "speakers": 3800000
+    },
+    "aegean": {
+      "speakers": 500000
+    }
+  }
+}
