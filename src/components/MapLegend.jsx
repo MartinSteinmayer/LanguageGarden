@@ -8,26 +8,20 @@ const MapLegend = () => {
   const legendItems = [
     {
       icon: <Mic className="h-3 w-3" />,
-      label: "Voice Chat Available",
+      label: "Language Available",
       color: "bg-green-500",
-      description: "Ready for conversation"
-    },
-    {
-      icon: <Book className="h-3 w-3" />,
-      label: "History Available",
-      color: "bg-yellow-500",
-      description: "Learn & fund voice"
+      description: "Chat & learn culture"
     },
     {
       icon: <Heart className="h-3 w-3" />,
-      label: "Needs Funding",
+      label: "Endangered Language",
       color: "bg-red-500",
-      description: "Help us get started"
+      description: "Learn & fund voice chat"
     }
   ];
 
   return (
-    <Card className="w-64 shadow-lg border-0 bg-white/90 backdrop-blur-sm">
+    <Card className="w-64 shadow-lg border-0 bg-gradient-to-r from-white to-gray-400 backdrop-blur-sm">
       <CardHeader className="pb-3">
         <CardTitle className="text-lg font-bold text-gray-800">
           Language Status
