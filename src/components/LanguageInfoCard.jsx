@@ -72,7 +72,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
           badge: 'Severely Endangered',
           color: 'bg-red-500',
           icon: <Heart className="h-4 w-4" />,
-          buttonText: 'Urgent: Help Preserve',
+          buttonText: 'Help Preserve (High Priority)',
           buttonVariant: 'outline'
         };
     }
@@ -181,7 +181,9 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
         <Separator />
         <div className="flex flex-col gap-2">
           <Button 
-            className={`w-full ${statusConfig.color} cursor-pointer`}
+            className={`w-full ${statusConfig.color} cursor-pointer ${
+              currentLanguage.status !== 'voice' ? 'text-white hover:text-black' : ''
+            }`}
             variant={statusConfig.buttonVariant}
             onClick={() => {
               if (currentLanguage.status === 'voice') {

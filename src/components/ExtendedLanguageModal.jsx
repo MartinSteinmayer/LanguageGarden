@@ -45,7 +45,7 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
     
     (async () => {
       for (const ext of IMAGE_EXTS) {
-        const path = `/data/images_data/${iso}_${dialect}${ext}`;
+        const path = `/data/images_data/${iso}_${dialect.replace(/\s+/g, '_')}${ext}`;
         try {
           const res = await fetch(path, { method: 'HEAD' });
           if (res.ok) {

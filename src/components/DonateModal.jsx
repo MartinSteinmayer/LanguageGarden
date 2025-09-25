@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { X, Heart, ShieldCheck } from "lucide-react";
 import ModalPortal from "./ModalPortal";
+import ThankYouModal from "./ThankYouModal";
 
 // Simple placeholder donation modal. Later you can swap the handleDonate logic
 // for Stripe Checkout, Payment Links, or a server route that creates a Checkout Session.
@@ -15,6 +16,7 @@ export default function DonateModal({ language, onClose }) {
   const [selectedAmount, setSelectedAmount] = useState(25);
   const [customAmount, setCustomAmount] = useState("");
   const [loading, setLoading] = useState(false);
+  const [showThankYou, setShowThankYou] = useState(false);
   const closeBtnRef = useRef(null);
 
   const amount = customAmount ? Number(customAmount) : selectedAmount;
@@ -42,7 +44,12 @@ export default function DonateModal({ language, onClose }) {
       // const res = await fetch("/api/create-checkout", { method: "POST", body: JSON.stringify({ amount, language }) });
       // const { url } = await res.json(); window.location.href = url;
       console.log("Simulated donation:", { amount, iso: language?.iso6393, name: language?.name });
-      onClose();
+      
+      // Simulate a brief delay for payment processing
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      
+      // Show thank you modal instead of just closing
+      setShowThankYou(true);
     } catch (e) {
       console.error("Donate error", e);
     } finally {
@@ -50,13 +57,23 @@ export default function DonateModal({ language, onClose }) {
     }
   };
 
+  // Handle thank you modal close
+  const handleThankYouClose = () => {
+    setShowThankYou(false);
+    onClose();
+  };
+
   return (
-    <ModalPortal>
-      <div
-        className="fixed inset-0 z-[999] flex items-center justify-center p-4"
-        aria-modal="true"
-        role="dialog"
-      >
+    <>
+      {showThankYou && <ThankYouModal onClose={handleThankYouClose} />}
+      
+      {!showThankYou && (
+        <ModalPortal>
+          <div
+            className="fixed inset-0 z-[999] flex items-center justify-center p-4"
+            aria-modal="true"
+            role="dialog"
+          >
         <div
           className="absolute inset-0 bg-black/65 backdrop-blur-sm animate-in fade-in duration-200"
           onClick={onClose}
@@ -76,13 +93,18 @@ export default function DonateModal({ language, onClose }) {
                 <Heart className="h-6 w-6 text-red-500" />
                 Preserve {language?.name}
               </h2>
-              <p className="text-xs text-gray-600 mt-2 leading-relaxed">
-                Fuel documentation, community engagement, and future voice model development for this
+              <p className="text-sm text-gray-600 mt-2 leading-relaxed">
+                Your donation directly supports critical language preservation efforts: digital archiving,
+                community speaker programs, educational resources, and AI voice model development.
+                Help save this
                 {" "}
-                <span className="font-medium text-gray-700">
+                <span className="font-medium text-red-600">
                   {language?.status === 'endangered' ? 'endangered' : 'severely endangered'}
                 </span>{" "}
-                language.
+                language from disappearing forever.
+              </p>
+              <p className="text-xs text-gray-500 mt-3">
+                Done in partnership with <a href="https://elevenlabs.io/about" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline font-medium">ElevenLabs</a>
               </p>
             </div>
 
@@ -117,9 +139,10 @@ export default function DonateModal({ language, onClose }) {
 
             <Separator className="my-5" />
 
-            <div className="space-y-2 text-xs text-gray-600 mb-6">
-              <div className="flex items-start gap-2"><ShieldCheck className="h-4 w-4 text-green-500 mt-0.5" /><span>100% directed to preservation + voice enablement roadmap.</span></div>
-              <div className="flex items-start gap-2"><ShieldCheck className="h-4 w-4 text-green-500 mt-0.5" /><span>Planned: transparent public milestone ledger.</span></div>
+            <div className="space-y-3 text-sm text-gray-600 mb-6">
+              <div className="flex items-start gap-3"><ShieldCheck className="h-5 w-5 text-green-500 mt-0.5 flex-shrink-0" /><span>100% directed to preservation efforts, documentation projects, and voice AI development with ElevenLabs.</span></div>
+              <div className="flex items-start gap-3"><Heart className="h-5 w-5 text-red-500 mt-0.5 flex-shrink-0" /><span>Every dollar helps train native speakers, digitize oral histories, and create learning materials.</span></div>
+              <div className="flex items-start gap-3"><ShieldCheck className="h-5 w-5 text-green-500 mt-0.5 flex-shrink-0" /><span>Transparent public milestone tracking with community impact reports.</span></div>
             </div>
 
             <Button
@@ -133,5 +156,7 @@ export default function DonateModal({ language, onClose }) {
         </div>
       </div>
     </ModalPortal>
+      )}
+    </>
   );
 }
