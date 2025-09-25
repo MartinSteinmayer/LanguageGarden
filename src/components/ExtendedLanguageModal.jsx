@@ -36,11 +36,16 @@ export default function ExtendedLanguageModal({ languageGroup, currentIndex = 0,
   useEffect(() => {
     if (!language) return;
     const iso = language.iso6393?.toLowerCase();
-    if (!iso) return;
+    const dialect = language.dialect?.toLowerCase();
+    if (!iso || !dialect) return;
+    
     let cancelled = false;
+    setImageSrc(null);
+    setImageTried(false);
+    
     (async () => {
       for (const ext of IMAGE_EXTS) {
-        const path = `/data/images_severely_endangered/${iso}${ext}`;
+        const path = `/data/images_data/${iso}_${dialect}${ext}`;
         try {
           const res = await fetch(path, { method: 'HEAD' });
           if (res.ok) {
