@@ -714,5 +714,251 @@
       "official_name": "Αιγαιακά",
       "name": "Aegean Greek"
     }
+  },
+  "af": {
+    "standard": {
+      "official_name": "Afrikaans",
+      "name": "Afrikaans"
+    }
+  },
+  "hy": {
+    "standard": {
+      "official_name": "Հայերեն",
+      "name": "Armenian"
+    }
+  },
+  "as": {
+    "standard": {
+      "official_name": "অসমীয়া",
+      "name": "Assamese"
+    }
+  },
+  "az": {
+    "standard": {
+      "official_name": "Azərbaycan dili",
+      "name": "Azerbaijani"
+    }
+  },
+  "be": {
+    "standard": {
+      "official_name": "Беларуская мова",
+      "name": "Belarusian"
+    }
+  },
+  "bn": {
+    "standard": {
+      "official_name": "বাংলা",
+      "name": "Bengali"
+    }
+  },
+  "bs": {
+    "standard": {
+      "official_name": "Bosanski jezik",
+      "name": "Bosnian"
+    }
+  },
+  "ca": {
+    "standard": {
+      "official_name": "Català",
+      "name": "Catalan"
+    }
+  },
+  "ceb": {
+    "standard": {
+      "official_name": "Sinugboanong Binisayâ",
+      "name": "Cebuano"
+    }
+  },
+  "ny": {
+    "standard": {
+      "official_name": "Chicheŵa",
+      "name": "Chichewa"
+    }
+  },
+  "et": {
+    "standard": {
+      "official_name": "Eesti keel",
+      "name": "Estonian"
+    }
+  },
+  "gl": {
+    "standard": {
+      "official_name": "Galego",
+      "name": "Galician"
+    }
+  },
+  "ka": {
+    "standard": {
+      "official_name": "ქართული ენა",
+      "name": "Georgian"
+    }
+  },
+  "gu": {
+    "standard": {
+      "official_name": "ગુજરાતી",
+      "name": "Gujarati"
+    }
+  },
+  "ha": {
+    "standard": {
+      "official_name": "هَوُسَ",
+      "name": "Hausa"
+    }
+  },
+  "he": {
+    "standard": {
+      "official_name": "עברית",
+      "name": "Hebrew"
+    }
+  },
+  "is": {
+    "standard": {
+      "official_name": "Íslenska",
+      "name": "Icelandic"
+    }
+  },
+  "ga": {
+    "standard": {
+      "official_name": "Gaeilge",
+      "name": "Irish"
+    }
+  },
+  "jv": {
+    "standard": {
+      "official_name": "Basa Jawa",
+      "name": "Javanese"
+    }
+  },
+  "kn": {
+    "standard": {
+      "official_name": "ಕನ್ನಡ",
+      "name": "Kannada"
+    }
+  },
+  "kk": {
+    "standard": {
+      "official_name": "Қазақ тілі",
+      "name": "Kazakh"
+    }
+  },
+  "ky": {
+    "standard": {
+      "official_name": "Кыргыз тили",
+      "name": "Kirghiz"
+    }
+  },
+  "lv": {
+    "standard": {
+      "official_name": "Latviešu valoda",
+      "name": "Latvian"
+    }
+  },
+  "ln": {
+    "standard": {
+      "official_name": "Lingála",
+      "name": "Lingala"
+    }
+  },
+  "lt": {
+    "standard": {
+      "official_name": "Lietuvių kalba",
+      "name": "Lithuanian"
+    }
+  },
+  "lb": {
+    "standard": {
+      "official_name": "Lëtzebuergesch",
+      "name": "Luxembourgish"
+    }
+  },
+  "mk": {
+    "standard": {
+      "official_name": "Македонски јазик",
+      "name": "Macedonian"
+    }
+  },
+  "ml": {
+    "standard": {
+      "official_name": "മലയാളം",
+      "name": "Malayalam"
+    }
+  },
+  "mr": {
+    "standard": {
+      "official_name": "मराठी",
+      "name": "Marathi"
+    }
+  },
+  "ne": {
+    "standard": {
+      "official_name": "नेपाली",
+      "name": "Nepali"
+    }
+  },
+  "ps": {
+    "standard": {
+      "official_name": "پښتو",
+      "name": "Pashto"
+    }
+  },
+  "fa": {
+    "standard": {
+      "official_name": "فارسی",
+      "name": "Persian"
+    }
+  },
+  "pa": {
+    "standard": {
+      "official_name": "ਪੰਜਾਬੀ",
+      "name": "Punjabi"
+    }
+  },
+  "sr": {
+    "standard": {
+      "official_name": "Српски језик",
+      "name": "Serbian"
+    }
+  },
+  "sd": {
+    "standard": {
+      "official_name": "سنڌي",
+      "name": "Sindhi"
+    }
+  },
+  "sl": {
+    "standard": {
+      "official_name": "Slovenščina",
+      "name": "Slovenian"
+    }
+  },
+  "so": {
+    "standard": {
+      "official_name": "Af Soomaali",
+      "name": "Somali"
+    }
+  },
+  "sw": {
+    "standard": {
+      "official_name": "Kiswahili",
+      "name": "Swahili"
+    }
+  },
+  "th": {
+    "standard": {
+      "official_name": "ภาษาไทย",
+      "name": "Thai"
+    }
+  },
+  "ur": {
+    "standard": {
+      "official_name": "اردو",
+      "name": "Urdu"
+    }
+  },
+  "cy": {
+    "standard": {
+      "official_name": "Cymraeg",
+      "name": "Welsh"
+    }
   }
 }

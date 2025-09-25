@@ -563,5 +563,210 @@
     "aegean": {
       "speakers": 500000
     }
+  },
+  "af": {
+    "standard": {
+      "speakers": 7200000
+    }
+  },
+  "hy": {
+    "standard": {
+      "speakers": 6700000
+    }
+  },
+  "as": {
+    "standard": {
+      "speakers": 15000000
+    }
+  },
+  "az": {
+    "standard": {
+      "speakers": 23000000
+    }
+  },
+  "be": {
+    "standard": {
+      "speakers": 5100000
+    }
+  },
+  "bn": {
+    "standard": {
+      "speakers": 300000000
+    }
+  },
+  "bs": {
+    "standard": {
+      "speakers": 2700000
+    }
+  },
+  "ca": {
+    "standard": {
+      "speakers": 10000000
+    }
+  },
+  "ceb": {
+    "standard": {
+      "speakers": 25700000
+    }
+  },
+  "ny": {
+    "standard": {
+      "speakers": 12000000
+    }
+  },
+  "et": {
+    "standard": {
+      "speakers": 1100000
+    }
+  },
+  "gl": {
+    "standard": {
+      "speakers": 2400000
+    }
+  },
+  "ka": {
+    "standard": {
+      "speakers": 3700000
+    }
+  },
+  "gu": {
+    "standard": {
+      "speakers": 56000000
+    }
+  },
+  "ha": {
+    "standard": {
+      "speakers": 70000000
+    }
+  },
+  "he": {
+    "standard": {
+      "speakers": 9000000
+    }
+  },
+  "is": {
+    "standard": {
+      "speakers": 314000
+    }
+  },
+  "ga": {
+    "standard": {
+      "speakers": 170000
+    }
+  },
+  "jv": {
+    "standard": {
+      "speakers": 68000000
+    }
+  },
+  "kn": {
+    "standard": {
+      "speakers": 44000000
+    }
+  },
+  "kk": {
+    "standard": {
+      "speakers": 13000000
+    }
+  },
+  "ky": {
+    "standard": {
+      "speakers": 4500000
+    }
+  },
+  "lv": {
+    "standard": {
+      "speakers": 1750000
+    }
+  },
+  "ln": {
+    "standard": {
+      "speakers": 20000000
+    }
+  },
+  "lt": {
+    "standard": {
+      "speakers": 3000000
+    }
+  },
+  "lb": {
+    "standard": {
+      "speakers": 390000
+    }
+  },
+  "mk": {
+    "standard": {
+      "speakers": 1400000
+    }
+  },
+  "ml": {
+    "standard": {
+      "speakers": 38000000
+    }
+  },
+  "mr": {
+    "standard": {
+      "speakers": 83000000
+    }
+  },
+  "ne": {
+    "standard": {
+      "speakers": 16000000
+    }
+  },
+  "ps": {
+    "standard": {
+      "speakers": 60000000
+    }
+  },
+  "fa": {
+    "standard": {
+      "speakers": 110000000
+    }
+  },
+  "pa": {
+    "standard": {
+      "speakers": 113000000
+    }
+  },
+  "sr": {
+    "standard": {
+      "speakers": 12000000
+    }
+  },
+  "sd": {
+    "standard": {
+      "speakers": 25000000
+    }
+  },
+  "sl": {
+    "standard": {
+      "speakers": 2500000
+    }
+  },
+  "so": {
+    "standard": {
+      "speakers": 21800000
+    }
+  },
+  "sw": {
+    "standard": {
+      "speakers": 200000000
+    }
+  },
+  "th": {
+    "standard": {
+      "speakers": 61000000
+    }
+  },
+  "ur": {
+    "standard": {
+      "speakers": 230000000
+    }
+  },
+  "cy": {
+    "standard": {
+      "speakers": 700000
+    }
   }
 }

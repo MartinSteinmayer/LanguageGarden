@@ -8371,5 +8371,579 @@
         "Jv2zcgjn9Qu0uNMKJjb1"
       ]
     }
+  },
+  "af": {
+    "standard": {
+      "coordinates": {
+        "lat": "-25.7461",
+        "long": "28.1881"
+      },
+      "official_name": "Afrikaans",
+      "name": "Afrikaans",
+      "speakers": 7200000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "hy": {
+    "standard": {
+      "coordinates": {
+        "lat": "40.1792",
+        "long": "44.4991"
+      },
+      "official_name": "Հայերեն",
+      "name": "Armenian",
+      "speakers": 6700000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "as": {
+    "standard": {
+      "coordinates": {
+        "lat": "26.2006",
+        "long": "92.9376"
+      },
+      "official_name": "অসমীয়া",
+      "name": "Assamese",
+      "speakers": 15000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "az": {
+    "standard": {
+      "coordinates": {
+        "lat": "40.1431",
+        "long": "47.5769"
+      },
+      "official_name": "Azərbaycan dili",
+      "name": "Azerbaijani",
+      "speakers": 23000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "be": {
+    "standard": {
+      "coordinates": {
+        "lat": "53.7098",
+        "long": "27.9534"
+      },
+      "official_name": "Беларуская мова",
+      "name": "Belarusian",
+      "speakers": 5100000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "bn": {
+    "standard": {
+      "coordinates": {
+        "lat": "23.6850",
+        "long": "90.3563"
+      },
+      "official_name": "বাংলা",
+      "name": "Bengali",
+      "speakers": 300000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "bs": {
+    "standard": {
+      "coordinates": {
+        "lat": "43.9159",
+        "long": "17.6791"
+      },
+      "official_name": "Bosanski jezik",
+      "name": "Bosnian",
+      "speakers": 2700000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ca": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.3851",
+        "long": "2.1734"
+      },
+      "official_name": "Català",
+      "name": "Catalan",
+      "speakers": 10000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ceb": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.3157",
+        "long": "123.8854"
+      },
+      "official_name": "Sinugboanong Binisayâ",
+      "name": "Cebuano",
+      "speakers": 25700000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ny": {
+    "standard": {
+      "coordinates": {
+        "lat": "-13.2543",
+        "long": "34.3015"
+      },
+      "official_name": "Chicheŵa",
+      "name": "Chichewa",
+      "speakers": 12000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "et": {
+    "standard": {
+      "coordinates": {
+        "lat": "58.5953",
+        "long": "25.0136"
+      },
+      "official_name": "Eesti keel",
+      "name": "Estonian",
+      "speakers": 1100000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "gl": {
+    "standard": {
+      "coordinates": {
+        "lat": "42.5751",
+        "long": "-8.1339"
+      },
+      "official_name": "Galego",
+      "name": "Galician",
+      "speakers": 2400000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ka": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.7151",
+        "long": "44.8271"
+      },
+      "official_name": "ქართული ენა",
+      "name": "Georgian",
+      "speakers": 3700000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "gu": {
+    "standard": {
+      "coordinates": {
+        "lat": "23.0225",
+        "long": "72.5714"
+      },
+      "official_name": "ગુજરાતી",
+      "name": "Gujarati",
+      "speakers": 56000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ha": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.8842",
+        "long": "8.8965"
+      },
+      "official_name": "هَوُسَ",
+      "name": "Hausa",
+      "speakers": 70000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "he": {
+    "standard": {
+      "coordinates": {
+        "lat": "31.0461",
+        "long": "34.8516"
+      },
+      "official_name": "עברית",
+      "name": "Hebrew",
+      "speakers": 9000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "is": {
+    "standard": {
+      "coordinates": {
+        "lat": "64.9631",
+        "long": "-19.0208"
+      },
+      "official_name": "Íslenska",
+      "name": "Icelandic",
+      "speakers": 314000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ga": {
+    "standard": {
+      "coordinates": {
+        "lat": "53.1424",
+        "long": "-7.6921"
+      },
+      "official_name": "Gaeilge",
+      "name": "Irish",
+      "speakers": 170000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "jv": {
+    "standard": {
+      "coordinates": {
+        "lat": "-7.7956",
+        "long": "110.3695"
+      },
+      "official_name": "Basa Jawa",
+      "name": "Javanese",
+      "speakers": 68000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "kn": {
+    "standard": {
+      "coordinates": {
+        "lat": "15.3173",
+        "long": "75.7139"
+      },
+      "official_name": "ಕನ್ನಡ",
+      "name": "Kannada",
+      "speakers": 44000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "kk": {
+    "standard": {
+      "coordinates": {
+        "lat": "48.0196",
+        "long": "66.9237"
+      },
+      "official_name": "Қазақ тілі",
+      "name": "Kazakh",
+      "speakers": 13000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ky": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.2044",
+        "long": "74.7661"
+      },
+      "official_name": "Кыргыз тили",
+      "name": "Kirghiz",
+      "speakers": 4500000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "lv": {
+    "standard": {
+      "coordinates": {
+        "lat": "56.8796",
+        "long": "24.6032"
+      },
+      "official_name": "Latviešu valoda",
+      "name": "Latvian",
+      "speakers": 1750000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ln": {
+    "standard": {
+      "coordinates": {
+        "lat": "-4.4419",
+        "long": "15.2663"
+      },
+      "official_name": "Lingála",
+      "name": "Lingala",
+      "speakers": 20000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "lt": {
+    "standard": {
+      "coordinates": {
+        "lat": "55.1694",
+        "long": "23.8813"
+      },
+      "official_name": "Lietuvių kalba",
+      "name": "Lithuanian",
+      "speakers": 3000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "lb": {
+    "standard": {
+      "coordinates": {
+        "lat": "49.8153",
+        "long": "6.1296"
+      },
+      "official_name": "Lëtzebuergesch",
+      "name": "Luxembourgish",
+      "speakers": 390000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "mk": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.6086",
+        "long": "21.7453"
+      },
+      "official_name": "Македонски јазик",
+      "name": "Macedonian",
+      "speakers": 1400000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ml": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.8505",
+        "long": "76.2711"
+      },
+      "official_name": "മലയാളം",
+      "name": "Malayalam",
+      "speakers": 38000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "mr": {
+    "standard": {
+      "coordinates": {
+        "lat": "19.7515",
+        "long": "75.7139"
+      },
+      "official_name": "मराठी",
+      "name": "Marathi",
+      "speakers": 83000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ne": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.3949",
+        "long": "84.1240"
+      },
+      "official_name": "नेपाली",
+      "name": "Nepali",
+      "speakers": 16000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ps": {
+    "standard": {
+      "coordinates": {
+        "lat": "33.9391",
+        "long": "67.7100"
+      },
+      "official_name": "پښتو",
+      "name": "Pashto",
+      "speakers": 60000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "fa": {
+    "standard": {
+      "coordinates": {
+        "lat": "32.4279",
+        "long": "53.6880"
+      },
+      "official_name": "فارسی",
+      "name": "Persian",
+      "speakers": 110000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "pa": {
+    "standard": {
+      "coordinates": {
+        "lat": "31.1471",
+        "long": "75.3412"
+      },
+      "official_name": "ਪੰਜਾਬੀ",
+      "name": "Punjabi",
+      "speakers": 113000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "sr": {
+    "standard": {
+      "coordinates": {
+        "lat": "44.0165",
+        "long": "21.0059"
+      },
+      "official_name": "Српски језик",
+      "name": "Serbian",
+      "speakers": 12000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "sd": {
+    "standard": {
+      "coordinates": {
+        "lat": "27.7009",
+        "long": "68.2383"
+      },
+      "official_name": "سنڌي",
+      "name": "Sindhi",
+      "speakers": 25000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "sl": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.1512",
+        "long": "14.9955"
+      },
+      "official_name": "Slovenščina",
+      "name": "Slovenian",
+      "speakers": 2500000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "so": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.1521",
+        "long": "46.1996"
+      },
+      "official_name": "Af Soomaali",
+      "name": "Somali",
+      "speakers": 21800000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "sw": {
+    "standard": {
+      "coordinates": {
+        "lat": "-6.3690",
+        "long": "34.8888"
+      },
+      "official_name": "Kiswahili",
+      "name": "Swahili",
+      "speakers": 200000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "th": {
+    "standard": {
+      "coordinates": {
+        "lat": "15.8700",
+        "long": "100.9925"
+      },
+      "official_name": "ภาษาไทย",
+      "name": "Thai",
+      "speakers": 61000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "ur": {
+    "standard": {
+      "coordinates": {
+        "lat": "30.3753",
+        "long": "69.3451"
+      },
+      "official_name": "اردو",
+      "name": "Urdu",
+      "speakers": 230000000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
+  },
+  "cy": {
+    "standard": {
+      "coordinates": {
+        "lat": "52.1307",
+        "long": "-3.7837"
+      },
+      "official_name": "Cymraeg",
+      "name": "Welsh",
+      "speakers": 700000,
+      "voice_ids": [
+        "1SM7GgM6IMuvQlz2BwM3"
+      ]
+    }
   }
 }
