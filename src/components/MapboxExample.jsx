@@ -81,15 +81,16 @@ const MapboxExample = () => {
       'el': 'Greek'
     };
 
-    // Create GeoJSON from ElevenLabs voice data
+    // Create GeoJSON from ElevenLabs voice data with grouping by coordinates
     const languagesData = {
       type: 'FeatureCollection',
       features: []
     };
 
     let featureId = 0;
+    const coordinateGroups = {}; // Group languages by coordinates
     
-    // Process each language in the voice data
+    // First pass: collect all languages by coordinate
     Object.keys(countriesData).forEach(langCode => {
       const language = countriesData[langCode];
       const languageName = languageNames[langCode] || langCode.toUpperCase();
@@ -101,31 +102,78 @@ const MapboxExample = () => {
         const voiceCount = dialect.voice_ids ? dialect.voice_ids.length : 0;
         
         if (coordinates && coordinates.lat && coordinates.long) {
+          const baseLat = parseFloat(coordinates.lat);
+          const baseLong = parseFloat(coordinates.long);
+          const coordKey = `${baseLat.toFixed(4)},${baseLong.toFixed(4)}`; // Round to avoid floating point issues
+          
           // All ElevenLabs voices are green (voice chat available)
           const status = 'voice';
           
-          const feature = {
-            type: 'Feature',
-            id: featureId++,
-            properties: {
-              name: `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
-              iso6393: langCode,
-              dialect: dialectKey,
-              status: status,
-              voiceCount: voiceCount,
-              speakers: voiceCount * 1000000, // Rough estimate based on voice availability
-              description: `${voiceCount} ElevenLabs voices available for ${dialectKey} ${languageName}`,
-              voice_ids: dialect.voice_ids
-            },
-            geometry: {
-              type: 'Point',
-              coordinates: [parseFloat(coordinates.long), parseFloat(coordinates.lat)]
-            }
+          const languageInfo = {
+            name: dialect.name || `${languageName} (${dialectKey.charAt(0).toUpperCase() + dialectKey.slice(1)})`,
+            officialName: dialect.official_name,
+            iso6393: langCode,
+            dialect: dialectKey,
+            status: status,
+            voiceCount: voiceCount,
+            speakers: voiceCount * 1000000, // Rough estimate based on voice availability
+            description: `${voiceCount} ElevenLabs voices available for ${dialectKey} ${languageName}`,
+            voice_ids: dialect.voice_ids
           };
           
-          languagesData.features.push(feature);
+          // Group by coordinates
+          if (!coordinateGroups[coordKey]) {
+            coordinateGroups[coordKey] = {
+              lat: baseLat,
+              long: baseLong,
+              languages: []
+            };
+          }
+          
+          coordinateGroups[coordKey].languages.push(languageInfo);
         }
       });
+    });
+    
+    // Second pass: create features from grouped coordinates
+    Object.keys(coordinateGroups).forEach(coordKey => {
+      const group = coordinateGroups[coordKey];
+      
+      // Sort languages by speaker count (descending)
+      group.languages.sort((a, b) => b.speakers - a.speakers);
+      
+      // Determine the overall status of the group (prioritize voice > history > funding)
+      const hasVoice = group.languages.some(lang => lang.status === 'voice');
+      const hasHistory = group.languages.some(lang => lang.status === 'history');
+      const groupStatus = hasVoice ? 'voice' : (hasHistory ? 'history' : 'funding');
+      
+      // Create the feature
+      const feature = {
+        type: 'Feature',
+        id: featureId++,
+        properties: {
+          // For single language, use its properties directly
+          // For multiple languages, create a group representation
+          ...(group.languages.length === 1 ? group.languages[0] : {
+            name: `${group.languages.length} Languages`,
+            iso6393: 'multiple',
+            dialect: 'group',
+            status: groupStatus,
+            voiceCount: group.languages.reduce((sum, lang) => sum + lang.voiceCount, 0),
+            speakers: group.languages.reduce((sum, lang) => sum + lang.speakers, 0),
+            description: `${group.languages.length} languages available at this location`,
+            languages: group.languages // Store all languages for the info card
+          }),
+          languageCount: group.languages.length,
+          isGroup: group.languages.length > 1
+        },
+        geometry: {
+          type: 'Point',
+          coordinates: [group.long, group.lat]
+        }
+      };
+      
+      languagesData.features.push(feature);
     });
 
     // Add fog/atmosphere for 3D globe effect
@@ -181,16 +229,32 @@ const MapboxExample = () => {
         source: 'languages',
         paint: {
           // Animated radius with hover effect - selected state takes priority
+          // Larger radius for groups with multiple languages
           'circle-radius': [
             'case',
             // Selected state (largest)
             ['boolean', ['feature-state', 'selected'], false],
-            8, // Selected: 133% of default
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              10, // Groups are larger when selected
+              8   // Single languages when selected
+            ],
             // Hover state (medium)
             ['boolean', ['feature-state', 'hover'], false],
-            7.2, // Hover: 120% of default
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              8.5, // Groups are larger when hovered
+              7.2  // Single languages when hovered
+            ],
             // Default state
-            6 // Default size
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              7.5, // Groups are larger by default
+              6    // Single languages default
+            ]
           ],
           // Color coding based on status
           'circle-color': [
@@ -202,13 +266,29 @@ const MapboxExample = () => {
             '#ef4444' // Red for needs funding
           ],
           // Enhanced stroke - selected state gets thickest border
+          // Groups get thicker strokes to indicate multiple languages
           'circle-stroke-width': [
             'case',
             ['boolean', ['feature-state', 'selected'], false],
-            4, // Selected: thickest border
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              5, // Groups get thicker stroke when selected
+              4  // Single language stroke when selected
+            ],
             ['boolean', ['feature-state', 'hover'], false],
-            3, // Hover: medium border
-            2 // Default: thin border
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              4, // Groups get thicker stroke when hovered
+              3  // Single language stroke when hovered
+            ],
+            [
+              'case',
+              ['>', ['get', 'languageCount'], 1],
+              3, // Groups get thicker stroke by default
+              2  // Single language default stroke
+            ]
           ],
           'circle-stroke-color': '#ffffff',
           // Opacity hierarchy
@@ -234,6 +314,35 @@ const MapboxExample = () => {
         }
       });
 
+      // Add layer for language count labels (only show for groups with multiple languages)
+      map.addLayer({
+        id: 'language-count-labels',
+        type: 'symbol',
+        source: 'languages',
+        filter: ['>', ['get', 'languageCount'], 1], // Only show for groups
+        layout: {
+          'text-field': ['get', 'languageCount'],
+          'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+          'text-size': 11,
+          'text-anchor': 'center',
+          'text-allow-overlap': true,
+          'text-ignore-placement': true
+        },
+        paint: {
+          'text-color': '#ffffff',
+          'text-halo-color': 'rgba(0, 0, 0, 0.8)',
+          'text-halo-width': 1,
+          'text-opacity': [
+            'case',
+            ['boolean', ['feature-state', 'selected'], false],
+            1,
+            ['boolean', ['feature-state', 'hover'], false],
+            0.9,
+            0.8
+          ]
+        }
+      });
+
       // Set up smooth transitions (300ms as requested)
       map.setPaintProperty('language-dots', 'circle-radius-transition', {
         duration: 300,
@@ -249,6 +358,10 @@ const MapboxExample = () => {
       });
       map.setPaintProperty('language-dots', 'circle-blur-transition', {
         duration: 200,
+        delay: 0
+      });
+      map.setPaintProperty('language-count-labels', 'text-opacity-transition', {
+        duration: 300,
         delay: 0
       });
     });
@@ -270,6 +383,30 @@ const MapboxExample = () => {
       // Set new selection
       if (feature.id !== undefined) {
         map.setFeatureState({ source: 'languages', id: feature.id }, { selected: true });
+        
+        // Pass the feature properties, which now contain either single language or language group
+        console.log('Selected language/group:', feature.properties);
+        setSelectedLanguage(feature.properties);
+      }
+    });
+
+    // Click handler for labels (same as dots)
+    map.on('click', 'language-count-labels', (event) => {
+      if (!event.features.length) return;
+      
+      const feature = event.features[0];
+      
+      // Clear ALL previous selection states
+      const allFeatures = map.querySourceFeatures('languages');
+      allFeatures.forEach(f => {
+        if (f.id !== undefined) {
+          map.setFeatureState({ source: 'languages', id: f.id }, { selected: false });
+        }
+      });
+      
+      // Set new selection
+      if (feature.id !== undefined) {
+        map.setFeatureState({ source: 'languages', id: feature.id }, { selected: true });
         setSelectedLanguage(feature.properties);
       }
     });
@@ -277,7 +414,7 @@ const MapboxExample = () => {
     // Click handler for map background (deselect)
     map.on('click', (e) => {
       const features = map.queryRenderedFeatures(e.point, {
-        layers: ['language-dots']
+        layers: ['language-dots', 'language-count-labels']
       });
       
       if (features.length === 0) {
@@ -292,10 +429,10 @@ const MapboxExample = () => {
       }
     });
 
-    // Enhanced hover effects with feature state
+    // Enhanced hover effects with feature state - works for both dots and labels
     let hoveredFeatureId = null;
     
-    map.on('mouseenter', 'language-dots', (e) => {
+    const handleMouseEnter = (e) => {
       if (e.features && e.features.length > 0) {
         map.getCanvas().style.cursor = 'pointer';
         
@@ -310,9 +447,9 @@ const MapboxExample = () => {
         // Update React state for potential future use
         setHoveredLanguage(e.features[0].properties);
       }
-    });
+    };
 
-    map.on('mouseleave', 'language-dots', () => {
+    const handleMouseLeave = () => {
       map.getCanvas().style.cursor = '';
       
       // Clear hover state
@@ -321,10 +458,19 @@ const MapboxExample = () => {
         hoveredFeatureId = null;
         setHoveredLanguage(null);
       }
-    });
+    };
+
+    // Apply hover effects to both layers
+    map.on('mouseenter', 'language-dots', handleMouseEnter);
+    map.on('mouseleave', 'language-dots', handleMouseLeave);
+    map.on('mouseenter', 'language-count-labels', handleMouseEnter);
+    map.on('mouseleave', 'language-count-labels', handleMouseLeave);
 
     // Add smooth cursor change on map container
     map.on('mousemove', 'language-dots', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mousemove', 'language-count-labels', () => {
       map.getCanvas().style.cursor = 'pointer';
     });
 
@@ -357,7 +503,7 @@ const MapboxExample = () => {
       {selectedLanguage && (
         <div className="absolute top-6 right-6 z-10">
           <LanguageInfoCard 
-            language={selectedLanguage} 
+            languageGroup={selectedLanguage} 
             onClose={() => setSelectedLanguage(null)}
           />
         </div>
