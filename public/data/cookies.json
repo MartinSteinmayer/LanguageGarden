@@ -1,0 +1,52 @@
+[
+    {
+        "name": "csrftoken",
+        "value": "ed7f6d416e1f4a79d876ab78f3623d4b",
+        "path": "/",
+        "domain": "www.pinterest.com",
+        "secure": true,
+        "httpOnly": false,
+        "expiry": 1790364009,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_pinterest_sess",
+        "value": "TWc9PSZORFpHRE9qUkYxZldVeEJraHUrS01ndjEycHhFVkl1cm84ZDdJMmN3U1Q1a215U3NTbDJzRkk5Y001RnVkQTRCNXc0ZUxmeWVUT21PUENXNmRtTnJ1aWFkalROaUxpS2ZzcmlmTmdlUFVpQT0mZ3hsbDRSQTJZMlppVEx1UDVKVVl0cndKMytNPQ==",
+        "path": "/",
+        "domain": ".pinterest.com",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1789932009,
+        "sameSite": "None"
+    },
+    {
+        "name": "_auth",
+        "value": "0",
+        "path": "/",
+        "domain": ".pinterest.com",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1789932009,
+        "sameSite": "None"
+    },
+    {
+        "name": "_routing_id",
+        "value": "\"e1a5143c-df11-4957-99d6-6bfa818ba041\"",
+        "path": "/",
+        "domain": "www.pinterest.com",
+        "secure": false,
+        "httpOnly": true,
+        "expiry": 1758914409,
+        "sameSite": "None"
+    },
+    {
+        "name": "_b",
+        "value": "\"AYw2JZIQkCpDO5QgxYH65hAmhnB04zyM5JYKEOrxmPDra9GRFq7kUQXKubpd+twv+J0=\"",
+        "path": "/",
+        "domain": ".pinterest.com",
+        "secure": false,
+        "httpOnly": false,
+        "expiry": 1793388012,
+        "sameSite": "None"
+    }
+]

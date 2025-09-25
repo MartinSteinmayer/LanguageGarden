@@ -895,20 +895,6 @@
       "notes": "A Mongolic language spoken by the Oirats, primarily in Kalmykia, Russia"
     }
   },
-  "oac": {
-    "standard": {
-      "coordinates": {
-        "lat": "20.5000",
-        "long": "-99.0000"
-      },
-      "official_name": "Hñähñu",
-      "name": "Otomi language",
-      "iso_639_3": "oac",
-      "speakers": 290000,
-      "voice_ids": [],
-      "notes": "An Oto-Pamean language spoken in the central Altiplano of Mexico"
-    }
-  },
   "otr": {
     "standard": {
       "coordinates": {

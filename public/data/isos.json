@@ -1,0 +1,751 @@
+{
+  "es": {
+    "mexican": {
+      "iso_639_3": "spa"
+    },
+    "peninsular": {
+      "iso_639_3": "spa"
+    },
+    "argentine": {
+      "iso_639_3": "spa"
+    },
+    "peruvian": {
+      "iso_639_3": "spa"
+    },
+    "colombian": {
+      "iso_639_3": "spa"
+    },
+    "dominican": {
+      "iso_639_3": "spa"
+    },
+    "chilean": {
+      "iso_639_3": "spa"
+    },
+    "andalusian": {
+      "iso_639_3": "spa"
+    },
+    "cuban": {
+      "iso_639_3": "spa"
+    },
+    "puerto rican": {
+      "iso_639_3": "spa"
+    },
+    "ecuadorian": {
+      "iso_639_3": "spa"
+    },
+    "venezuelan": {
+      "iso_639_3": "spa"
+    },
+    "canary islands": {
+      "iso_639_3": "spa"
+    },
+    "galician": {
+      "iso_639_3": "glg"
+    }
+  },
+  "en": {
+    "american": {
+      "iso_639_3": "eng"
+    },
+    "british": {
+      "iso_639_3": "eng"
+    },
+    "indian": {
+      "iso_639_3": "eng"
+    },
+    "australian": {
+      "iso_639_3": "eng"
+    },
+    "south african": {
+      "iso_639_3": "eng"
+    },
+    "new zealand": {
+      "iso_639_3": "eng"
+    },
+    "irish": {
+      "iso_639_3": "eng"
+    },
+    "canadian": {
+      "iso_639_3": "eng"
+    },
+    "nigerian": {
+      "iso_639_3": "eng"
+    },
+    "scottish": {
+      "iso_639_3": "eng"
+    },
+    "new york": {
+      "iso_639_3": "eng"
+    },
+    "african american": {
+      "iso_639_3": "eng"
+    },
+    "geordie": {
+      "iso_639_3": "eng"
+    },
+    "singaporean": {
+      "iso_639_3": "eng"
+    },
+    "boston": {
+      "iso_639_3": "eng"
+    },
+    "yorkshire": {
+      "iso_639_3": "eng"
+    },
+    "chicago": {
+      "iso_639_3": "eng"
+    },
+    "welsh": {
+      "iso_639_3": "eng"
+    },
+    "jamaican": {
+      "iso_639_3": "eng"
+    },
+    "cockney": {
+      "iso_639_3": "eng"
+    }
+  },
+  "fr": {
+    "parisian": {
+      "iso_639_3": "fra"
+    },
+    "standard": {
+      "iso_639_3": "fra"
+    },
+    "swiss": {
+      "iso_639_3": "fra"
+    },
+    "quebec": {
+      "iso_639_3": "fra"
+    },
+    "african": {
+      "iso_639_3": "fra"
+    },
+    "meridional": {
+      "iso_639_3": "fra"
+    },
+    "belgian": {
+      "iso_639_3": "fra"
+    }
+  },
+  "vi": {
+    "standard": {
+      "iso_639_3": "vie"
+    },
+    "southern": {
+      "iso_639_3": "vie"
+    },
+    "central": {
+      "iso_639_3": "vie"
+    },
+    "northern": {
+      "iso_639_3": "vie"
+    }
+  },
+  "pt": {
+    "rio de janeiro": {
+      "iso_639_3": "por"
+    },
+    "sao paulo": {
+      "iso_639_3": "por"
+    },
+    "minas gerais": {
+      "iso_639_3": "por"
+    },
+    "interior paulista": {
+      "iso_639_3": "por"
+    },
+    "nordeste": {
+      "iso_639_3": "por"
+    },
+    "centro-oeste": {
+      "iso_639_3": "por"
+    },
+    "brazilian": {
+      "iso_639_3": "por"
+    },
+    "european": {
+      "iso_639_3": "por"
+    },
+    "african": {
+      "iso_639_3": "por"
+    }
+  },
+  "ko": {
+    "seoul": {
+      "iso_639_3": "kor"
+    },
+    "jeolla": {
+      "iso_639_3": "kor"
+    },
+    "standard": {
+      "iso_639_3": "kor"
+    },
+    "hamgyong": {
+      "iso_639_3": "kor"
+    },
+    "gyeongsang": {
+      "iso_639_3": "kor"
+    },
+    "chungcheong": {
+      "iso_639_3": "kor"
+    }
+  },
+  "hi": {
+    "standard": {
+      "iso_639_3": "hin"
+    },
+    "marathi": {
+      "iso_639_3": "hin"
+    },
+    "bhojpuri": {
+      "iso_639_3": "hin"
+    },
+    "gujarati": {
+      "iso_639_3": "hin"
+    },
+    "bengali": {
+      "iso_639_3": "hin"
+    },
+    "tamil": {
+      "iso_639_3": "hin"
+    },
+    "bihari": {
+      "iso_639_3": "hin"
+    },
+    "punjabi": {
+      "iso_639_3": "hin"
+    },
+    "haryanvi": {
+      "iso_639_3": "hin"
+    }
+  },
+  "ja": {
+    "kanto": {
+      "iso_639_3": "jpn"
+    },
+    "kansai": {
+      "iso_639_3": "jpn"
+    },
+    "standard": {
+      "iso_639_3": "jpn"
+    }
+  },
+  "sk": {
+    "central": {
+      "iso_639_3": "slk"
+    },
+    "standard": {
+      "iso_639_3": "slk"
+    }
+  },
+  "ru": {
+    "moscow": {
+      "iso_639_3": "rus"
+    },
+    "standard": {
+      "iso_639_3": "rus"
+    },
+    "saint petersburg": {
+      "iso_639_3": "rus"
+    }
+  },
+  "de": {
+    "standard": {
+      "iso_639_3": "deu"
+    },
+    "bavarian": {
+      "iso_639_3": "bar"
+    },
+    "rhine franconian": {
+      "iso_639_3": "deu"
+    },
+    "saxon": {
+      "iso_639_3": "deu"
+    }
+  },
+  "fil": {
+    "standard": {
+      "iso_639_3": "fil"
+    },
+    "cebuano": {
+      "iso_639_3": "ceb"
+    },
+    "ilocano": {
+      "iso_639_3": "ilo"
+    }
+  },
+  "id": {
+    "standard": {
+      "iso_639_3": "ind"
+    },
+    "javanese": {
+      "iso_639_3": "jav"
+    },
+    "sundanese": {
+      "iso_639_3": "sun"
+    },
+    "balinese": {
+      "iso_639_3": "ban"
+    }
+  },
+  "it": {
+    "standard": {
+      "iso_639_3": "ita"
+    },
+    "romanesco": {
+      "iso_639_3": "ita"
+    },
+    "tuscan": {
+      "iso_639_3": "ita"
+    },
+    "milanese": {
+      "iso_639_3": "ita"
+    },
+    "venetian": {
+      "iso_639_3": "vec"
+    },
+    "sicilian": {
+      "iso_639_3": "scn"
+    },
+    "florentine": {
+      "iso_639_3": "ita"
+    },
+    "neapolitan": {
+      "iso_639_3": "nap"
+    }
+  },
+  "pl": {
+    "standard": {
+      "iso_639_3": "pol"
+    },
+    "kashubian": {
+      "iso_639_3": "csb"
+    },
+    "mazovian": {
+      "iso_639_3": "pol"
+    }
+  },
+  "ar": {
+    "saudi": {
+      "iso_639_3": "acw"
+    },
+    "egyptian": {
+      "iso_639_3": "arz"
+    },
+    "modern standard": {
+      "iso_639_3": "arb"
+    },
+    "algerian": {
+      "iso_639_3": "arq"
+    },
+    "palestinian": {
+      "iso_639_3": "ajp"
+    },
+    "moroccan": {
+      "iso_639_3": "ary"
+    },
+    "jordanian": {
+      "iso_639_3": "ajp"
+    },
+    "gulf": {
+      "iso_639_3": "afb"
+    },
+    "kuwaiti": {
+      "iso_639_3": "afb"
+    },
+    "levantine": {
+      "iso_639_3": "apc"
+    }
+  },
+  "nl": {
+    "standard": {
+      "iso_639_3": "nld"
+    },
+    "flemish": {
+      "iso_639_3": "nld"
+    },
+    "limburgish": {
+      "iso_639_3": "lim"
+    }
+  },
+  "tr": {
+    "standard": {
+      "iso_639_3": "tur"
+    },
+    "istanbul": {
+      "iso_639_3": "tur"
+    },
+    "aegean": {
+      "iso_639_3": "tur"
+    },
+    "eastern": {
+      "iso_639_3": "tur"
+    },
+    "central": {
+      "iso_639_3": "tur"
+    },
+    "anatolian": {
+      "iso_639_3": "tur"
+    }
+  },
+  "cs": {
+    "standard": {
+      "iso_639_3": "ces"
+    },
+    "moravian": {
+      "iso_639_3": "ces"
+    },
+    "prague": {
+      "iso_639_3": "ces"
+    }
+  },
+  "zh": {
+    "taiwan mandarin": {
+      "iso_639_3": "cmn"
+    },
+    "beijing mandarin": {
+      "iso_639_3": "cmn"
+    },
+    "hong kong cantonese": {
+      "iso_639_3": "yue"
+    },
+    "standard": {
+      "iso_639_3": "cmn"
+    },
+    "singapore mandarin": {
+      "iso_639_3": "cmn"
+    }
+  },
+  "ro": {
+    "moldovan": {
+      "iso_639_3": "ron"
+    },
+    "standard": {
+      "iso_639_3": "ron"
+    },
+    "oltenia": {
+      "iso_639_3": "ron"
+    },
+    "transylvanian": {
+      "iso_639_3": "ron"
+    }
+  },
+  "ms": {
+    "malaysian": {
+      "iso_639_3": "zsm"
+    }
+  },
+  "uk": {
+    "standard": {
+      "iso_639_3": "ukr"
+    },
+    "kiev": {
+      "iso_639_3": "ukr"
+    }
+  },
+  "ta": {
+    "chennai": {
+      "iso_639_3": "tam"
+    },
+    "standard": {
+      "iso_639_3": "tam"
+    },
+    "coimbatore": {
+      "iso_639_3": "tam"
+    }
+  },
+  "bg": {
+    "sofia": {
+      "iso_639_3": "bul"
+    },
+    "standard": {
+      "iso_639_3": "bul"
+    }
+  },
+  "hu": {
+    "standard": {
+      "iso_639_3": "hun"
+    },
+    "budapest": {
+      "iso_639_3": "hun"
+    }
+  },
+  "no": {
+    "oslo": {
+      "iso_639_3": "nob"
+    },
+    "bergen": {
+      "iso_639_3": "nob"
+    },
+    "standard": {
+      "iso_639_3": "nob"
+    }
+  },
+  "fi": {
+    "turku": {
+      "iso_639_3": "fin"
+    },
+    "helsinki": {
+      "iso_639_3": "fin"
+    },
+    "standard": {
+      "iso_639_3": "fin"
+    },
+    "western": {
+      "iso_639_3": "fin"
+    }
+  },
+  "sv": {
+    "scanian": {
+      "iso_639_3": "swe"
+    },
+    "gothenburg": {
+      "iso_639_3": "swe"
+    },
+    "standard": {
+      "iso_639_3": "swe"
+    },
+    "stockholm": {
+      "iso_639_3": "swe"
+    }
+  },
+  "da": {
+    "standard": {
+      "iso_639_3": "dan"
+    },
+    "jutlandic": {
+      "iso_639_3": "dan"
+    },
+    "zealandic": {
+      "iso_639_3": "dan"
+    }
+  },
+  "hr": {
+    "standard": {
+      "iso_639_3": "hrv"
+    },
+    "zagreb": {
+      "iso_639_3": "hrv"
+    }
+  },
+  "el": {
+    "standard": {
+      "iso_639_3": "ell"
+    },
+    "macedonian": {
+      "iso_639_3": "ell"
+    },
+    "athenian": {
+      "iso_639_3": "ell"
+    },
+    "aegean": {
+      "iso_639_3": "ell"
+    }
+  },
+  "af": {
+    "standard": {
+      "iso_639_3": "afr"
+    }
+  },
+  "hy": {
+    "standard": {
+      "iso_639_3": "hye"
+    }
+  },
+  "as": {
+    "standard": {
+      "iso_639_3": "asm"
+    }
+  },
+  "az": {
+    "standard": {
+      "iso_639_3": "aze"
+    }
+  },
+  "be": {
+    "standard": {
+      "iso_639_3": "bel"
+    }
+  },
+  "bn": {
+    "standard": {
+      "iso_639_3": "ben"
+    }
+  },
+  "bs": {
+    "standard": {
+      "iso_639_3": "bos"
+    }
+  },
+  "ca": {
+    "standard": {
+      "iso_639_3": "cat"
+    }
+  },
+  "ceb": {
+    "standard": {
+      "iso_639_3": "ceb"
+    }
+  },
+  "ny": {
+    "standard": {
+      "iso_639_3": "nya"
+    }
+  },
+  "et": {
+    "standard": {
+      "iso_639_3": "est"
+    }
+  },
+  "gl": {
+    "standard": {
+      "iso_639_3": "glg"
+    }
+  },
+  "ka": {
+    "standard": {
+      "iso_639_3": "kat"
+    }
+  },
+  "gu": {
+    "standard": {
+      "iso_639_3": "guj"
+    }
+  },
+  "ha": {
+    "standard": {
+      "iso_639_3": "hau"
+    }
+  },
+  "he": {
+    "standard": {
+      "iso_639_3": "heb"
+    }
+  },
+  "is": {
+    "standard": {
+      "iso_639_3": "isl"
+    }
+  },
+  "ga": {
+    "standard": {
+      "iso_639_3": "gle"
+    }
+  },
+  "jv": {
+    "standard": {
+      "iso_639_3": "jav"
+    }
+  },
+  "kn": {
+    "standard": {
+      "iso_639_3": "kan"
+    }
+  },
+  "kk": {
+    "standard": {
+      "iso_639_3": "kaz"
+    }
+  },
+  "ky": {
+    "standard": {
+      "iso_639_3": "kir"
+    }
+  },
+  "lv": {
+    "standard": {
+      "iso_639_3": "lav"
+    }
+  },
+  "ln": {
+    "standard": {
+      "iso_639_3": "lin"
+    }
+  },
+  "lt": {
+    "standard": {
+      "iso_639_3": "lit"
+    }
+  },
+  "lb": {
+    "standard": {
+      "iso_639_3": "ltz"
+    }
+  },
+  "mk": {
+    "standard": {
+      "iso_639_3": "mkd"
+    }
+  },
+  "ml": {
+    "standard": {
+      "iso_639_3": "mal"
+    }
+  },
+  "mr": {
+    "standard": {
+      "iso_639_3": "mar"
+    }
+  },
+  "ne": {
+    "standard": {
+      "iso_639_3": "nep"
+    }
+  },
+  "ps": {
+    "standard": {
+      "iso_639_3": "pus"
+    }
+  },
+  "fa": {
+    "standard": {
+      "iso_639_3": "fas"
+    }
+  },
+  "pa": {
+    "standard": {
+      "iso_639_3": "pan"
+    }
+  },
+  "sr": {
+    "standard": {
+      "iso_639_3": "srp"
+    }
+  },
+  "sd": {
+    "standard": {
+      "iso_639_3": "snd"
+    }
+  },
+  "sl": {
+    "standard": {
+      "iso_639_3": "slv"
+    }
+  },
+  "so": {
+    "standard": {
+      "iso_639_3": "som"
+    }
+  },
+  "sw": {
+    "standard": {
+      "iso_639_3": "swa"
+    }
+  },
+  "th": {
+    "standard": {
+      "iso_639_3": "tha"
+    }
+  },
+  "ur": {
+    "standard": {
+      "iso_639_3": "urd"
+    }
+  },
+  "cy": {
+    "standard": {
+      "iso_639_3": "cym"
+    }
+  }
+}

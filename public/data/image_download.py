@@ -12,6 +12,8 @@ load_dotenv()
 # Get API keys from environment variables
 API_KEY = os.getenv("GUSTAVO_API_KEY")
 CSE_ID = os.getenv("CSE_ID")
+print("API_KEY:", API_KEY)
+print("CSE_ID:", CSE_ID)
 
 # Check if the required environment variables are set
 if not API_KEY:
@@ -26,19 +28,11 @@ def build_search_query(language_data):
     Intelligently builds a search query to find pictures of the people.
     This version is optimized for searching high-quality, curated websites.
     """
-    notes = language_data.get('notes', '')
     name = language_data.get('name', 'Unknown').replace('language', '').strip()
 
     # 💡 Smart Extraction: Try to find "spoken by the [People Name] people"
-    match = re.search(r"spoken by the ([\w\s-]+) people", notes, re.IGNORECASE)
     
-    if match:
-        people_name = match.group(1).strip()
-        # A simpler query works better for trusted sites like Wikipedia or National Geographic.
-        return f'"{people_name}"'
-    else:
-        # Fallback if the pattern isn't found
-        return f'"{name}" people'
+    return f'"{name}" people'
 
 def download_images_for_json(json_file_path, output_folder):
     """
@@ -131,6 +125,8 @@ if __name__ == "__main__":
     # Define the input JSON files and their corresponding output folders
     severely_endangered_json = "severely_endangered.json"
     definitely_endangered_json = "definitely_endangered.json"
+    not_endangered_json = "data.json"
     
-    download_images_for_json(severely_endangered_json, "images_severely_endangered")
-    download_images_for_json(definitely_endangered_json, "images_definitely_endangered")
+    #download_images_for_json(severely_endangered_json, "images_severely_endangered")
+    #download_images_for_json(definitely_endangered_json, "images_definitely_endangered")
+    download_images_for_json(not_endangered_json, "images_data")
