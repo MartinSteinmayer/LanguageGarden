@@ -13,6 +13,7 @@ const MapboxExample = () => {
   const [countriesData, setCountriesData] = useState(null);
   const [selectedLanguage, setSelectedLanguage] = useState(null);
   const [hoveredLanguage, setHoveredLanguage] = useState(null);
+  const [showHint, setShowHint] = useState(true);
 
   // Load ElevenLabs voice data
   useEffect(() => {
@@ -28,6 +29,15 @@ const MapboxExample = () => {
     };
 
     loadVoiceData();
+  }, []);
+
+  // Hide hint after 5 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowHint(false);
+    }, 5000);
+
+    return () => clearTimeout(timer);
   }, []);
 
   useEffect(() => {
@@ -526,11 +536,15 @@ const MapboxExample = () => {
         </div>
       </div>
 
-      {/* Interactive Hint - shows when no language is selected */}
+      {/* Interactive Hint - shows when no language is selected and fades away after 5s */}
       {!selectedLanguage && !hoveredLanguage && (
-        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 pointer-events-none">
+        <div 
+          className={`absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 pointer-events-none transition-opacity duration-1000 ${
+            showHint ? 'opacity-100' : 'opacity-0'
+          }`}
+        >
           <div className="bg-black/80 text-white px-2 py-1 rounded-lg text-xs" style={{
-            animation: 'gentleBounce 1s ease-in-out infinite'
+            animation: showHint ? 'gentleBounce 1s ease-in-out infinite' : 'none'
           }}>
             Click on any language dot to learn more
           </div>

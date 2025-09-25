@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import { Mic, Heart, Book, ChevronLeft, ChevronRight } from "lucide-react";
 import { useState } from "react";
+import VoiceChat from "./VoiceChatSimple";
 
 const LanguageInfoCard = ({ languageGroup, onClose }) => {
   if (!languageGroup) return null;
@@ -26,6 +27,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
   }
   
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [showVoiceChat, setShowVoiceChat] = useState(false);
   const currentLanguage = languages[currentIndex];
   const hasMultiple = languages.length > 1;
   
@@ -164,8 +166,7 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
           variant={statusConfig.buttonVariant}
           onClick={() => {
             if (currentLanguage.status === 'voice') {
-              console.log('Starting voice chat for', currentLanguage.name);
-              // Implement voice chat logic
+              setShowVoiceChat(true);
             } else {
               console.log('Opening donation for', currentLanguage.name);
               // Implement donation logic
@@ -184,6 +185,14 @@ const LanguageInfoCard = ({ languageGroup, onClose }) => {
           </p>
         )}
       </CardContent>
+      
+      {/* Voice Chat Modal */}
+      {showVoiceChat && (
+        <VoiceChat 
+          language={currentLanguage}
+          onClose={() => setShowVoiceChat(false)}
+        />
+      )}
     </Card>
   );
 };
