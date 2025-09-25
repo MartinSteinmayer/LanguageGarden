@@ -6461,18 +6461,6 @@
         "fVD2Zbuz3x4CZwbYMVMF"
       ]
     },
-    "id-standard": {
-      "coordinates": {
-        "lat": "-0.7893",
-        "long": "113.9213"
-      },
-      "official_name": "Bahasa Indonesia",
-      "name": "Indonesian",
-      "speakers": 23000000,
-      "voice_ids": [
-        "2vWyCz46C1DzMIf4aE0n"
-      ]
-    },
     "balinese": {
       "coordinates": {
         "lat": "-8.4095",
