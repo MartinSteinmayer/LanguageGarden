@@ -110,6 +110,7 @@ const MapboxExample = () => {
         const dialect = language[dialectKey];
         const coordinates = dialect.coordinates;
         const voiceCount = dialect.voice_ids ? dialect.voice_ids.length : 0;
+        const speakers = dialect.speakers;
         
         if (coordinates && coordinates.lat && coordinates.long) {
           const baseLat = parseFloat(coordinates.lat);
@@ -126,7 +127,7 @@ const MapboxExample = () => {
             dialect: dialectKey,
             status: status,
             voiceCount: voiceCount,
-            speakers: voiceCount * 1000000, // Rough estimate based on voice availability
+            speakers: speakers,
             description: `${voiceCount} ElevenLabs voices available for ${dialectKey} ${languageName}`,
             voice_ids: dialect.voice_ids
           };
