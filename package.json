@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --turbopack",
     "start": "next start",
     "extract:languages": "node scripts/extract-languages.js",
     "enrich:descriptions": "node scripts/fetch-descriptions.js"
