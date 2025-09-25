@@ -7620,31 +7620,6 @@
         "ay3OsFtm48QwWpHvhwgo",
         "GFGuOkimbpNkTEOVDkqX"
       ]
-    },
-    "american": {
-      "coordinates": {
-        "lat": "39.8283",
-        "long": "-98.5795"
-      },
-      "official_name": "Amerikan Türkçesi",
-      "name": "American Turkish",
-      "speakers": 500000,
-      "voice_ids": [
-        "YXfTfjS5baixEmJfseKO",
-        "qn7FTtcMCdv0ZUc1re2n"
-      ]
-    },
-    "british": {
-      "coordinates": {
-        "lat": "55.3781",
-        "long": "-3.4360"
-      },
-      "official_name": "İngiliz Türkçesi",
-      "name": "British Turkish",
-      "speakers": 400000,
-      "voice_ids": [
-        "9uhNxSMI5mkVW6Mg8b2Y"
-      ]
     }
   },
   "cs": {

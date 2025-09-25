@@ -521,14 +521,6 @@
     "anatolian": {
       "official_name": "Anadolu Türkçesi",
       "name": "Anatolian Turkish"
-    },
-    "american": {
-      "official_name": "Amerikan Türkçesi",
-      "name": "American Turkish"
-    },
-    "british": {
-      "official_name": "İngiliz Türkçesi",
-      "name": "British Turkish"
     }
   },
   "cs": {
