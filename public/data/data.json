@@ -7,6 +7,7 @@
       },
       "official_name": "Español Mexicano",
       "name": "Mexican Spanish",
+      "speakers": 125000000,
       "voice_ids": [
         "UrKtSFzzmJW3NBpFdBsS",
         "CQLNn2VcdhTOSAfK3xmF",
@@ -76,6 +77,7 @@
       },
       "official_name": "Español Peninsular",
       "name": "Peninsular Spanish",
+      "speakers": 43520000,
       "voice_ids": [
         "LR6WU3P6sHdPMKrBbLsS",
         "8HzSA5Qg18ahiIQuvLhv",
@@ -244,6 +246,7 @@
       },
       "official_name": "Español Argentino",
       "name": "Argentine Spanish",
+      "speakers": 45000000,
       "voice_ids": [
         "r3lotmx3BZETVvcKm6R6",
         "0bu1GUsOfNJYyXbmSTxD",
@@ -284,6 +287,7 @@
       },
       "official_name": "Español Peruano",
       "name": "Peruvian Spanish",
+      "speakers": 26000000,
       "voice_ids": [
         "buK0D4pdD2B4JPTMm848",
         "I9uZPOVoQkQEhHPStmJz",
@@ -307,6 +311,7 @@
       },
       "official_name": "Español Colombiano",
       "name": "Colombian Spanish",
+      "speakers": 51740000,
       "voice_ids": [
         "QpDQJR3frbDwOhTIo8nW",
         "d2Cxiyh5zS7CQNTlRrdT",
@@ -348,6 +353,7 @@
       },
       "official_name": "Español Dominicano",
       "name": "Dominican Spanish",
+      "speakers": 10500000,
       "voice_ids": [
         "IeiHyO4UwOOUdKQ0HSDK",
         "2vyVHGyPYK7eCnfdVvk9",
@@ -361,6 +367,7 @@
       },
       "official_name": "Español Chileno",
       "name": "Chilean Spanish",
+      "speakers": 18500000,
       "voice_ids": [
         "6ZDFxWiAykFxCoe683WK",
         "OFrdGXwCzoE56a9sp1fk",
@@ -380,6 +387,7 @@
       },
       "official_name": "Andaluz",
       "name": "Andalusian Spanish",
+      "speakers": 8400000,
       "voice_ids": [
         "2VUqK4PEdMj16L6xTN4J",
         "SbxCN6LQhBInYaeKjhhW",
@@ -395,6 +403,7 @@
       },
       "official_name": "Español Cubano",
       "name": "Cuban Spanish",
+      "speakers": 11300000,
       "voice_ids": [
         "1hB7zCGWj11SeMuBseeI",
         "BjEROETieA12i9gT25f7"
@@ -407,6 +416,7 @@
       },
       "official_name": "Español Puertorriqueño",
       "name": "Puerto Rican Spanish",
+      "speakers": 6000000,
       "voice_ids": [
         "K1OQ9JIf2aW3auYuVMF5"
       ]
@@ -418,6 +428,7 @@
       },
       "official_name": "Español Ecuatoriano",
       "name": "Ecuadorian Spanish",
+      "speakers": 16000000,
       "voice_ids": [
         "gzUGUDCUQFhwNLVHw3ER",
         "DZksvRcjbVkbnIwYVMEQ"
@@ -430,6 +441,7 @@
       },
       "official_name": "Español Venezolano",
       "name": "Venezuelan Spanish",
+      "speakers": 28000000,
       "voice_ids": [
         "SIpDYvpsUzCaJ0WmnSA8",
         "n6b7167RXAtrYaNTTD31",
@@ -444,6 +456,7 @@
       },
       "official_name": "Español Canario",
       "name": "Canary Islands Spanish",
+      "speakers": 2200000,
       "voice_ids": [
         "GdP4WGpargn0HxK4FwVg",
         "QjNmDWTOplw88qfcVfTn"
@@ -456,19 +469,9 @@
       },
       "official_name": "Español Gallego",
       "name": "Galician Spanish",
+      "speakers": 2400000,
       "voice_ids": [
         "Syqs6p4s6hxhfAyhhlbS"
-      ]
-    },
-    "castillian": {
-      "coordinates": {
-        "lat": "41.8519",
-        "long": "-4.7245"
-      },
-      "official_name": "Castellano",
-      "name": "Castilian Spanish",
-      "voice_ids": [
-        "PBaBRSRTvwmnK1PAq9e0"
       ]
     }
   },
@@ -480,6 +483,7 @@
       },
       "official_name": "American English",
       "name": "American English",
+      "speakers": 244079241,
       "voice_ids": [
         "XR9GguuIygACVtitt58W",
         "Zx2Te8tHLMMfLtFPv3Z3",
@@ -2586,6 +2590,7 @@
       },
       "official_name": "British English",
       "name": "British English",
+      "speakers": 63718834,
       "voice_ids": [
         "VYkr1IQzbDVb2GJoYAIl",
         "xbOj8ppmiYz8dqX2I2ri",
@@ -3170,6 +3175,7 @@
       },
       "official_name": "Indian English",
       "name": "Indian English",
+      "speakers": 228539090,
       "voice_ids": [
         "xCN9aWv7lchapggKrrBC",
         "KB7pif0QgSfqcDSiT9aq",
@@ -3496,6 +3502,7 @@
       },
       "official_name": "Australian English",
       "name": "Australian English",
+      "speakers": 23161344,
       "voice_ids": [
         "YkKBPKM1ltIn03Zfnis2",
         "snyKKuaGYk1VUEh42zbW",
@@ -3663,6 +3670,7 @@
       },
       "official_name": "South African English",
       "name": "South African English",
+      "speakers": 16722208,
       "voice_ids": [
         "tFbs0XxZ7TP2yWyrfBty",
         "0z8S749Xe6jLCD34QXl1",
@@ -3708,6 +3716,7 @@
       },
       "official_name": "New Zealand English",
       "name": "New Zealand English",
+      "speakers": 3800000,
       "voice_ids": [
         "ocDS3nMDsIPV8dFsOOyf",
         "7R9vnLAE0ZSpY0xWp0mv",
@@ -3735,6 +3744,7 @@
       },
       "official_name": "Irish English",
       "name": "Irish English",
+      "speakers": 6800000,
       "voice_ids": [
         "Zm3m9lkSTa2T4oB6U1PH",
         "nBGpwX2gxJKzCm2Z6Oxj",
@@ -3785,47 +3795,6 @@
         "suMMgpGbVcnihP1CcgFS"
       ]
     },
-    "us southern": {
-      "coordinates": {
-        "lat": "33.7490",
-        "long": "-84.3880"
-      },
-      "official_name": "Southern American English",
-      "name": "Southern American English",
-      "voice_ids": [
-        "EWx0RRDmpbbmVRmQfzC0",
-        "BVq2CupjBl5ZBjg6H0Vb",
-        "zQjGMGv0jjccPqAwHqqv",
-        "a4BsmeT8RITKlxlCY9PO",
-        "Cq8gMra8w0trADKyB4Hi",
-        "dxdOayhnd0jLtELGeNtF",
-        "9QPzUjm1evjwY2ENQBKU",
-        "blhsbJ47xCbCpTpQwGyK",
-        "bzhDZB4cGhEmQvjxPqqj",
-        "LoowaiYE6qY0n5fRDzAX",
-        "g2ojWlDmz1i80BHVnl6v",
-        "YaarrMwvJxVUpjbZ2RpC",
-        "Cb8NLd0sUB8jI4MW2f9M",
-        "DLsHlh26Ugcm6ELvS0qi",
-        "TfVjIROhkRShQb9pCFfK",
-        "oubi7HGxNVjXMnWLgwBT",
-        "P1z1v1qQU22zZKAwS1Up",
-        "Zg15Et3nnFl0MqqzwK3w",
-        "o3VpiaQ9JcGIFpOrkHHf",
-        "9T9vSqRrPPxIs5wpyZfK",
-        "oflwtV9KmZO1p0N9Rv4x",
-        "XHqlxleHbYnK8xmft8Vq",
-        "Bj9UqZbhQsanLzgalpEG",
-        "dtVZnErhiiosqofxDzSH",
-        "dj3G1R1ilKoFKhBnWOzG",
-        "YEkUdc7PezGaXaRslSHB",
-        "1Z7qQDyqapTm8qBfJx6e",
-        "JEAgwU0JZFGxl2KjC3if",
-        "xRTZaPyt74o8s7WKhi1F",
-        "aOcS60CY8CoaVaZfqqb5",
-        "D4xQvkd2SmpDZJ8sEwvA"
-      ]
-    },
     "canadian": {
       "coordinates": {
         "lat": "56.1304",
@@ -3833,6 +3802,7 @@
       },
       "official_name": "Canadian English",
       "name": "Canadian English",
+      "speakers": 30480750,
       "voice_ids": [
         "Lrl88CRXU6FqDlSUfFT8",
         "Lcy5kkLckO3NCrnvaHJe",
@@ -3945,6 +3915,7 @@
       },
       "official_name": "Nigerian English",
       "name": "Nigerian English",
+      "speakers": 108044691,
       "voice_ids": [
         "bcbkbYJpNzQGHml4XFrp",
         "9hEb6p6ZCFsloAWErEvE",
@@ -4005,6 +3976,7 @@
       },
       "official_name": "Scottish English",
       "name": "Scottish English",
+      "speakers": 5200000,
       "voice_ids": [
         "aMdQCEO9kwP77QH1DiFy",
         "Lny4bN2CTZWgKZAgIHKa",
@@ -4036,6 +4008,7 @@
       },
       "official_name": "New York English",
       "name": "New York English",
+      "speakers": 20000000,
       "voice_ids": [
         "cWSZ6SpBJvdOCi1jF6te",
         "LwQhUK1qiO2rG6MLKa45",
@@ -4050,21 +4023,6 @@
         "zfpxqh60b0TrMkJHDLsR"
       ]
     },
-    "hindi": {
-      "coordinates": {
-        "lat": "28.7041",
-        "long": "77.1025"
-      },
-      "official_name": "Hindi English",
-      "name": "Hindi English",
-      "voice_ids": [
-        "zZeq6FndupLBP33ngh9e",
-        "WoB1yCV3pS7cFlDlu8ZU",
-        "2WzaAO6YhNukAkErHINV",
-        "tzCESrZh3xyMs0CIjEJR",
-        "ogSj7jM4rppgY9TgZMqW"
-      ]
-    },
     "african american": {
       "coordinates": {
         "lat": "33.7490",
@@ -4072,6 +4030,7 @@
       },
       "official_name": "African American English",
       "name": "African American English",
+      "speakers": 30000000,
       "voice_ids": [
         "YjlcD3XHztjJEo2wNszv",
         "l9tGNEOXywIMjpp2p3gN",
@@ -4094,6 +4053,7 @@
       },
       "official_name": "Geordie",
       "name": "Geordie English",
+      "speakers": 800000,
       "voice_ids": [
         "9jd0hkEFS2KFCw19Rddp",
         "b6T2IrWoTx7ZIb3BHJSg"
@@ -4106,6 +4066,7 @@
       },
       "official_name": "Singapore English",
       "name": "Singaporean English",
+      "speakers": 4200000,
       "voice_ids": [
         "9Wusvmr4ZmdAQ3uLJw1k",
         "6EYhQ5gVgyv1Z20WprFH",
@@ -4132,6 +4093,7 @@
       },
       "official_name": "Boston English",
       "name": "Boston English",
+      "speakers": 4500000,
       "voice_ids": [
         "Ufjib38uSsKFbrDM99ro",
         "037vK30hDXR4IW8DJnGE",
@@ -4148,23 +4110,11 @@
       },
       "official_name": "Yorkshire English",
       "name": "Yorkshire English",
+      "speakers": 5400000,
       "voice_ids": [
         "Q7VrUY6f87ZLFJfAckYV",
         "ZR8ruiC9tbg7bV9RmBmC",
         "LOE6OtKY65AfLLoge1Eb"
-      ]
-    },
-    "tamil": {
-      "coordinates": {
-        "lat": "13.0827",
-        "long": "80.2707"
-      },
-      "official_name": "Tamil English",
-      "name": "Tamil English",
-      "voice_ids": [
-        "rgltZvTfiMmgWweZhh7n",
-        "gICjJSQVKT7ErrqRA3l3",
-        "xPVEa1fRos3Rlvw7i1XC"
       ]
     },
     "chicago": {
@@ -4174,6 +4124,7 @@
       },
       "official_name": "Chicago English",
       "name": "Chicago English",
+      "speakers": 9500000,
       "voice_ids": [
         "jgZhwQhGPa2RZhtCI0j0"
       ]
@@ -4185,6 +4136,7 @@
       },
       "official_name": "Welsh English",
       "name": "Welsh English",
+      "speakers": 2900000,
       "voice_ids": [
         "698IrvLv5nahuUHY2tLv"
       ]
@@ -4196,6 +4148,7 @@
       },
       "official_name": "Jamaican English",
       "name": "Jamaican English",
+      "speakers": 2800000,
       "voice_ids": [
         "mrDMz4sYNCz18XYFpmyV",
         "eRcsJdPMOM0mtGC03ul7",
@@ -4209,24 +4162,9 @@
       },
       "official_name": "Cockney",
       "name": "Cockney English",
+      "speakers": 15,
       "voice_ids": [
         "kOVqQImaJYcrUxZmjqgl"
-      ]
-    },
-    "african": {
-      "coordinates": {
-        "lat": "-8.7832",
-        "long": "34.5085"
-      },
-      "official_name": "African English",
-      "name": "African English",
-      "voice_ids": [
-        "8B4Pfz8BwZh0sAFOespj",
-        "Yru1AaCztNSYkMNCbM1k",
-        "mzbNqbWwLuZObi7qEA67",
-        "4bSnEy0K5TXdv7EEYf9t",
-        "13SMxgZX6Y3GVlBXWTE8",
-        "fBizZjYTVceAcGl7nSqR"
       ]
     }
   },
@@ -4238,6 +4176,7 @@
       },
       "official_name": "Français Parisien",
       "name": "Parisian French",
+      "speakers": 2048472,
       "voice_ids": [
         "mvhJVdVoTWVUtL4keT7W",
         "TdzWtzL6Oq0fq2kndSSV",
@@ -4300,6 +4239,7 @@
       },
       "official_name": "Français",
       "name": "French",
+      "speakers": 312000000,
       "voice_ids": [
         "sW4oAri1O4pOd4MpNWmn",
         "F9KUTOne5xOKqAbIU7yg",
@@ -4503,8 +4443,9 @@
         "lat": "46.8182",
         "long": "8.2275"
       },
-      "official_name": "Français Suisse",
+      "official_name": "Français de Suisse",
       "name": "Swiss French",
+      "speakers": 2100000,
       "voice_ids": [
         "pvJIyGSZpDNn4fk2rC7g",
         "kWizegWJXBObNdNjdS0h",
@@ -4522,6 +4463,7 @@
       },
       "official_name": "Français Québécois",
       "name": "Quebec French",
+      "speakers": 6500000,
       "voice_ids": [
         "UJCi4DDncuo0VJDSIegj",
         "XMdxKBqjwo8oPUfMl4G0",
@@ -4552,6 +4494,7 @@
       },
       "official_name": "Français Africain",
       "name": "African French",
+      "speakers": 320000000,
       "voice_ids": [
         "Ix5oBMHpatfp3naMIpLk",
         "YwEKgPNrswweXodAZi29",
@@ -4567,6 +4510,7 @@
       },
       "official_name": "Français Méridional",
       "name": "Southern French",
+      "speakers": 15000000,
       "voice_ids": [
         "Pu4OBG4H4NW628nfJmtm"
       ]
@@ -4578,6 +4522,7 @@
       },
       "official_name": "Français Belge",
       "name": "Belgian French",
+      "speakers": 4500000,
       "voice_ids": [
         "IpTJxgMFj1wbxpha4zxm",
         "HDc7042zGcc1SdpT2m1U"
@@ -4590,6 +4535,7 @@
       },
       "official_name": "Français Louisianais",
       "name": "Louisiana French",
+      "speakers": 77000,
       "voice_ids": [
         "VwQZoIAyyglWE7jHRNDB"
       ]
@@ -4603,6 +4549,7 @@
       },
       "official_name": "Tiếng Việt",
       "name": "Vietnamese",
+      "speakers": 95000000,
       "voice_ids": [
         "Bez9NttCzZYS4xIWTJ2M",
         "rBPOXJ1BAFm78yP1UmBB",
@@ -4646,6 +4593,7 @@
       },
       "official_name": "Tiếng Việt Miền Nam",
       "name": "Southern Vietnamese",
+      "speakers": 35000000,
       "voice_ids": [
         "yS7aiYdIV6YnJ3ZFcQZA",
         "0eXHGNoETNSO4IGTBKno",
@@ -4683,6 +4631,7 @@
       },
       "official_name": "Tiếng Việt Miền Trung",
       "name": "Central Vietnamese",
+      "speakers": 15000000,
       "voice_ids": [
         "QocxxnxEa0x8mrL2d4VT",
         "9w5lSVhu8VnBEqFqdrD9",
@@ -4702,6 +4651,7 @@
       },
       "official_name": "Tiếng Việt Miền Bắc",
       "name": "Northern Vietnamese",
+      "speakers": 45000000,
       "voice_ids": [
         "mTMLdrFZdBqiPUW1W47D",
         "5kHtQh4XW1fP87agvLYH",
@@ -4738,6 +4688,7 @@
       },
       "official_name": "Português Carioca",
       "name": "Rio de Janeiro Portuguese",
+      "speakers": 13000000,
       "voice_ids": [
         "fUvGSEaJxwAISe7Lwyh4"
       ]
@@ -4749,6 +4700,7 @@
       },
       "official_name": "Português Paulista",
       "name": "São Paulo Portuguese",
+      "speakers": 22000000,
       "voice_ids": [
         "oArP4WehPe3qjqvCwHNo"
       ]
@@ -4760,6 +4712,7 @@
       },
       "official_name": "Português Mineiro",
       "name": "Minas Gerais Portuguese",
+      "speakers": 21000000,
       "voice_ids": [
         "7lu3ze7orhWaNeSPowWx"
       ]
@@ -4771,6 +4724,7 @@
       },
       "official_name": "Português do Interior Paulista",
       "name": "Interior São Paulo Portuguese",
+      "speakers": 23000000,
       "voice_ids": [
         "yY7KGpDzir8WP7P97McA"
       ]
@@ -4782,6 +4736,7 @@
       },
       "official_name": "Português Nordestino",
       "name": "Northeastern Brazilian Portuguese",
+      "speakers": 57000000,
       "voice_ids": [
         "83Nae6GFQiNslSbuzmE7"
       ]
@@ -4793,6 +4748,7 @@
       },
       "official_name": "Português Centro-Oeste",
       "name": "Central-West Brazilian Portuguese",
+      "speakers": 16000000,
       "voice_ids": [
         "1eBtZhneFpMPiYsjVTGl"
       ]
@@ -4804,6 +4760,7 @@
       },
       "official_name": "Português Brasileiro",
       "name": "Brazilian Portuguese",
+      "speakers": 215000000,
       "voice_ids": [
         "PzTMbh7ilIswxFbjDqwL",
         "WSBwiRQRmi2mEG7BfKwS",
@@ -4945,6 +4902,7 @@
       },
       "official_name": "Português Europeu",
       "name": "European Portuguese",
+      "speakers": 10500000,
       "voice_ids": [
         "UkO7OCLgMp3WYf4UPjE5",
         "DMcOknq8n1B6XshFIJKJ",
@@ -4965,6 +4923,7 @@
       },
       "official_name": "Português Africano",
       "name": "African Portuguese",
+      "speakers": 35000000,
       "voice_ids": [
         "FbFkkfp4Iv6U5Q1WC4C2"
       ]
@@ -4978,6 +4937,7 @@
       },
       "official_name": "서울말",
       "name": "Seoul Korean",
+      "speakers": 25000000,
       "voice_ids": [
         "WxT7YmPQFYeD5ueVMQpQ",
         "9vTWeZwjAkqIiZJdCarV",
@@ -5022,6 +4982,7 @@
       },
       "official_name": "전라도 방언",
       "name": "Jeolla Korean",
+      "speakers": 3500000,
       "voice_ids": [
         "bciERhbhQhAIWwvnQA7H"
       ]
@@ -5033,6 +4994,7 @@
       },
       "official_name": "한국어",
       "name": "Korean",
+      "speakers": 77000000,
       "voice_ids": [
         "4p0HBzAAGyju0nYfNntV",
         "gmRUMzXYROUiUpOrXA0z",
@@ -5080,6 +5042,7 @@
       },
       "official_name": "함경도 방언",
       "name": "Hamgyong Korean",
+      "speakers": 2500000,
       "voice_ids": [
         "SWu2lWaUX4JBPKyh7h1p"
       ]
@@ -5091,6 +5054,7 @@
       },
       "official_name": "경상도 방언",
       "name": "Gyeongsang Korean",
+      "speakers": 13000000,
       "voice_ids": [
         "WzMnDIgiICcj1oXbUBO0"
       ]
@@ -5102,6 +5066,7 @@
       },
       "official_name": "충청도 방언",
       "name": "Chungcheong Korean",
+      "speakers": 5500000,
       "voice_ids": [
         "TRO4gatqxbbwLXHLDLSk"
       ]
@@ -5115,6 +5080,7 @@
       },
       "official_name": "हिन्दी",
       "name": "Hindi",
+      "speakers": 600000000,
       "voice_ids": [
         "cFvQm3lZl5miSWHxawFj",
         "ALCIIw5qAlLDox8iBl0U",
@@ -5435,6 +5401,7 @@
       },
       "official_name": "मराठी हिन्दी",
       "name": "Marathi-influenced Hindi",
+      "speakers": 83000000,
       "voice_ids": [
         "RBxPIvrKOP4ugCK2jVHD"
       ]
@@ -5446,6 +5413,7 @@
       },
       "official_name": "भोजपुरी हिन्दी",
       "name": "Bhojpuri Hindi",
+      "speakers": 52000000,
       "voice_ids": [
         "VESUG427mhGhpQ6fo6Rh"
       ]
@@ -5457,6 +5425,7 @@
       },
       "official_name": "गुजराती हिन्दी",
       "name": "Gujarati Hindi",
+      "speakers": 56000000,
       "voice_ids": [
         "PAWGsCXfevSUEnid2Ika",
         "4yF24b9emqK8f4DBqL2Q",
@@ -5472,6 +5441,7 @@
       },
       "official_name": "बंगाली हिन्दी",
       "name": "Bengali Hindi",
+      "speakers": 97000000,
       "voice_ids": [
         "WiaIVvI1gDL4vT4y7qUU"
       ]
@@ -5483,6 +5453,7 @@
       },
       "official_name": "तमिल हिन्दी",
       "name": "Tamil Hindi",
+      "speakers": 77000000,
       "voice_ids": [
         "MMVrkmhLnrg92ZxR742J"
       ]
@@ -5494,6 +5465,7 @@
       },
       "official_name": "बिहारी हिन्दी",
       "name": "Bihari Hindi",
+      "speakers": 104000000,
       "voice_ids": [
         "3Th96YoTP1kEKxJroYo1"
       ]
@@ -5505,6 +5477,7 @@
       },
       "official_name": "पंजाबी हिन्दी",
       "name": "Punjabi Hindi",
+      "speakers": 33000000,
       "voice_ids": [
         "RgArqterc5zx6RLQqzcs"
       ]
@@ -5516,20 +5489,9 @@
       },
       "official_name": "हरियाणवी हिन्दी",
       "name": "Haryanvi Hindi",
+      "speakers": 25000000,
       "voice_ids": [
         "v984ziaDjt5EKuv3UFRU"
-      ]
-    },
-    "indian": {
-      "coordinates": {
-        "lat": "20.5937",
-        "long": "78.9629"
-      },
-      "official_name": "भारतीय हिन्दी",
-      "name": "Indian Hindi",
-      "voice_ids": [
-        "amiAXapsDOAiHJqbsAZj",
-        "rW2lcIFbB5AVdzWcOG9n"
       ]
     }
   },
@@ -5541,6 +5503,7 @@
       },
       "official_name": "関東弁",
       "name": "Kanto Japanese",
+      "speakers": 43000000,
       "voice_ids": [
         "DOL4zlUH4vnnX1hByxsw",
         "A8vsSyy1xmJQkBgZacW0",
@@ -5563,6 +5526,7 @@
       },
       "official_name": "関西弁",
       "name": "Kansai Japanese",
+      "speakers": 22000000,
       "voice_ids": [
         "sVWsMHkLPX1qFn88g9s4",
         "nHEVPT3LS1V37bXZNr82"
@@ -5575,6 +5539,7 @@
       },
       "official_name": "日本語",
       "name": "Japanese",
+      "speakers": 125000000,
       "voice_ids": [
         "fUjY9K2nAIwlALOwSiwc",
         "KdlbMHGeafEyWqPCWkW0",
@@ -5625,6 +5590,7 @@
       },
       "official_name": "Stredoslovenčina",
       "name": "Central Slovak",
+      "speakers": 2000000,
       "voice_ids": [
         "T4CPtAHlrClEH8iCFo2h",
         "5TUD5nYN251MvBggIfLu",
@@ -5638,6 +5604,7 @@
       },
       "official_name": "Slovenčina",
       "name": "Slovak",
+      "speakers": 5400000,
       "voice_ids": [
         "2ST3sI2j7fz4A5oXjnbA",
         "d6IbhdqAKkXCCVuJjbie",
@@ -5654,6 +5621,7 @@
       },
       "official_name": "Московский диалект",
       "name": "Moscow Russian",
+      "speakers": 17000000,
       "voice_ids": [
         "ogi2DyUAKJb7CEdqqvlU",
         "pmBaSTYT1W9R6YCJq6o2",
@@ -5681,8 +5649,9 @@
         "lat": "61.5240",
         "long": "105.3188"
       },
-      "official_name": "Русский язык",
+      "official_name": "Русский",
       "name": "Russian",
+      "speakers": 154000000,
       "voice_ids": [
         "dek1gko9oKp5FxJd0u4k",
         "rPg1CrZNSjgOqGse65jS",
@@ -5767,6 +5736,7 @@
       },
       "official_name": "Петербургский диалект",
       "name": "Saint Petersburg Russian",
+      "speakers": 5400000,
       "voice_ids": [
         "q22qntNqQAvTaBoqE089",
         "gXMhWmiqsFkrcssqVb5k",
@@ -5783,6 +5753,7 @@
       },
       "official_name": "Hochdeutsch",
       "name": "German",
+      "speakers": 95000000,
       "voice_ids": [
         "pAv8jpTgMw5oY9iCVOly",
         "baebHbhnJ9ASPPp11oEY",
@@ -6170,6 +6141,7 @@
       },
       "official_name": "Boarisch",
       "name": "Bavarian German",
+      "speakers": 14000000,
       "voice_ids": [
         "Ah5UjbC5d1A2iCl9Lbe7",
         "NkhHdPbLqYzmdIaSUuIy",
@@ -6191,6 +6163,7 @@
       },
       "official_name": "Rheinfränkisch",
       "name": "Rhine Franconian German",
+      "speakers": 3500000,
       "voice_ids": [
         "fehqjfT0R2fGKeUX2YeE"
       ]
@@ -6202,6 +6175,7 @@
       },
       "official_name": "Berlinerisch",
       "name": "Berlin German",
+      "speakers": 4000000,
       "voice_ids": [
         "GjwXO8ukYgApX02zJ6SN",
         "63KlGpLjampc6zPAnzRO",
@@ -6215,22 +6189,12 @@
       },
       "official_name": "Sächsisch",
       "name": "Saxon German",
+      "speakers": 4000000,
       "voice_ids": [
         "sbJf8opzqSGRyRJzCVjD",
         "WHC0PNPIwjx2cCk34Hm8",
         "ONL1Ql05Ii3uXMufXbU7",
         "SMQKgThKQvXmuAzjIP2x"
-      ]
-    },
-    "german": {
-      "coordinates": {
-        "lat": "51.1657",
-        "long": "10.4515"
-      },
-      "official_name": "Deutsch",
-      "name": "German",
-      "voice_ids": [
-        "bAFkvitDGeDMmqo9gJzO"
       ]
     },
     "american german": {
@@ -6240,6 +6204,7 @@
       },
       "official_name": "Amerikanisches Deutsch",
       "name": "American German",
+      "speakers": 400000,
       "voice_ids": [
         "tUGS6AkOqpB4R8nb1DTU"
       ]
@@ -6253,6 +6218,7 @@
       },
       "official_name": "Filipino",
       "name": "Filipino",
+      "speakers": 45000000,
       "voice_ids": [
         "4Bk8kSmfWn7kN1am2GME",
         "S0erf8BY5pzZPCxzCfku",
@@ -6358,6 +6324,7 @@
       },
       "official_name": "Cebuano",
       "name": "Cebuano Filipino",
+      "speakers": 15900000,
       "voice_ids": [
         "RKj1DIXprh8zdvjllfhJ",
         "K6AzvUWLhMiziMuhhX31",
@@ -6371,6 +6338,7 @@
       },
       "official_name": "Ilokano",
       "name": "Ilocano Filipino",
+      "speakers": 7700000,
       "voice_ids": [
         "210zNy7juwIO3DylDyJk"
       ]
@@ -6384,6 +6352,7 @@
       },
       "official_name": "Bahasa Indonesia",
       "name": "Indonesian",
+      "speakers": 280000000,
       "voice_ids": [
         "WQ4h6sgS9p2XXvLsESBT",
         "AuBaOxpzoX6MXx6bnkls",
@@ -6463,6 +6432,7 @@
       },
       "official_name": "Bahasa Indonesia Jawa",
       "name": "Javanese Indonesian",
+      "speakers": 85000000,
       "voice_ids": [
         "1kNciG1jHVSuFBPoxdRZ",
         "Qa9zArlgOY7VaQYY8EgP",
@@ -6485,6 +6455,7 @@
       },
       "official_name": "Bahasa Indonesia Sunda",
       "name": "Sundanese Indonesian",
+      "speakers": 40000000,
       "voice_ids": [
         "HAgxKI7rtnxUE03TcuzE",
         "fVD2Zbuz3x4CZwbYMVMF"
@@ -6497,6 +6468,7 @@
       },
       "official_name": "Bahasa Indonesia",
       "name": "Indonesian",
+      "speakers": 23000000,
       "voice_ids": [
         "2vWyCz46C1DzMIf4aE0n"
       ]
@@ -6508,6 +6480,7 @@
       },
       "official_name": "Bahasa Indonesia Bali",
       "name": "Balinese Indonesian",
+      "speakers": 4500000,
       "voice_ids": [
         "5EcwHcWuVGGxY91hupUf",
         "3mAVBNEqop5UbHtD8oxQ"
@@ -6522,6 +6495,7 @@
       },
       "official_name": "Italiano",
       "name": "Italian",
+      "speakers": 65000000,
       "voice_ids": [
         "MU9G8HOuEgdhUELfPshS",
         "QITiGyM4owEZrBEf0QV8",
@@ -6621,6 +6595,7 @@
       },
       "official_name": "Romanesco",
       "name": "Roman Italian",
+      "speakers": 4000000,
       "voice_ids": [
         "VF9jh6iUlVsOIpSPkT8P",
         "UpS8xQpFvE8XAzZeW2Iu",
@@ -6634,6 +6609,7 @@
       },
       "official_name": "Toscano",
       "name": "Tuscan Italian",
+      "speakers": 3700000,
       "voice_ids": [
         "IzDbWB6XgPxY7rx4Mwu8"
       ]
@@ -6645,6 +6621,7 @@
       },
       "official_name": "Milanese",
       "name": "Milanese Italian",
+      "speakers": 3200000,
       "voice_ids": [
         "nH7uLS5UdEnvKEOAXtlQ",
         "ko0CPqOV7GGUcPkJMPej",
@@ -6659,6 +6636,7 @@
       },
       "official_name": "Veneto",
       "name": "Venetian Italian",
+      "speakers": 4900000,
       "voice_ids": [
         "MTgv1KRJpUnc34UMGTHK"
       ]
@@ -6670,6 +6648,7 @@
       },
       "official_name": "Siciliano",
       "name": "Sicilian Italian",
+      "speakers": 5000000,
       "voice_ids": [
         "mJSddcekWUkB3BOnjPFb",
         "8KInRSd4DtD5L5gK7itu"
@@ -6682,6 +6661,7 @@
       },
       "official_name": "Fiorentino",
       "name": "Florentine Italian",
+      "speakers": 380000,
       "voice_ids": [
         "slEjHpiFudesZaivDTNt"
       ]
@@ -6693,6 +6673,7 @@
       },
       "official_name": "Napoletano",
       "name": "Neapolitan Italian",
+      "speakers": 3100000,
       "voice_ids": [
         "jlhiuC3oLEP3JDAx1ECk"
       ]
@@ -6706,6 +6687,7 @@
       },
       "official_name": "Polski",
       "name": "Polish",
+      "speakers": 39700000,
       "voice_ids": [
         "Czpm0ILwHmgdxzeIhCyL",
         "fm56ETThd0xxRkmPJBxH",
@@ -6812,6 +6794,7 @@
       },
       "official_name": "Kaszubski",
       "name": "Kashubian Polish",
+      "speakers": 87600,
       "voice_ids": [
         "uvear2FyfRVNE3AJh2sG"
       ]
@@ -6823,6 +6806,7 @@
       },
       "official_name": "Mazowiecki",
       "name": "Mazovian Polish",
+      "speakers": 5500000,
       "voice_ids": [
         "KCJooY7WxDtVu1pJICfQ",
         "aAY9hMI6VU335JUszdRs",
@@ -6840,6 +6824,7 @@
       },
       "official_name": "العربية السعودية",
       "name": "Saudi Arabic",
+      "speakers": 35000000,
       "voice_ids": [
         "FjJJxwBrv1I5sk34AdgP",
         "v7UCHHCrHj1KBa4E41gb",
@@ -6857,6 +6842,7 @@
       },
       "official_name": "العربية المصرية",
       "name": "Egyptian Arabic",
+      "speakers": 104000000,
       "voice_ids": [
         "ocqVw6LVSdCxCra4XhMH",
         "VqHyN6PYNu3uNKGdbxKs",
@@ -6882,6 +6868,7 @@
       },
       "official_name": "العربية",
       "name": "Modern Arabic",
+      "speakers": 422000000,
       "voice_ids": [
         "K6EjAWq39CfwwPD4jafo",
         "tQmkB3iscssYrX0QDy4N",
@@ -6914,6 +6901,7 @@
       },
       "official_name": "العربية الجزائرية",
       "name": "Algerian Arabic",
+      "speakers": 44000000,
       "voice_ids": [
         "jpofSqItAIlT4TLP5CrK"
       ]
@@ -6925,6 +6913,7 @@
       },
       "official_name": "العربية الفلسطينية",
       "name": "Palestinian Arabic",
+      "speakers": 13000000,
       "voice_ids": [
         "8sSDN08XkFeN2zqNwCZk",
         "drMurExmkWVIH5nW8snR"
@@ -6937,6 +6926,7 @@
       },
       "official_name": "العربية المغربية",
       "name": "Moroccan Arabic",
+      "speakers": 37000000,
       "voice_ids": [
         "PmGnwGtnBs40iau7JfoF",
         "OfGMGmhShO8iL9jCkXy8",
@@ -6951,6 +6941,7 @@
       },
       "official_name": "العربية الأردنية",
       "name": "Jordanian Arabic",
+      "speakers": 10000000,
       "voice_ids": [
         "4wf10lgibMnboGJGCLrP",
         "jAAHNNqlbAX9iWjJPEtE"
@@ -6963,6 +6954,7 @@
       },
       "official_name": "العربية الخليجية",
       "name": "Gulf Arabic",
+      "speakers": 10000000,
       "voice_ids": [
         "DANw8bnAVbjDEHwZIoYa",
         "5Spsi3mCH9e7futpnGE5"
@@ -6975,6 +6967,7 @@
       },
       "official_name": "العربية الكويتية",
       "name": "Kuwaiti Arabic",
+      "speakers": 4500000,
       "voice_ids": [
         "G1QUjBCuRBbLbAmYlTgl",
         "6wsXez7Nsh9HQSbtqwIK"
@@ -6987,6 +6980,7 @@
       },
       "official_name": "العربية الشامية",
       "name": "Levantine Arabic",
+      "speakers": 30000000,
       "voice_ids": [
         "a1KZUXKFVFDOb33I1uqr"
       ]
@@ -7000,6 +6994,7 @@
       },
       "official_name": "Nederlands",
       "name": "Dutch",
+      "speakers": 17000000,
       "voice_ids": [
         "MvXvvAlQPNAM8HbStvg5",
         "fIYdULbypRf7uZYX6u0T",
@@ -7054,6 +7049,7 @@
       },
       "official_name": "Vlaams",
       "name": "Flemish Dutch",
+      "speakers": 6500000,
       "voice_ids": [
         "HHFpWBwQTh88FexTy2bU",
         "FpLGR2n1CcG1v7SHJFsa",
@@ -7078,6 +7074,7 @@
       },
       "official_name": "Limburgs",
       "name": "Limburgish Dutch",
+      "speakers": 1300000,
       "voice_ids": [
         "5tiZStRJQ98Xw420MFFx"
       ]
@@ -7091,6 +7088,7 @@
       },
       "official_name": "Türkiye Türkçesi",
       "name": "Turkish",
+      "speakers": 82000000,
       "voice_ids": [
         "Nim5QmE9iFIYtEoAgHf8",
         "8D6p2rXeXWggXKx2gWiS",
@@ -7218,6 +7216,7 @@
       },
       "official_name": "İstanbul Türkçesi",
       "name": "Istanbul Turkish",
+      "speakers": 16000000,
       "voice_ids": [
         "4beSxG7EOp1Zp56REJeW",
         "oppP7By4ZUSatPEc3enA",
@@ -7559,6 +7558,7 @@
       },
       "official_name": "Ege Türkçesi",
       "name": "Aegean Turkish",
+      "speakers": 10000000,
       "voice_ids": [
         "2Fcgvd9HcXNMy9VbxBCv",
         "dKmdJ8jq2hPAyWUBHu3C",
@@ -7574,6 +7574,7 @@
       },
       "official_name": "Doğu Türkçesi",
       "name": "Eastern Turkish",
+      "speakers": 8000000,
       "voice_ids": [
         "658gPsXiPVFBBYNjegdx",
         "5uEJotkO1FzLxXhXsgIv",
@@ -7587,6 +7588,7 @@
       },
       "official_name": "İç Anadolu Türkçesi",
       "name": "Central Anatolian Turkish",
+      "speakers": 12000000,
       "voice_ids": [
         "sEDjMxrrP45McDlhJ8eF",
         "jGqlr3dGaFN0IfJZa3zS",
@@ -7604,6 +7606,7 @@
       },
       "official_name": "Anadolu Türkçesi",
       "name": "Anatolian Turkish",
+      "speakers": 50000000,
       "voice_ids": [
         "le6ImqkWLjZcvAQDhZuL",
         "ZtGdWraC1DwzOIES26AL",
@@ -7625,6 +7628,7 @@
       },
       "official_name": "Amerikan Türkçesi",
       "name": "American Turkish",
+      "speakers": 500000,
       "voice_ids": [
         "YXfTfjS5baixEmJfseKO",
         "qn7FTtcMCdv0ZUc1re2n"
@@ -7637,6 +7641,7 @@
       },
       "official_name": "İngiliz Türkçesi",
       "name": "British Turkish",
+      "speakers": 400000,
       "voice_ids": [
         "9uhNxSMI5mkVW6Mg8b2Y"
       ]
@@ -7650,6 +7655,7 @@
       },
       "official_name": "Čeština",
       "name": "Czech",
+      "speakers": 10700000,
       "voice_ids": [
         "pbkYN44QoHzaZgZJyduO",
         "e36pGtHFyzkf4HTb9rQG",
@@ -7678,6 +7684,7 @@
       },
       "official_name": "Moravština",
       "name": "Moravian Czech",
+      "speakers": 3200000,
       "voice_ids": [
         "vP4R9CqQI4q0HlVrXJWj",
         "YGC6ZJiKMRyw4pLwsjIq",
@@ -7694,6 +7701,7 @@
       },
       "official_name": "Pražština",
       "name": "Prague Czech",
+      "speakers": 2700000,
       "voice_ids": [
         "bF7C2fCv7Zf30iT84wZ1",
         "QCEqWTTfey2JvmWVLLl8",
@@ -7710,6 +7718,7 @@
       },
       "official_name": "臺灣國語",
       "name": "Taiwan Mandarin",
+      "speakers": 19500000,
       "voice_ids": [
         "tSv4yoTPFFmCMaJpNf0A",
         "NIqnuIdrAT3LLSSxN05L",
@@ -7733,6 +7742,7 @@
       },
       "official_name": "北京官話",
       "name": "Beijing Mandarin",
+      "speakers": 22000000,
       "voice_ids": [
         "DowyQ68vDpgFYdWVGjc3",
         "ZL9dtgFhmkTzAHUUtQL8",
@@ -7750,6 +7760,7 @@
       },
       "official_name": "香港粵語",
       "name": "Hong Kong Cantonese",
+      "speakers": 7500000,
       "voice_ids": [
         "OjkyUe8dIihIFvOisuvM"
       ]
@@ -7761,6 +7772,7 @@
       },
       "official_name": "標準中文",
       "name": "Chinese",
+      "speakers": 955000000,
       "voice_ids": [
         "DVE92KG0Yd4X7RoMqy8J",
         "M0TrFmFeBJS9H4xzdk8Z",
@@ -7781,6 +7793,7 @@
       },
       "official_name": "新加坡華語",
       "name": "Singapore Mandarin",
+      "speakers": 2800000,
       "voice_ids": [
         "Ixmp8zKRajBp10jLtsrq"
       ]
@@ -7794,6 +7807,7 @@
       },
       "official_name": "Română Moldovenească",
       "name": "Moldovan Romanian",
+      "speakers": 2600000,
       "voice_ids": [
         "kzOjSddNpacn5uKPKxDC"
       ]
@@ -7805,6 +7819,7 @@
       },
       "official_name": "Română",
       "name": "Romanian",
+      "speakers": 24000000,
       "voice_ids": [
         "QtObtrglHRaER8xlDZsr",
         "kZXTQfulCLOSFsxuZQHx",
@@ -7852,6 +7867,7 @@
       },
       "official_name": "Olteneană",
       "name": "Oltenia Romanian",
+      "speakers": 2100000,
       "voice_ids": [
         "kSzPnNuStUkotwtINL0l"
       ]
@@ -7863,6 +7879,7 @@
       },
       "official_name": "Ardeleană",
       "name": "Transylvanian Romanian",
+      "speakers": 7000000,
       "voice_ids": [
         "i1hQ7UR6ze5abbJFmxXJ",
         "5BZv9Z02hAMUmkkcd5Hj"
@@ -7877,6 +7894,7 @@
       },
       "official_name": "Bahasa Malaysia",
       "name": "Malaysian Malay",
+      "speakers": 33500000,
       "voice_ids": [
         "jtEc6V0BMZoMqpAMRJbl",
         "15Y62ZlO8it2f5wduybx",
@@ -7900,6 +7918,7 @@
       },
       "official_name": "Українська мова",
       "name": "Ukrainian",
+      "speakers": 41000000,
       "voice_ids": [
         "dsMnpPwLzyXZ8HKoHVCm",
         "dZde1M1SiLkAKiqjpqqT",
@@ -7935,6 +7954,7 @@
       },
       "official_name": "Київський діалект",
       "name": "Kiev Ukrainian",
+      "speakers": 3500000,
       "voice_ids": [
         "y0wqfELbh1IIpK0GAf9W",
         "FqTvupDLWXjo91Dte1vR",
@@ -7952,6 +7972,7 @@
       },
       "official_name": "சென்னை தமிழ்",
       "name": "Chennai Tamil",
+      "speakers": 10000000,
       "voice_ids": [
         "yIFUVClxedWzoMYhk15k"
       ]
@@ -7963,6 +7984,7 @@
       },
       "official_name": "தமிழ்",
       "name": "Tamil",
+      "speakers": 78000000,
       "voice_ids": [
         "V9LCAAi4tTlqe9JadbCo",
         "DNLl3gCCSh2dfn1WDBpZ",
@@ -7997,6 +8019,7 @@
       },
       "official_name": "கோயம்புத்தூர் தமிழ்",
       "name": "Coimbatore Tamil",
+      "speakers": 3500000,
       "voice_ids": [
         "CxUF1MnX2dESXqaELxCQ"
       ]
@@ -8010,6 +8033,7 @@
       },
       "official_name": "Софийски диалект",
       "name": "Sofia Bulgarian",
+      "speakers": 1400000,
       "voice_ids": [
         "406EiNlYvqFqcz3vsnOm",
         "pREMn4INXSs2KOPsNcsD",
@@ -8023,6 +8047,7 @@
       },
       "official_name": "Български език",
       "name": "Bulgarian",
+      "speakers": 7000000,
       "voice_ids": [
         "31jwlwrRwpOA5yGuVAby",
         "vnewfQdVVk9Y9DZWVRNm",
@@ -8038,6 +8063,7 @@
       },
       "official_name": "Magyar",
       "name": "Hungarian",
+      "speakers": 13000000,
       "voice_ids": [
         "polm59PrdXp5lKpce2EG",
         "WYg5oajoUHxVa6ikQXec",
@@ -8059,6 +8085,7 @@
       },
       "official_name": "Budapesti Magyar",
       "name": "Budapest Hungarian",
+      "speakers": 3300000,
       "voice_ids": [
         "cMsXlIKXHl8d4otxIJz2",
         "US0EMRNBs44Vv1m9j3Li",
@@ -8074,6 +8101,7 @@
       },
       "official_name": "Oslo Norsk",
       "name": "Oslo Norwegian",
+      "speakers": 1700000,
       "voice_ids": [
         "CMbvLbbccSd611KtwxV3",
         "s2xtA7B2CTXPPlJzch1v",
@@ -8091,6 +8119,7 @@
       },
       "official_name": "Bergensk",
       "name": "Bergen Norwegian",
+      "speakers": 420000,
       "voice_ids": [
         "CMVyxPycEkgLpEF85ShA",
         "b3jcIbyC3BSnaRu8avEk"
@@ -8103,6 +8132,7 @@
       },
       "official_name": "Norsk",
       "name": "Norwegian",
+      "speakers": 5400000,
       "voice_ids": [
         "dgrgQcxISbZtq517iweJ",
         "k5IgYJw2jfo6mO5HhagG",
@@ -8118,6 +8148,7 @@
       },
       "official_name": "Turun Suomi",
       "name": "Turku Finnish",
+      "speakers": 330000,
       "voice_ids": [
         "BlAlpGV1KY8jfuqWubtQ"
       ]
@@ -8129,6 +8160,7 @@
       },
       "official_name": "Helsingin Suomi",
       "name": "Helsinki Finnish",
+      "speakers": 1500000,
       "voice_ids": [
         "x9EhwObb3HT9l7gQ18oM",
         "fC33e0BIKA7wWK2MeARj",
@@ -8143,6 +8175,7 @@
       },
       "official_name": "Suomi",
       "name": "Finnish",
+      "speakers": 5500000,
       "voice_ids": [
         "GdUwr3tVJwSb22ROvLCr",
         "JMfkzZiSsox62UXcXUqM",
@@ -8160,6 +8193,7 @@
       },
       "official_name": "Länsisuomi",
       "name": "Western Finnish",
+      "speakers": 2000000,
       "voice_ids": [
         "XFCwH7g0WlOZiFnelted",
         "ULbs8g3EYdQWA5MDrrx1"
@@ -8174,6 +8208,7 @@
       },
       "official_name": "Skånska",
       "name": "Scanian Swedish",
+      "speakers": 1400000,
       "voice_ids": [
         "CuaAIFbkzX2kaNH5EtHZ"
       ]
@@ -8185,6 +8220,7 @@
       },
       "official_name": "Göteborgska",
       "name": "Gothenburg Swedish",
+      "speakers": 1000000,
       "voice_ids": [
         "1uZ0SLDbZd88cfCPzFQo"
       ]
@@ -8196,6 +8232,7 @@
       },
       "official_name": "Svenska",
       "name": "Swedish",
+      "speakers": 10500000,
       "voice_ids": [
         "yZkiC6zJeQy7CQJNTGHs",
         "4Ct5uMEndw4cJ7q0Jx0l",
@@ -8214,6 +8251,7 @@
       },
       "official_name": "Stockholmska",
       "name": "Stockholm Swedish",
+      "speakers": 2400000,
       "voice_ids": [
         "JhAQDwsLijg4qbxGNQGH",
         "6eknYWL7D5Z4nRkDy15t",
@@ -8234,6 +8272,7 @@
       },
       "official_name": "Dansk",
       "name": "Danish",
+      "speakers": 6000000,
       "voice_ids": [
         "xj6X4BCUsv9oxohm1E8o",
         "4RklGmuxoAskAbGXplXN",
@@ -8250,6 +8289,7 @@
       },
       "official_name": "Jysk",
       "name": "Jutlandic Danish",
+      "speakers": 2800000,
       "voice_ids": [
         "MTfGnENDP7GCFq2vMVZq",
         "qhEux886xDKbOdF7jkFP",
@@ -8263,6 +8303,7 @@
       },
       "official_name": "Sjællandsk",
       "name": "Zealand Danish",
+      "speakers": 2500000,
       "voice_ids": [
         "C43bq5qXRueL1cBQEOt3"
       ]
@@ -8276,6 +8317,7 @@
       },
       "official_name": "Hrvatski",
       "name": "Croatian",
+      "speakers": 5600000,
       "voice_ids": [
         "F2kYsMGahtg8auErVXgY",
         "pZPGvLM3dfmqzJubZLiF",
@@ -8298,6 +8340,7 @@
       },
       "official_name": "Zagrebački Dijalekt",
       "name": "Zagreb Croatian",
+      "speakers": 1200000,
       "voice_ids": [
         "TRnNlYQWHAJwo9K75wNE",
         "vFQACl5nAIV0owAavYxE"
@@ -8312,6 +8355,7 @@
       },
       "official_name": "Ελληνικά",
       "name": "Greek",
+      "speakers": 13400000,
       "voice_ids": [
         "5DAtyqt3LGjv9jkjNVFd",
         "PaZ8laODC1yRxHTPYJFh",
@@ -8333,6 +8377,7 @@
       },
       "official_name": "Μακεδονικά Ελληνικά",
       "name": "Macedonian Greek",
+      "speakers": 2400000,
       "voice_ids": [
         "0oYUKTNPbymIKVAkDQqh"
       ]
@@ -8344,6 +8389,7 @@
       },
       "official_name": "Αθηναϊκά",
       "name": "Athenian Greek",
+      "speakers": 3800000,
       "voice_ids": [
         "aTP4J5SJLQl74WTSRXKW",
         "20zUtLxCwVzsFDWub4sB",
@@ -8357,6 +8403,7 @@
       },
       "official_name": "Αιγαιακά",
       "name": "Aegean Greek",
+      "speakers": 500000,
       "voice_ids": [
         "Jv2zcgjn9Qu0uNMKJjb1"
       ]

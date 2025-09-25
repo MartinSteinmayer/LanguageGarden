@@ -55,10 +55,6 @@
     "galician": {
       "official_name": "Español Gallego",
       "name": "Galician Spanish"
-    },
-    "castillian": {
-      "official_name": "Castellano",
-      "name": "Castilian Spanish"
     }
   },
   "en": {
@@ -89,10 +85,6 @@
     "irish": {
       "official_name": "Irish English",
       "name": "Irish English"
-    },
-    "us southern": {
-      "official_name": "Southern American English",
-      "name": "Southern American English"
     },
     "canadian": {
       "official_name": "Canadian English",
@@ -145,10 +137,6 @@
     "cockney": {
       "official_name": "Cockney",
       "name": "Cockney English"
-    },
-    "african": {
-      "official_name": "African English",
-      "name": "African English"
     }
   },
   "fr": {
@@ -161,7 +149,7 @@
       "name": "French"
     },
     "swiss": {
-      "official_name": "Français Suisse",
+      "official_name": "Français de Suisse",
       "name": "Swiss French"
     },
     "quebec": {
@@ -335,7 +323,7 @@
       "name": "Moscow Russian"
     },
     "standard": {
-      "official_name": "Русский язык",
+      "official_name": "Русский",
       "name": "Russian"
     },
     "saint petersburg": {
