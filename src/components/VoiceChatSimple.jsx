@@ -213,7 +213,7 @@ const VoiceChat = ({ language, onClose }) => {
     }, [conversation]);
 
     return (
-        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50">
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex justify-center z-50">
             <div className="bg-white rounded-2xl p-8 w-96 shadow-2xl relative">
                 {/* Close Button */}
                 <Button
@@ -263,7 +263,7 @@ const VoiceChat = ({ language, onClose }) => {
                 {/* Dynamic Subtitles */}
                 {conversation.status === "connected" && (
                     <div className="mb-6">
-                        <div className="bg-gray-50 rounded-lg p-4 min-h-[80px] max-h-[120px] overflow-y-auto">
+                        <div className="bg-blue-50 rounded-lg p-4 min-h-[80px] max-h-[300px] overflow-y-auto">
                             <div className="flex items-center justify-between mb-2">
                                 <span className="text-xs font-medium text-gray-500 uppercase tracking-wide">
                                     {conversation.isSpeaking ? "Agent Speaking" : "Listening..."}
@@ -301,13 +301,6 @@ const VoiceChat = ({ language, onClose }) => {
                         </div>
                     </div>
                 )}
-
-                {/* Close Button */}
-                <div className="text-center">
-                    <Button onClick={onClose} variant="outline" className="px-6 py-2">
-                        Close
-                    </Button>
-                </div>
             </div>
         </div>
     );
