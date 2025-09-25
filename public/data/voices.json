@@ -1,6 +1,8 @@
 {
   "es": {
     "mexican": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "UrKtSFzzmJW3NBpFdBsS",
       "CQLNn2VcdhTOSAfK3xmF",
       "hrlCBOGwBPZYViXHeZjS",
@@ -62,6 +64,7 @@
       "gbTn1bmCvNgk0QEAVyfM"
     ],
     "latin american": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DSdlEedAFtYunEIv8tqh",
       "HNSF1CTQmub252yhXROX",
       "7nCYbNPCi8RLAKVnYEoO",
@@ -349,11 +352,12 @@
       "6nZRiu6mJ5DiYZA30eh5"
     ],
     "peninsular": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "4Psp2B39ggIi4zVk97ES",
       "LR6WU3P6sHdPMKrBbLsS",
       "8HzSA5Qg18ahiIQuvLhv",
       "GB7fZx4ubHWxbBE05abF",
       "qu1zDuNScdedDRrHCh4F",
-      "4Psp2B39ggIi4zVk97ES",
       "q3n84mLD78YTyJFPihPv",
       "gEPYSePlyPI0GZQOPyat",
       "5aG5T4o3Ohz6tSqDo59F",
@@ -509,9 +513,10 @@
       "6xftrpatV0jGmFHxDjUv"
     ],
     "argentine": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kq2txNbA7gDo4YxPud8y",
       "r3lotmx3BZETVvcKm6R6",
       "0bu1GUsOfNJYyXbmSTxD",
-      "kq2txNbA7gDo4YxPud8y",
       "sqoAbxNYZX3JdDUTNetR",
       "bkVwoLpm00fYfz45ZQAb",
       "zR7eV8hMFnxhSSAcCYW0",
@@ -541,6 +546,8 @@
       "9oPKasc15pfAbMr7N6Gs"
     ],
     "peruvian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "buK0D4pdD2B4JPTMm848",
       "I9uZPOVoQkQEhHPStmJz",
       "G9D0re5CXvFlaorVnZjj",
@@ -556,6 +563,8 @@
       "dF1Qg3iMRirscWEMtEKb"
     ],
     "colombian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "QpDQJR3frbDwOhTIo8nW",
       "d2Cxiyh5zS7CQNTlRrdT",
       "wmXH34EF7LAsKTjOZWWt",
@@ -589,11 +598,15 @@
       "ptSNuWzsfj6xUKlq8wlO"
     ],
     "dominican": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "IeiHyO4UwOOUdKQ0HSDK",
       "2vyVHGyPYK7eCnfdVvk9",
       "bHDZNVWfyvPRfw7L24bR"
     ],
     "chilean": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "6ZDFxWiAykFxCoe683WK",
       "OFrdGXwCzoE56a9sp1fk",
       "iNlaSRLu8vd4RtnF3w9i",
@@ -605,6 +618,8 @@
       "0cheeVA5B3Cv6DGq65cT"
     ],
     "andalusian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "4Psp2B39ggIi4zVk97ES",
       "2VUqK4PEdMj16L6xTN4J",
       "SbxCN6LQhBInYaeKjhhW",
       "sAGvECw4aXyojkGBisG4",
@@ -612,39 +627,54 @@
       "4FMxnogu8ehUVsRIxx9H"
     ],
     "cuban": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "1hB7zCGWj11SeMuBseeI",
       "BjEROETieA12i9gT25f7"
     ],
     "puerto rican": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "K1OQ9JIf2aW3auYuVMF5"
     ],
     "ecuadorian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "gzUGUDCUQFhwNLVHw3ER",
       "DZksvRcjbVkbnIwYVMEQ"
     ],
     "venezuelan": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "hEKEQC93QpOYMa6WuwWp",
       "SIpDYvpsUzCaJ0WmnSA8",
       "n6b7167RXAtrYaNTTD31",
       "4VDZLGtT3KMPG6CtDKCT",
       "FpTvPrHf2kM5JHZdIcak"
     ],
     "canary islands": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "4Psp2B39ggIi4zVk97ES",
       "GdP4WGpargn0HxK4FwVg",
       "QjNmDWTOplw88qfcVfTn"
     ],
     "es-venezuelan": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Y4hjaAROLb2uBSzJDUft"
     ],
     "es-colombian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "cAiEyIv3FkdNcqX4j2lu"
     ],
     "galician": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Syqs6p4s6hxhfAyhhlbS"
     ],
     "es-argentine": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "JNcXxzrlvFDXcrGo2b47"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "nMPrFLO7QElx9wTR0JGo",
       "usTmJvQOCyW3nRcZ8OEo",
       "15bJsujCI3tcDWeoZsQP",
@@ -665,6 +695,7 @@
       "t6OyuZ2N3Y2dqVstuTwK"
     ],
     "american": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "q2XMPZ6icuVDBj7rgCxQ",
       "szJ1F5SgxGkjGanyygoW",
       "cMKZRsVE5V7xf6qCp9fF",
@@ -673,6 +704,7 @@
       "9F4C8ztpNUmXkdDDbz3J"
     ],
     "castillian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "PBaBRSRTvwmnK1PAq9e0"
     ]
   },
@@ -2776,6 +2808,8 @@
       "rU18Fk3uSDhmg5Xh41o4"
     ],
     "british": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "2UMI2FME0FFUFMlUoRER",
       "VYkr1IQzbDVb2GJoYAIl",
       "xbOj8ppmiYz8dqX2I2ri",
       "QJksobp1edMNvmwcG5lm",
@@ -2783,7 +2817,6 @@
       "ssAN9DUfY5xyHqXqIS6G",
       "QRcumt9oV9EP5UgzLrFK",
       "ZEt85AU1ui8Rr8FxNslW",
-      "2UMI2FME0FFUFMlUoRER",
       "Pu6wRXGiX8rRTqojO6N0",
       "LY3A6uJ1ibAVkfh5HsoK",
       "8Al3hFcl1x3aCwvxoEJC",
@@ -3352,6 +3385,8 @@
       "fATgBRI8wg5KkDFg8vBd"
     ],
     "indian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "ekDwQFJTC9rHJqe3iEN7",
       "xCN9aWv7lchapggKrrBC",
       "KB7pif0QgSfqcDSiT9aq",
       "YHjZfnIurmXKnFGPvxkT",
@@ -3456,7 +3491,6 @@
       "4cfxIUtpykx5W1T4ApyL",
       "5rR8D4LXIhQAry0agfx4",
       "0LjAz1phBntZLQj6ZwNP",
-      "ekDwQFJTC9rHJqe3iEN7",
       "eA8FmgNe2rjMWPK5PQQZ",
       "SE7Tb1tOEVnEQYwsZWJF",
       "26C3KPrSUdSuPVU42fFc",
@@ -3670,6 +3704,7 @@
       "1qZOLVpd1TVic43MSkFY"
     ],
     "australian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "YkKBPKM1ltIn03Zfnis2",
       "snyKKuaGYk1VUEh42zbW",
       "vTdXuGkq3ozMNBhP2Hz7",
@@ -3829,6 +3864,7 @@
       "cjwXchLLF0a3P7QhvU7K"
     ],
     "us midwest": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "icPTk9OyVYtATYLYUhF2",
       "qw7umalaxtwARKLRsRVe",
       "ejia7iiH0hTDlHNBXmFM",
@@ -3849,6 +3885,7 @@
       "wgKk07zoxxDRH18KKNOf"
     ],
     "russian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "5TwDP51l99ppAUaY6pdC",
       "Xh5OictnmgRO4dff7pLm",
       "gRUaWJngCuSre3Tohuso",
@@ -3868,6 +3905,7 @@
       "GCPLhb1XrVwcoKUJYcvz"
     ],
     "us northeast": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Ul66D5Xdlp0sRU5Hqs8S",
       "ha75gudyD2K4lsKbDFj7",
       "iCPaWKsfvR3aiSeCa4iL",
@@ -3880,6 +3918,7 @@
       "DTKMou8ccj1ZaWGBiotd"
     ],
     "south african": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "tFbs0XxZ7TP2yWyrfBty",
       "0z8S749Xe6jLCD34QXl1",
       "yWEK34FbX9EDbUCT3dj6",
@@ -3917,6 +3956,7 @@
       "gsm4lUH9bnZ3pjR1Pw7w"
     ],
     "arabic": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Os2frcqCuUz8b9F93RuI",
       "uJgAp2HcS4msGNrkrmbb",
       "GTQ4ImqrRljZAa9VJX6B",
@@ -3932,12 +3972,14 @@
       "uQPOhlzA94sogqmhGLCI"
     ],
     "romanian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "AEPS4amQpAYS3CULyGRe",
       "8WRfTpaUoqZSfTerOXzI",
       "14iWUINMs4HQDhlTdS7G",
       "54YYBuRuAG6KJooiOhFI"
     ],
     "filipino": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Ut5AWJgla3AWMsiT7lQF",
       "BloqV8o05jrfb4aqLGfZ",
       "tQJBzhqqVBFYUh4M7Uxp",
@@ -3980,6 +4022,7 @@
       "UPeEHhD60Z9Djsbwmmy4"
     ],
     "spanish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CAkdBZRAuEhffe8OL5xD",
       "n3yMmKmTfVCEM13Kk2lp",
       "7iZ1bFUofSK6GtL04cm0",
@@ -4005,6 +4048,7 @@
       "3l9iCMrNSRR0w51JvFB0"
     ],
     "received pronunciation": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CbcSCAj3eHmU52Bu7tys",
       "uLfPT2jUO3X81OwnftBP",
       "9jqmtgVIWllolxv8XDEv",
@@ -4017,6 +4061,7 @@
       "rr0A91JHKDIrts589ikk"
     ],
     "new zealand": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "ocDS3nMDsIPV8dFsOOyf",
       "7R9vnLAE0ZSpY0xWp0mv",
       "bpi8ZHxUeHIUWUOnsuad",
@@ -4036,6 +4081,8 @@
       "wWUG72eEtupiUkpXafwX"
     ],
     "irish": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "4AgX6Piqqh5KT4pSisZQ",
       "Zm3m9lkSTa2T4oB6U1PH",
       "nBGpwX2gxJKzCm2Z6Oxj",
       "42MOmVeGXaptzNVmxdJq",
@@ -4047,7 +4094,6 @@
       "odyUrTN5HMVKujvVAgWW",
       "ocMgdmQQJOG44Idfdm86",
       "IQjnnInWsKbdAesop75D",
-      "4AgX6Piqqh5KT4pSisZQ",
       "e9SbiYL47FRd9onxuXHr",
       "73JgZZFYmivaO9TzZpzc",
       "2fe8mwpfJcqvj9RGBsC1",
@@ -4085,6 +4131,7 @@
       "suMMgpGbVcnihP1CcgFS"
     ],
     "us southern": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "EWx0RRDmpbbmVRmQfzC0",
       "BVq2CupjBl5ZBjg6H0Vb",
       "zQjGMGv0jjccPqAwHqqv",
@@ -4118,6 +4165,7 @@
       "D4xQvkd2SmpDZJ8sEwvA"
     ],
     "canadian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Lrl88CRXU6FqDlSUfFT8",
       "Lcy5kkLckO3NCrnvaHJe",
       "0l6EZBgVj5gBcvxdAQTR",
@@ -4222,6 +4270,9 @@
       "liXYZRafib6dsV7EExjZ"
     ],
     "nigerian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "NVp9wQor3NDIWcxYoZiW",
+      "zwbf3iHXH6YGoTCPStfx",
       "bcbkbYJpNzQGHml4XFrp",
       "9hEb6p6ZCFsloAWErEvE",
       "Xkz0m0h7fWNDcd5vXfmn",
@@ -4240,7 +4291,6 @@
       "LEvd0YiWkwZ6hTZOmdVE",
       "VpoCjf19iLn8qVRzTJsi",
       "3mwVS2Cu52S8MzAVx66c",
-      "zwbf3iHXH6YGoTCPStfx",
       "De1q3OL74SMUGkzmnU7C",
       "JMbCR4ujfEfGaawA1YtC",
       "Kd8dIzBuJvT1diS5oAPR",
@@ -4248,7 +4298,6 @@
       "G2LDKmwqqBo2DD9ucIji",
       "PEyWCmLPt74vpHWLv3Fo",
       "neMPCpWtBwWZhxEC8qpe",
-      "NVp9wQor3NDIWcxYoZiW",
       "gM1otA87NrAmOwyCoJE6",
       "Z8dg0fyk7p6js7cQ7lgi",
       "RAVWJW17BPoSIf05iXxf",
@@ -4274,6 +4323,7 @@
       "KfOKur2SDMsqQVcT1wKb"
     ],
     "scottish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "aMdQCEO9kwP77QH1DiFy",
       "Lny4bN2CTZWgKZAgIHKa",
       "KiAVAr8isNbPP0s3etPX",
@@ -4297,6 +4347,7 @@
       "y6p0SvBlfEe2MH4XN7BP"
     ],
     "new york": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "cWSZ6SpBJvdOCi1jF6te",
       "LwQhUK1qiO2rG6MLKa45",
       "iAjl7woNgGKVoQcT1W8N",
@@ -4310,6 +4361,7 @@
       "zfpxqh60b0TrMkJHDLsR"
     ],
     "hindi": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "zZeq6FndupLBP33ngh9e",
       "WoB1yCV3pS7cFlDlu8ZU",
       "2WzaAO6YhNukAkErHINV",
@@ -4317,6 +4369,7 @@
       "ogSj7jM4rppgY9TgZMqW"
     ],
     "chinese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "JSCTyVBWLnK6P8LQBFMR",
       "zmcVlqmyk3Jpn5AVYcAL",
       "mBoVD3461U2BagYEwjeo",
@@ -4336,6 +4389,7 @@
       "jGf6Nvwr7qkFPrcLThmD"
     ],
     "african american": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "YjlcD3XHztjJEo2wNszv",
       "l9tGNEOXywIMjpp2p3gN",
       "jYMoRsZQbrEVBccBz1fa",
@@ -4350,6 +4404,7 @@
       "SgG3x729SgH346SJc0ck"
     ],
     "french": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DicKhqTSSypNTAkYn5aN",
       "KZW681TTkoQ1dS9Hu5WY",
       "StNeMCwU6GIfZWUPm26j",
@@ -4366,6 +4421,7 @@
       "uOTaQ3KfK7rOT2MpeNyr"
     ],
     "dutch": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "YNr5toZDmVAcfU359LYc",
       "ieEKJ5Ete0YAm4KU4CXK",
       "Je8d8oi82sj0l8L1VM0l",
@@ -4381,6 +4437,7 @@
       "gIvqZOUTPy4VbQwwKu9Z"
     ],
     "german": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "OlGyuc9rsWI61WNNpqZV",
       "LYVmjLXENrTHSIZHWApg",
       "8SXUsBrYH2zn8t2CUNq4",
@@ -4409,10 +4466,13 @@
       "oIrReGAWJuGKVf4DxEt8"
     ],
     "geordie": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "2UMI2FME0FFUFMlUoRER",
       "9jd0hkEFS2KFCw19Rddp",
       "b6T2IrWoTx7ZIb3BHJSg"
     ],
     "singaporean": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "9Wusvmr4ZmdAQ3uLJw1k",
       "6EYhQ5gVgyv1Z20WprFH",
       "ljEOxtzNoGEa58anWyea",
@@ -4431,6 +4491,7 @@
       "0S12nzScPvj2C9L6Lc5J"
     ],
     "polish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "yOhXTwcNX7GiQq8AsROm",
       "xTv86awUs9qX4HxeRH2n",
       "hH2PlxWs8rI3FQNdgREU",
@@ -4442,6 +4503,7 @@
       "rsBAttTC3FdrM71zfEoV"
     ],
     "boston": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Ufjib38uSsKFbrDM99ro",
       "037vK30hDXR4IW8DJnGE",
       "2vubyVoGjNJ5HPga4SkV",
@@ -4450,6 +4512,7 @@
       "p5KzTXXzGkmC3iDdYHCl"
     ],
     "malay": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "iNcWjhaFeQ3JBOWGLwyn",
       "PPybRLZHRicSB057bHyI",
       "FRzaj7L4px15biN0RGSj",
@@ -4457,22 +4520,27 @@
       "djUbJhnXETnX31p3rgun"
     ],
     "finnish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Ta4ysiFlma9ZfFUj4rt9",
       "dyhBdqTHSSeokEOBnWmf",
       "JgHmW3ojZwT0NDP5D1JJ",
       "tIFPE2y0DAU6xfZn3Fka"
     ],
     "yorkshire": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "2UMI2FME0FFUFMlUoRER",
       "Q7VrUY6f87ZLFJfAckYV",
       "ZR8ruiC9tbg7bV9RmBmC",
       "LOE6OtKY65AfLLoge1Eb"
     ],
     "tamil": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "rgltZvTfiMmgWweZhh7n",
       "gICjJSQVKT7ErrqRA3l3",
       "xPVEa1fRos3Rlvw7i1XC"
     ],
     "swedish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "xVvh7KgfbHX1WS6JTNXX",
       "3uM0j1QyzPcBQLiEIOOi",
       "6XVxc5pFxXre3breYJhP",
@@ -4483,9 +4551,11 @@
       "ljo9gAlSqKOvF6D8sOsX"
     ],
     "portuguese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "IpCcRCVYm2nsZJjBFn4H"
     ],
     "turkish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "cWzYlIcYTquPCigOQKX0",
       "NZiuR1C6kVMSWHG27sIM",
       "rBy0iXHigDXmxEypBVz7",
@@ -4494,40 +4564,52 @@
       "spa9IALJDrGWqKYWII2J"
     ],
     "chicago": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "jgZhwQhGPa2RZhtCI0j0"
     ],
     "croatian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "MbrxCIK2KCrGGqsm5dEq",
       "y1ORRnLsPhYkUEggxyAY",
       "exxAZVMfY4Qs7F9CS1oN"
     ],
     "welsh": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "4AgX6Piqqh5KT4pSisZQ",
       "698IrvLv5nahuUHY2tLv"
     ],
     "en-filipino": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "hdRfHwXmbkQgRE2dNURj"
     ],
     "en-indian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "yA5sg1jAeFs7jFtteRx8"
     ],
     "en-american": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "62mRUMxDCTeADkhmzW2D"
     ],
     "en-canadian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "kjR4ZByaDNc5zsJGPL4I"
     ],
     "en-british": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "M5t0724ORuAGCh3p3DUR"
     ],
     "en-scottish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "dS2FQCs3LBUAb1WoeW6J"
     ],
     "jamaican": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "mrDMz4sYNCz18XYFpmyV",
       "eRcsJdPMOM0mtGC03ul7",
       "dhwafD61uVd8h85wAZSE"
     ],
     "italian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "qQFoiN2eQXULODjD1SwL",
       "j06nw9Co1V47P1pQkaG8",
       "KlyEVp7Cr4uWil0rM5Lq",
@@ -4535,38 +4617,49 @@
       "iLVmqjzCGGvqtMCk6vVQ"
     ],
     "cockney": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "2UMI2FME0FFUFMlUoRER",
       "kOVqQImaJYcrUxZmjqgl"
     ],
     "ukrainian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "WfAlRPDvwudHwu88rxEX",
       "PiBXZZuiwjbPrmxGgRi3",
       "XeYTv1UwuV9mT4Hi5ZpQ"
     ],
     "danish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "jCxbkArMg3nfWZAmsdkB",
       "tahWrGVL3fokg7ZEUr3o"
     ],
     "slovak": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CV4xD6M8z1X1kya4Pepj"
     ],
     "bulgarian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Tj9l48J9AJbry5yCP5eW"
     ],
     "japanese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "qjx83Y0UcERgVPICvVpl",
       "Gwf9mOMZG8bkPbhsbOVc",
       "UznIBkKIQe3ZG2tGydre"
     ],
     "czech": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "qomNIe05PS2HOqkLJCkG"
     ],
     "indonesian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4h05pJAlcSqTMs5KRd8X"
     ],
     "korean": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "wstmCVSVzHzNM3bbwPQw"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "EHvyx1q0204v0eewntlE",
       "Si2L3ehilkbYo1soJGle",
       "7NsaqHdLuKNFvEfjpUno",
@@ -4612,6 +4705,8 @@
       "mKYyBSIQcY1JmQlvU7CG"
     ],
     "african": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "NVp9wQor3NDIWcxYoZiW",
       "8B4Pfz8BwZh0sAFOespj",
       "Yru1AaCztNSYkMNCbM1k",
       "mzbNqbWwLuZObi7qEA67",
@@ -4620,11 +4715,14 @@
       "fBizZjYTVceAcGl7nSqR"
     ],
     "British": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "nBKdbSdaLWZTX0tYSgvZ"
     ]
   },
   "fr": {
     "parisian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "mvhJVdVoTWVUtL4keT7W",
       "TdzWtzL6Oq0fq2kndSSV",
       "5jCmrHdxbpU36l1wb3Ke",
@@ -4679,6 +4777,8 @@
       "0bKGtCCpdKSI5NjGhU3z"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "sW4oAri1O4pOd4MpNWmn",
       "F9KUTOne5xOKqAbIU7yg",
       "LRWnfw3S1T5derMmrVLU",
@@ -4786,7 +4886,6 @@
       "6pccwT1F6VJ5KMrxQqcX",
       "pVsdIxxCbRrbiwOhiRwg",
       "Znat63Ill02CO3SAH7Tz",
-      "kENkNtk0xyzG09WW40xE",
       "Yx2a8qp2EqI9c5i8MzBo",
       "ViSNE020Z1wEV4uZomv5",
       "EkJ5RDvSjqVhPFYzTy96",
@@ -4876,6 +4975,8 @@
       "qMfbtjrTDTlGtBy52G6E"
     ],
     "swiss": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "pvJIyGSZpDNn4fk2rC7g",
       "kWizegWJXBObNdNjdS0h",
       "6wsYTkh7uhMGLNTiM1TC",
@@ -4885,6 +4986,8 @@
       "XeVbkJn7LVS2lH3RXcQJ"
     ],
     "quebec": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "UJCi4DDncuo0VJDSIegj",
       "XMdxKBqjwo8oPUfMl4G0",
       "93nuHbke4dTER9x2pDwE",
@@ -4907,23 +5010,31 @@
       "b40q94MErxP9aasHjJ2w"
     ],
     "african": [
-      "Ix5oBMHpatfp3naMIpLk",
+      "1SM7GgM6IMuvQlz2BwM3",
       "YwEKgPNrswweXodAZi29",
+      "Ix5oBMHpatfp3naMIpLk",
       "4SFJvuIUvxaPLgk8FoK3",
       "FgHDn7bpgpKqz7QttoyC",
       "mQS95w8LbLFsF6QihxDH"
     ],
     "meridional": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "Pu4OBG4H4NW628nfJmtm"
     ],
     "belgian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "IpTJxgMFj1wbxpha4zxm",
       "HDc7042zGcc1SdpT2m1U"
     ],
     "american": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kENkNtk0xyzG09WW40xE",
       "VwQZoIAyyglWE7jHRNDB"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "1ns94GwK9YDCJoL6Nglv",
       "AmMsHJaCw4BtwV3KoUXF",
       "imRmmzTqlLHt9Do1HufF",
@@ -4938,6 +5049,7 @@
   },
   "vi": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Bez9NttCzZYS4xIWTJ2M",
       "rBPOXJ1BAFm78yP1UmBB",
       "6FjMW2J1bCmMLhlpBjcx",
@@ -4973,6 +5085,7 @@
       "2wMoasbnkroyeaj9FYxI"
     ],
     "southern": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "yS7aiYdIV6YnJ3ZFcQZA",
       "0eXHGNoETNSO4IGTBKno",
       "8h6XlERYN1nW5v3TWkOQ",
@@ -5002,6 +5115,7 @@
       "2vT8WlUXV1qBtgiLZdSb"
     ],
     "central": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "QocxxnxEa0x8mrL2d4VT",
       "9w5lSVhu8VnBEqFqdrD9",
       "RmcV9cAq1TByxNSgbii7",
@@ -5013,6 +5127,7 @@
       "foH7s9fX31wFFH2yqrFa"
     ],
     "northern": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "mTMLdrFZdBqiPUW1W47D",
       "5kHtQh4XW1fP87agvLYH",
       "RxhjHDfpO54FYotYtKpw",
@@ -5040,13 +5155,35 @@
     ]
   },
   "pt": {
-    "rio de janeiro" : ["fUvGSEaJxwAISe7Lwyh4"],
-    "sao paulo" : ["oArP4WehPe3qjqvCwHNo"],
-    "minas gerais" : ["7lu3ze7orhWaNeSPowWx"],
-    "interior paulista" : ["yY7KGpDzir8WP7P97McA"],
-    "nordeste" : ["83Nae6GFQiNslSbuzmE7"],
-    "centro-oeste" : ["1eBtZhneFpMPiYsjVTGl"],
+    "rio de janeiro": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "fUvGSEaJxwAISe7Lwyh4"
+    ],
+    "sao paulo": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "kd1lRcSdRGIfyKxQKjmH",
+      "oArP4WehPe3qjqvCwHNo"
+    ],
+    "minas gerais": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "7lu3ze7orhWaNeSPowWx"
+    ],
+    "interior paulista": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "yY7KGpDzir8WP7P97McA"
+    ],
+    "nordeste": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "83Nae6GFQiNslSbuzmE7"
+    ],
+    "centro-oeste": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "xHUwLsLfyqiYOIVTzLRW",
+      "1eBtZhneFpMPiYsjVTGl"
+    ],
     "brazilian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "5p9IbzcK4R8rN1fpGdMF",
       "PzTMbh7ilIswxFbjDqwL",
       "WSBwiRQRmi2mEG7BfKwS",
       "oi8rgjIfLgJRsQ6rbZh3",
@@ -5176,25 +5313,27 @@
       "7u8qsX4HQsSHJ0f8xsQZ",
       "9pDzHy2OpOgeXM8SeL0t",
       "r3KkFedJ4n8aabIZ0RFQ",
-      "5p9IbzcK4R8rN1fpGdMF",
       "tS45q0QcrDHqHoaWdCDR"
     ],
     "european": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "aLFUti4k8YKvtQGXv0UO",
       "UkO7OCLgMp3WYf4UPjE5",
       "DMcOknq8n1B6XshFIJKJ",
       "RROBrqjHiRb8zmRgGV11",
       "iLelOQ6m5mpSeNH8fRob",
       "Wzy1ixch7Fh77aGCTLPe",
       "4I5wkWDnroUahSWDafb1",
-      "aLFUti4k8YKvtQGXv0UO",
       "WsQeRzWJvoDvhPPJj5r7",
       "NdHRjGnnDKGnnm2c19le",
       "WgE8iWzGVoJYLb5V7l2d"
     ],
     "african": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "FbFkkfp4Iv6U5Q1WC4C2"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "96cLX3dkyNUmTHwkNXeS",
       "NndrHq4eUijN4wsQVtzW",
       "36rVQA1AOIPwpA3Hg1tC",
@@ -5206,6 +5345,7 @@
   },
   "ko": {
     "seoul": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "WxT7YmPQFYeD5ueVMQpQ",
       "9vTWeZwjAkqIiZJdCarV",
       "sf8Bpb1IU97NI9BHSMRf",
@@ -5242,9 +5382,11 @@
       "aurnUodFzOtofecLd3T1"
     ],
     "jeolla": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "bciERhbhQhAIWwvnQA7H"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4p0HBzAAGyju0nYfNntV",
       "gmRUMzXYROUiUpOrXA0z",
       "1YzIw7PZ7iaD4alelyHY",
@@ -5284,21 +5426,26 @@
       "jB1Cifc2UQbq1gR3wnb0"
     ],
     "hamgyong": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "SWu2lWaUX4JBPKyh7h1p"
     ],
     "gyeongsang": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "WzMnDIgiICcj1oXbUBO0"
     ],
     "chungcheong": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "TRO4gatqxbbwLXHLDLSk"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "sSoVF9lUgTGJz0Xz3J9y",
       "w5eZjob1kXfLB9HjpFqU"
     ]
   },
   "hi": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "cFvQm3lZl5miSWHxawFj",
       "ALCIIw5qAlLDox8iBl0U",
       "SxKjk9rozzD6ChDeTomU",
@@ -5611,12 +5758,18 @@
       "Hmz0MdhDqv9vPpSMfDkh"
     ],
     "marathi": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "RBxPIvrKOP4ugCK2jVHD"
     ],
     "bhojpuri": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "VESUG427mhGhpQ6fo6Rh"
     ],
     "gujarati": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "PAWGsCXfevSUEnid2Ika",
       "4yF24b9emqK8f4DBqL2Q",
       "E2bgV4fdtiboH3Y1CEuQ",
@@ -5624,30 +5777,45 @@
       "1tyCkDKmBd1gCvRcimhT"
     ],
     "bengali": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "WiaIVvI1gDL4vT4y7qUU"
     ],
     "tamil": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "MMVrkmhLnrg92ZxR742J"
     ],
     "bihari": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "3Th96YoTP1kEKxJroYo1"
     ],
     "punjabi": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "RgArqterc5zx6RLQqzcs"
     ],
     "haryanvi": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "v984ziaDjt5EKuv3UFRU"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "IvLWq57RKibBrqZGpQrC"
     ],
     "indian": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "cFvQm3lZl5miSWHxawFj",
       "amiAXapsDOAiHJqbsAZj",
       "rW2lcIFbB5AVdzWcOG9n"
     ]
   },
   "ja": {
     "kanto": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DOL4zlUH4vnnX1hByxsw",
       "A8vsSyy1xmJQkBgZacW0",
       "ss9cJxDAEMXP4wfQ3GPr",
@@ -5662,10 +5830,12 @@
       "Mv8AjrYZCBkdsmDHNwcB"
     ],
     "kansai": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "sVWsMHkLPX1qFn88g9s4",
       "nHEVPT3LS1V37bXZNr82"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "fUjY9K2nAIwlALOwSiwc",
       "KdlbMHGeafEyWqPCWkW0",
       "JOcmGzB8OFjY8MhjHHEf",
@@ -5706,17 +5876,20 @@
       "j210dv0vWm7fCknyQpbA"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "wAWUBOIVEUw9IEUYoNzR",
       "6XNSYkDqZ1blajSVtPok"
     ]
   },
   "sk": {
     "central": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "T4CPtAHlrClEH8iCFo2h",
       "5TUD5nYN251MvBggIfLu",
       "3K1lqsxxXFiTAXCO09Zv"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "2ST3sI2j7fz4A5oXjnbA",
       "d6IbhdqAKkXCCVuJjbie",
       "Zai7B4Aol2bJtneyq0L1",
@@ -5725,6 +5898,7 @@
   },
   "ru": {
     "moscow": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "ogi2DyUAKJb7CEdqqvlU",
       "pmBaSTYT1W9R6YCJq6o2",
       "JKtNvDNrWu33P1xzttP2",
@@ -5746,6 +5920,8 @@
       "vQxSi2EuaRWwBw3nn6dK"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "ogi2DyUAKJb7CEdqqvlU",
       "dek1gko9oKp5FxJd0u4k",
       "rPg1CrZNSjgOqGse65jS",
       "TUQNWEvVPBLzMBSVDPUA",
@@ -5822,12 +5998,15 @@
       "u3pPktIMgx1Kt5EJ391v"
     ],
     "saint petersburg": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "ogi2DyUAKJb7CEdqqvlU",
       "q22qntNqQAvTaBoqE089",
       "gXMhWmiqsFkrcssqVb5k",
       "rUOpAdbAl56KxO00wR5D",
       "Ga0Zjw9ZBbevb3wIda0V"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "kwajW3Xh5svCeKU5ky2S",
       "gedzfqL7OGdPbwm0ynTP",
       "8M81RK3MD7u4DOJpu2G5"
@@ -5835,6 +6014,8 @@
   },
   "de": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "gGjaVIGkCSfKUIBYtNT2",
       "pAv8jpTgMw5oY9iCVOly",
       "baebHbhnJ9ASPPp11oEY",
       "f6ogvurdTLlnXgwa7bko",
@@ -6176,7 +6357,6 @@
       "LKX58f5cNAjMB0mAGoGL",
       "Ewvy14akxdhONg4fmNry",
       "re2r5d74PqDzicySNW0I",
-      "gGjaVIGkCSfKUIBYtNT2",
       "uVKHymY7OYMd6OailpG5",
       "inQMMMjWIESBoSquNCJz",
       "r8MyP4qUsq5WFFSkPdfV",
@@ -6214,8 +6394,9 @@
       "DqJyltrKaeMDuX3dXkp4"
     ],
     "bavarian": [
-      "Ah5UjbC5d1A2iCl9Lbe7",
+      "1SM7GgM6IMuvQlz2BwM3",
       "NkhHdPbLqYzmdIaSUuIy",
+      "Ah5UjbC5d1A2iCl9Lbe7",
       "eEmoQJhC4SAEQpCINUov",
       "hJAaR77ekN23CNyp0byH",
       "LHOUp1qVxeUvxAUA7vdm",
@@ -6227,23 +6408,28 @@
       "TNBqK9B8EYhsR7cg6s2P"
     ],
     "rhine franconian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "fehqjfT0R2fGKeUX2YeE"
     ],
     "berlinerisch": [
-      "GjwXO8ukYgApX02zJ6SN",
+      "1SM7GgM6IMuvQlz2BwM3",
       "63KlGpLjampc6zPAnzRO",
+      "GjwXO8ukYgApX02zJ6SN",
       "8WgkgItVYGBs7XNW7D6w"
     ],
     "saxon": [
+      "1SM7GgM6IMuvQlz2BwM3",
+      "ONL1Ql05Ii3uXMufXbU7",
       "sbJf8opzqSGRyRJzCVjD",
       "WHC0PNPIwjx2cCk34Hm8",
-      "ONL1Ql05Ii3uXMufXbU7",
       "SMQKgThKQvXmuAzjIP2x"
     ],
     "de-standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "aDYxt2YzboRX5QmntZNE"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "oEltBlE2H2LEJaq5Qc6T",
       "OukEAqLfTzpM37uFE5LT",
       "f2yUVfK5jdm78zlpcZ8C",
@@ -6260,14 +6446,17 @@
       "lx8LAX2EUAKftVz0Dk5z"
     ],
     "german": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "bAFkvitDGeDMmqo9gJzO"
     ],
     "american german": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "tUGS6AkOqpB4R8nb1DTU"
     ]
   },
   "fil": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4Bk8kSmfWn7kN1am2GME",
       "S0erf8BY5pzZPCxzCfku",
       "Lnvev73Hs1s5LVjBfOr9",
@@ -6365,6 +6554,7 @@
       "jN7Z0yN1A1cDJRBH2ZZF"
     ],
     "fil-standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "xBXX3d8DJAMukmVFzDUY",
       "1ZA0KgPdD0Tns6SR4FVQ",
       "bkGg1Cq9FjflR0r5qxYT",
@@ -6377,19 +6567,23 @@
       "JfPMeQaBXIO5i9J9MTwR"
     ],
     "fil-cebuano": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "eHwFaqBVL1SQRABgFjT5"
     ],
     "cebuano": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "RKj1DIXprh8zdvjllfhJ",
       "K6AzvUWLhMiziMuhhX31",
       "NL3wAdhrhsFZAoDTBMHk"
     ],
     "ilocano": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "210zNy7juwIO3DylDyJk"
     ]
   },
   "id": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "WQ4h6sgS9p2XXvLsESBT",
       "AuBaOxpzoX6MXx6bnkls",
       "kSzQ9oZF2iytkgNNztpH",
@@ -6461,6 +6655,7 @@
       "OKanSStS6li6xyU1WdXa"
     ],
     "javanese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "1kNciG1jHVSuFBPoxdRZ",
       "Qa9zArlgOY7VaQYY8EgP",
       "401JBh3qavLxL2CJfqvZ",
@@ -6475,23 +6670,28 @@
       "IMaRqUzeNVCT6ks9SI4Y"
     ],
     "sundanese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "HAgxKI7rtnxUE03TcuzE",
       "fVD2Zbuz3x4CZwbYMVMF"
     ],
     "id-standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "2vWyCz46C1DzMIf4aE0n"
     ],
     "balinese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "5EcwHcWuVGGxY91hupUf",
       "3mAVBNEqop5UbHtD8oxQ"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4RK3Moe6TpBQ4otXBFtc",
       "lFjzhZHq0NwTRiu2GQxy"
     ]
   },
   "it": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "MU9G8HOuEgdhUELfPshS",
       "QITiGyM4owEZrBEf0QV8",
       "7WZPc0ZjFzsx74E5qoQV",
@@ -6583,33 +6783,41 @@
       "GOAZNavLupajyL3YafaD"
     ],
     "romanesco": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "VF9jh6iUlVsOIpSPkT8P",
       "UpS8xQpFvE8XAzZeW2Iu",
       "ZzFXkjuO1rPntDj6At5C"
     ],
     "tuscan": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "IzDbWB6XgPxY7rx4Mwu8"
     ],
     "milanese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "nH7uLS5UdEnvKEOAXtlQ",
       "ko0CPqOV7GGUcPkJMPej",
       "AHO8aaFzH9ZR3hcUozGG",
       "S6IG86nD1tto3EaTNiJN"
     ],
     "venetian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "MTgv1KRJpUnc34UMGTHK"
     ],
     "sicilian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "mJSddcekWUkB3BOnjPFb",
       "8KInRSd4DtD5L5gK7itu"
     ],
     "florentine": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "slEjHpiFudesZaivDTNt"
     ],
     "neapolitan": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "jlhiuC3oLEP3JDAx1ECk"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "sl57jAImqa2LsggCVUXt",
       "Ha21jUwaMwdgQvqNslSM",
       "ByVILX2H5wPAwDiNVKAR",
@@ -6619,6 +6827,7 @@
   },
   "pl": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Czpm0ILwHmgdxzeIhCyL",
       "fm56ETThd0xxRkmPJBxH",
       "eJLcDj3fKW65V8WhDqPI",
@@ -6717,9 +6926,11 @@
       "Pr1X3nixqZA8qbBOKMmY"
     ],
     "kashubian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "uvear2FyfRVNE3AJh2sG"
     ],
     "mazovian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "KCJooY7WxDtVu1pJICfQ",
       "aAY9hMI6VU335JUszdRs",
       "NacdHGUYR1k3M0FAbAia",
@@ -6727,12 +6938,14 @@
       "C1DBnkwmDIzoLOPlBvSg"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "87QJokeqzysrKtZFt7jl",
       "Pid5DJleNF2sxsuF6YKD"
     ]
   },
   "ar": {
     "saudi": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "FjJJxwBrv1I5sk34AdgP",
       "v7UCHHCrHj1KBa4E41gb",
       "3nav5pHC1EYvWOd5LmnA",
@@ -6742,6 +6955,7 @@
       "IK7YYZcSpmlkjKrQxbSn"
     ],
     "egyptian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "ocqVw6LVSdCxCra4XhMH",
       "VqHyN6PYNu3uNKGdbxKs",
       "DJEA5GGR2TQ8th8yW9o7",
@@ -6759,6 +6973,7 @@
       "UR972wNGq3zluze0LoIp"
     ],
     "modern standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "K6EjAWq39CfwwPD4jafo",
       "tQmkB3iscssYrX0QDy4N",
       "w4LX7bK479eHGM1k15Em",
@@ -6783,36 +6998,44 @@
       "mRdG9GYEjJmIzqbYTidv"
     ],
     "algerian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "jpofSqItAIlT4TLP5CrK"
     ],
     "palestinian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "8sSDN08XkFeN2zqNwCZk",
       "drMurExmkWVIH5nW8snR"
     ],
     "moroccan": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "PmGnwGtnBs40iau7JfoF",
       "OfGMGmhShO8iL9jCkXy8",
       "5lXEHh42xcasVuJofypc",
       "A9ATTqUUQ6GHu0coCz8t"
     ],
     "jordanian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4wf10lgibMnboGJGCLrP",
       "jAAHNNqlbAX9iWjJPEtE"
     ],
     "gulf": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DANw8bnAVbjDEHwZIoYa",
       "5Spsi3mCH9e7futpnGE5"
     ],
     "kuwaiti": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "G1QUjBCuRBbLbAmYlTgl",
       "6wsXez7Nsh9HQSbtqwIK"
     ],
     "levantine": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "a1KZUXKFVFDOb33I1uqr"
     ]
   },
   "nl": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "MvXvvAlQPNAM8HbStvg5",
       "fIYdULbypRf7uZYX6u0T",
       "rbqBOMK4BPTMGvIB7N8w",
@@ -6859,6 +7082,7 @@
       "YUdpWWny7k5yb4QCeweX"
     ],
     "flemish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "HHFpWBwQTh88FexTy2bU",
       "FpLGR2n1CcG1v7SHJFsa",
       "g7B5PNoscIXomLNUmHAb",
@@ -6875,9 +7099,11 @@
       "tRyB8BgRzpNUv3o2XWD4"
     ],
     "limburgish": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "5tiZStRJQ98Xw420MFFx"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "XSQQLeoHwWnBv8tjJ1T7",
       "AVIlLDn2TVmdaDycgbo3",
       "gC9jy9VUxaXAswovchvQ",
@@ -6886,6 +7112,7 @@
   },
   "tr": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Nim5QmE9iFIYtEoAgHf8",
       "8D6p2rXeXWggXKx2gWiS",
       "4MURWGmEL7jhC8ZjkeMN",
@@ -7005,6 +7232,7 @@
       "5WzTv66bK7WWszHUzwZ5"
     ],
     "istanbul": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "4beSxG7EOp1Zp56REJeW",
       "oppP7By4ZUSatPEc3enA",
       "wRfRD9nLN4QfAuuFAyqY",
@@ -7338,6 +7566,7 @@
       "fZEjvS1BvpajAoOmWcEO"
     ],
     "aegean": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "2Fcgvd9HcXNMy9VbxBCv",
       "dKmdJ8jq2hPAyWUBHu3C",
       "sZXOZNdVMeHi5J0uiQF7",
@@ -7345,11 +7574,13 @@
       "1F2FdvFBRIqmndk0Nz5p"
     ],
     "eastern": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "658gPsXiPVFBBYNjegdx",
       "5uEJotkO1FzLxXhXsgIv",
       "iinPcwSSLb0YCJJ4luLs"
     ],
     "central": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "sEDjMxrrP45McDlhJ8eF",
       "jGqlr3dGaFN0IfJZa3zS",
       "oPe2OnAkyZouGbVh45Ku",
@@ -7359,6 +7590,7 @@
       "7yChKZePOGdJlOinqm8N"
     ],
     "anatolian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "le6ImqkWLjZcvAQDhZuL",
       "ZtGdWraC1DwzOIES26AL",
       "0mW2NzhwPkJ7cWxShgXf",
@@ -7372,20 +7604,24 @@
       "GFGuOkimbpNkTEOVDkqX"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "aPCKC8Vne5EV4tLALma5",
       "ek4kwlh66Cf7GeAZzN9Q",
       "NsFK0aDGLbVusA7tQfOB"
     ],
     "american": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "YXfTfjS5baixEmJfseKO",
       "qn7FTtcMCdv0ZUc1re2n"
     ],
     "british": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "9uhNxSMI5mkVW6Mg8b2Y"
     ]
   },
   "cs": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "pbkYN44QoHzaZgZJyduO",
       "e36pGtHFyzkf4HTb9rQG",
       "7FpO7yFcBAfqM6vZJCg7",
@@ -7406,6 +7642,7 @@
       "NHv5TpkohJlOhwlTCzJk"
     ],
     "moravian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "vP4R9CqQI4q0HlVrXJWj",
       "YGC6ZJiKMRyw4pLwsjIq",
       "lL2te4KGkMwtJVActenQ",
@@ -7414,6 +7651,7 @@
       "RLNDyOw6Pdm1OI4UkciF"
     ],
     "prague": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "bF7C2fCv7Zf30iT84wZ1",
       "QCEqWTTfey2JvmWVLLl8",
       "U48DQ1c9SVmD2BVCSiHL",
@@ -7422,6 +7660,7 @@
   },
   "zh": {
     "taiwan mandarin": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "tSv4yoTPFFmCMaJpNf0A",
       "NIqnuIdrAT3LLSSxN05L",
       "kbrsaic1zriFXx1pgRYN",
@@ -7437,6 +7676,7 @@
       "FjfxJryh105iTLL4ktHB"
     ],
     "beijing mandarin": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DowyQ68vDpgFYdWVGjc3",
       "ZL9dtgFhmkTzAHUUtQL8",
       "pTOe8BQRdydOEIgv0wFL",
@@ -7446,9 +7686,11 @@
       "ByhETIclHirOlWnWKhHc"
     ],
     "hong kong cantonese": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "OjkyUe8dIihIFvOisuvM"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "DVE92KG0Yd4X7RoMqy8J",
       "M0TrFmFeBJS9H4xzdk8Z",
       "4VZIsMPtgggwNg7OXbPY",
@@ -7461,14 +7703,17 @@
       "5mZxJZhSmJTjL7GoYfYI"
     ],
     "singapore mandarin": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Ixmp8zKRajBp10jLtsrq"
     ]
   },
   "ro": {
     "moldovan": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "kzOjSddNpacn5uKPKxDC"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "QtObtrglHRaER8xlDZsr",
       "kZXTQfulCLOSFsxuZQHx",
       "Qweusd8gxjdsP8dWKMSG",
@@ -7508,18 +7753,22 @@
       "OlBp4oyr3FBAGEAtJOnU"
     ],
     "oltenia": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "kSzPnNuStUkotwtINL0l"
     ],
     "transylvanian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "i1hQ7UR6ze5abbJFmxXJ",
       "5BZv9Z02hAMUmkkcd5Hj"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "3z9q8Y7plHbvhDZehEII"
     ]
   },
   "ms": {
     "malaysian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "jtEc6V0BMZoMqpAMRJbl",
       "15Y62ZlO8it2f5wduybx",
       "vRaj2Gd0mefB1EU96ua2",
@@ -7535,6 +7784,7 @@
   },
   "uk": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "dsMnpPwLzyXZ8HKoHVCm",
       "dZde1M1SiLkAKiqjpqqT",
       "bg0e02brzo3RVUEbuZeo",
@@ -7562,6 +7812,7 @@
       "NJGiMgVHtXSA1XYSuNKl"
     ],
     "kiev": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "y0wqfELbh1IIpK0GAf9W",
       "FqTvupDLWXjo91Dte1vR",
       "U4IxWQ3B5B0suleGgLcn",
@@ -7571,9 +7822,11 @@
   },
   "ta": {
     "chennai": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "yIFUVClxedWzoMYhk15k"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "V9LCAAi4tTlqe9JadbCo",
       "DNLl3gCCSh2dfn1WDBpZ",
       "gJvkwI7wGFW2czmyfJhp",
@@ -7600,16 +7853,19 @@
       "gCr8TeSJgJaeaIoV4RWH"
     ],
     "coimbatore": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CxUF1MnX2dESXqaELxCQ"
     ]
   },
   "bg": {
     "sofia": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "406EiNlYvqFqcz3vsnOm",
       "pREMn4INXSs2KOPsNcsD",
       "fSxb5mPM1l5zTVVtM3Vb"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "31jwlwrRwpOA5yGuVAby",
       "vnewfQdVVk9Y9DZWVRNm",
       "M1ydWt7KnBCiuv4CnEDC"
@@ -7617,6 +7873,7 @@
   },
   "hu": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "polm59PrdXp5lKpce2EG",
       "WYg5oajoUHxVa6ikQXec",
       "vPyfZcTRVuFmWwDgQRSd",
@@ -7630,6 +7887,7 @@
       "TumdjBNWanlT3ysvclWh"
     ],
     "budapest": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "cMsXlIKXHl8d4otxIJz2",
       "US0EMRNBs44Vv1m9j3Li",
       "7B7mSWflzRSaO1yGeJH6"
@@ -7637,6 +7895,7 @@
   },
   "no": {
     "oslo": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CMbvLbbccSd611KtwxV3",
       "s2xtA7B2CTXPPlJzch1v",
       "xF681s0UeE04gsf0mVsJ",
@@ -7646,10 +7905,12 @@
       "uNsWM1StCcpydKYOjKyu"
     ],
     "bergen": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CMVyxPycEkgLpEF85ShA",
       "b3jcIbyC3BSnaRu8avEk"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "dgrgQcxISbZtq517iweJ",
       "k5IgYJw2jfo6mO5HhagG",
       "2dhHLsmg0MVma2t041qT"
@@ -7657,15 +7918,18 @@
   },
   "fi": {
     "turku": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "BlAlpGV1KY8jfuqWubtQ"
     ],
     "helsinki": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "x9EhwObb3HT9l7gQ18oM",
       "fC33e0BIKA7wWK2MeARj",
       "6fDcW3ARnMZYPdsLLIvZ",
       "Dkbbg7k9Ir9TNzn5GYLp"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "GdUwr3tVJwSb22ROvLCr",
       "JMfkzZiSsox62UXcXUqM",
       "c4ZwDxrFaobUF5e1KlEM",
@@ -7675,18 +7939,22 @@
       "3OArekHEkHv5XvmZirVD"
     ],
     "western": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "XFCwH7g0WlOZiFnelted",
       "ULbs8g3EYdQWA5MDrrx1"
     ]
   },
   "sv": {
     "scanian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "CuaAIFbkzX2kaNH5EtHZ"
     ],
     "gothenburg": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "1uZ0SLDbZd88cfCPzFQo"
     ],
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "yZkiC6zJeQy7CQJNTGHs",
       "4Ct5uMEndw4cJ7q0Jx0l",
       "ZMs9a3j1SLzirC7aygJQ",
@@ -7697,6 +7965,7 @@
       "3oOq4NcOkMs6ZBMnnDkp"
     ],
     "stockholm": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "JhAQDwsLijg4qbxGNQGH",
       "6eknYWL7D5Z4nRkDy15t",
       "ydcjeBaRUalXzqZuTB3b",
@@ -7707,11 +7976,13 @@
       "x0u3EW21dbrORJzOq1m9"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "e6OiUVixGLmvtdn2GJYE"
     ]
   },
   "da": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "xj6X4BCUsv9oxohm1E8o",
       "4RklGmuxoAskAbGXplXN",
       "V34B5u5UbLdNJVEkcgXp",
@@ -7720,16 +7991,19 @@
       "Hp07ONf6C5qlCKOeB4oo"
     ],
     "jutlandic": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "MTfGnENDP7GCFq2vMVZq",
       "qhEux886xDKbOdF7jkFP",
       "ygiXC2Oa1BiHksD3WkJZ"
     ],
     "zealandic": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "C43bq5qXRueL1cBQEOt3"
     ]
   },
   "hr": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "F2kYsMGahtg8auErVXgY",
       "pZPGvLM3dfmqzJubZLiF",
       "mP6GNwIkel9neaN9zZIg",
@@ -7744,15 +8018,18 @@
       "0jvpZ98RZwx5FBOSZAc3"
     ],
     "zagreb": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "TRnNlYQWHAJwo9K75wNE",
       "vFQACl5nAIV0owAavYxE"
     ],
     "any": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "adxhr4Ei7ASJ3Cz7fxwX"
     ]
   },
   "el": {
     "standard": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "5DAtyqt3LGjv9jkjNVFd",
       "PaZ8laODC1yRxHTPYJFh",
       "n0vzWypeCK1NlWPVwhOc",
@@ -7766,14 +8043,17 @@
       "wykE1oPxFaMrxdpOtFt6"
     ],
     "macedonian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "0oYUKTNPbymIKVAkDQqh"
     ],
     "athenian": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "aTP4J5SJLQl74WTSRXKW",
       "20zUtLxCwVzsFDWub4sB",
       "cuab90umcstNgL8U7orz"
     ],
     "aegean": [
+      "1SM7GgM6IMuvQlz2BwM3",
       "Jv2zcgjn9Qu0uNMKJjb1"
     ]
   },

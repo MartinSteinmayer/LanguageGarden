@@ -9,6 +9,7 @@
       "name": "Mexican Spanish",
       "speakers": 125000000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "UrKtSFzzmJW3NBpFdBsS",
         "CQLNn2VcdhTOSAfK3xmF",
         "hrlCBOGwBPZYViXHeZjS",
@@ -79,11 +80,11 @@
       "name": "Peninsular Spanish",
       "speakers": 43520000,
       "voice_ids": [
+        "4Psp2B39ggIi4zVk97ES",
         "LR6WU3P6sHdPMKrBbLsS",
         "8HzSA5Qg18ahiIQuvLhv",
         "GB7fZx4ubHWxbBE05abF",
         "qu1zDuNScdedDRrHCh4F",
-        "4Psp2B39ggIi4zVk97ES",
         "q3n84mLD78YTyJFPihPv",
         "gEPYSePlyPI0GZQOPyat",
         "5aG5T4o3Ohz6tSqDo59F",
@@ -248,9 +249,9 @@
       "name": "Argentine Spanish",
       "speakers": 45000000,
       "voice_ids": [
+        "kq2txNbA7gDo4YxPud8y",
         "r3lotmx3BZETVvcKm6R6",
         "0bu1GUsOfNJYyXbmSTxD",
-        "kq2txNbA7gDo4YxPud8y",
         "sqoAbxNYZX3JdDUTNetR",
         "bkVwoLpm00fYfz45ZQAb",
         "zR7eV8hMFnxhSSAcCYW0",
@@ -289,6 +290,7 @@
       "name": "Peruvian Spanish",
       "speakers": 26000000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "buK0D4pdD2B4JPTMm848",
         "I9uZPOVoQkQEhHPStmJz",
         "G9D0re5CXvFlaorVnZjj",
@@ -313,6 +315,7 @@
       "name": "Colombian Spanish",
       "speakers": 51740000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "QpDQJR3frbDwOhTIo8nW",
         "d2Cxiyh5zS7CQNTlRrdT",
         "wmXH34EF7LAsKTjOZWWt",
@@ -355,6 +358,7 @@
       "name": "Dominican Spanish",
       "speakers": 10500000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "IeiHyO4UwOOUdKQ0HSDK",
         "2vyVHGyPYK7eCnfdVvk9",
         "bHDZNVWfyvPRfw7L24bR"
@@ -369,6 +373,7 @@
       "name": "Chilean Spanish",
       "speakers": 18500000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "6ZDFxWiAykFxCoe683WK",
         "OFrdGXwCzoE56a9sp1fk",
         "iNlaSRLu8vd4RtnF3w9i",
@@ -405,6 +410,7 @@
       "name": "Cuban Spanish",
       "speakers": 11300000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "1hB7zCGWj11SeMuBseeI",
         "BjEROETieA12i9gT25f7"
       ]
@@ -418,6 +424,7 @@
       "name": "Puerto Rican Spanish",
       "speakers": 6000000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "K1OQ9JIf2aW3auYuVMF5"
       ]
     },
@@ -430,6 +437,7 @@
       "name": "Ecuadorian Spanish",
       "speakers": 16000000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "gzUGUDCUQFhwNLVHw3ER",
         "DZksvRcjbVkbnIwYVMEQ"
       ]
@@ -443,6 +451,7 @@
       "name": "Venezuelan Spanish",
       "speakers": 28000000,
       "voice_ids": [
+        "hEKEQC93QpOYMa6WuwWp",
         "SIpDYvpsUzCaJ0WmnSA8",
         "n6b7167RXAtrYaNTTD31",
         "4VDZLGtT3KMPG6CtDKCT",
@@ -2585,13 +2594,14 @@
     },
     "british": {
       "coordinates": {
-        "lat": "55.3781",
-        "long": "-3.4360"
+        "lat": "51.5074",
+        "long": "-0.1278"
       },
       "official_name": "British English",
       "name": "British English",
       "speakers": 63718834,
       "voice_ids": [
+        "2UMI2FME0FFUFMlUoRER",
         "VYkr1IQzbDVb2GJoYAIl",
         "xbOj8ppmiYz8dqX2I2ri",
         "QJksobp1edMNvmwcG5lm",
@@ -2599,7 +2609,6 @@
         "ssAN9DUfY5xyHqXqIS6G",
         "QRcumt9oV9EP5UgzLrFK",
         "ZEt85AU1ui8Rr8FxNslW",
-        "2UMI2FME0FFUFMlUoRER",
         "Pu6wRXGiX8rRTqojO6N0",
         "LY3A6uJ1ibAVkfh5HsoK",
         "8Al3hFcl1x3aCwvxoEJC",
@@ -4055,6 +4064,7 @@
       "name": "Geordie English",
       "speakers": 800000,
       "voice_ids": [
+        "2UMI2FME0FFUFMlUoRER",
         "9jd0hkEFS2KFCw19Rddp",
         "b6T2IrWoTx7ZIb3BHJSg"
       ]
@@ -4112,6 +4122,7 @@
       "name": "Yorkshire English",
       "speakers": 5400000,
       "voice_ids": [
+        "2UMI2FME0FFUFMlUoRER",
         "Q7VrUY6f87ZLFJfAckYV",
         "ZR8ruiC9tbg7bV9RmBmC",
         "LOE6OtKY65AfLLoge1Eb"
@@ -4164,6 +4175,7 @@
       "name": "Cockney English",
       "speakers": 15,
       "voice_ids": [
+        "2UMI2FME0FFUFMlUoRER",
         "kOVqQImaJYcrUxZmjqgl"
       ]
     }
@@ -8613,8 +8625,8 @@
   "ga": {
     "standard": {
       "coordinates": {
-        "lat": "53.1424",
-        "long": "-7.6921"
+        "lat": "53.4129",
+        "long": "-8.2439"
       },
       "official_name": "Gaeilge",
       "name": "Irish",
