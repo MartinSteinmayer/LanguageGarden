@@ -1,0 +1,1430 @@
+{
+  "aca": {
+    "standard": {
+      "coordinates": {
+        "lat": "4.5000",
+        "long": "-71.0000"
+      },
+      "official_name": "Achagua",
+      "name": "Achawa language",
+      "iso_639_3": "aca",
+      "speakers": 250,
+      "voice_ids": [],
+      "notes": "Arawakan language spoken in Meta Department of Colombia, closely related to Piapoco"
+    }
+  },
+  "acz": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.4000",
+        "long": "30.7000"
+      },
+      "official_name": "Acheron",
+      "name": "Acheron language",
+      "iso_639_3": "acz",
+      "speakers": 980,
+      "voice_ids": [],
+      "notes": "Niger-Congo language of the Talodi family, spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "adt": {
+    "standard": {
+      "coordinates": {
+        "lat": "-31.5000",
+        "long": "138.5000"
+      },
+      "official_name": "Adnyamathanha",
+      "name": "Adnyamathanha language",
+      "iso_639_3": "adt",
+      "speakers": 140,
+      "voice_ids": [],
+      "notes": "Spoken in Flinders Ranges, South Australia. Also known as yura ngarwala"
+    }
+  },
+  "aft": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.8000",
+        "long": "30.1500"
+      },
+      "official_name": "Afitti",
+      "name": "Afitti language",
+      "iso_639_3": "aft",
+      "speakers": 4000,
+      "voice_ids": [],
+      "notes": "Nilo-Saharan language spoken in North Kordofan, Sudan. Most speakers are bilingual in Arabic"
+    }
+  },
+  "aic": {
+    "standard": {
+      "coordinates": {
+        "lat": "-3.2500",
+        "long": "141.6500"
+      },
+      "official_name": "Ainbai",
+      "name": "Ainbai language",
+      "iso_639_3": "aic",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "Torricelli language spoken in Sandaun Province, Papua New Guinea"
+    }
+  },
+  "akq": {
+    "standard": {
+      "coordinates": {
+        "lat": "-3.5000",
+        "long": "141.5000"
+      },
+      "official_name": "Ak",
+      "name": "Ak language",
+      "iso_639_3": "akq",
+      "speakers": 7,
+      "voice_ids": [],
+      "notes": "Sepik language spoken in Sandaun Province, Papua New Guinea"
+    }
+  },
+  "awm": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.3000",
+        "long": "145.4000"
+      },
+      "official_name": "Arawum",
+      "name": "Arawum language",
+      "iso_639_3": "awm",
+      "speakers": 75,
+      "voice_ids": [],
+      "notes": "A Croisilles language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "aie": {
+    "standard": {
+      "coordinates": {
+        "lat": "-6.3000",
+        "long": "147.5000"
+      },
+      "official_name": "Ari",
+      "name": "Ari language (New Guinea)",
+      "iso_639_3": "aie",
+      "speakers": 50,
+      "voice_ids": [],
+      "notes": "Trans-New Guinea language spoken in Morobe Province, Papua New Guinea"
+    }
+  },
+  "asu": {
+    "standard": {
+      "coordinates": {
+        "lat": "-3.2800",
+        "long": "142.1700"
+      },
+      "official_name": "Asumbuo",
+      "name": "Asumbuo language",
+      "iso_639_3": "asu",
+      "speakers": 5,
+      "voice_ids": [],
+      "notes": "A language isolate spoken in Sandaun Province, Papua New Guinea"
+    }
+  },
+  "ato": {
+    "standard": {
+      "coordinates": {
+        "lat": "23.5000",
+        "long": "91.0000"
+      },
+      "official_name": "Atong",
+      "name": "Atong language (Sino-Tibetan)",
+      "iso_639_3": "ato",
+      "speakers": 9000,
+      "voice_ids": [],
+      "notes": "Sino-Tibetan language spoken in Bangladesh and Meghalaya, India"
+    }
+  },
+  "bar": {
+    "standard": {
+      "coordinates": {
+        "lat": "55.0000",
+        "long": "78.0000"
+      },
+      "official_name": "Бараба",
+      "name": "Baraba dialect",
+      "iso_639_3": "bar",
+      "speakers": 8000,
+      "voice_ids": [],
+      "notes": "Siberian Tatar dialect spoken in the Baraba steppe of Siberia, Russia"
+    }
+  },
+  "bep": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.1000",
+        "long": "145.7000"
+      },
+      "official_name": "Bepour",
+      "name": "Bepour language",
+      "iso_639_3": "bep",
+      "speakers": 50,
+      "voice_ids": [],
+      "notes": "Trans–New Guinea language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "bre": {
+    "standard": {
+      "coordinates": {
+        "lat": "48.2000",
+        "long": "-3.5000"
+      },
+      "official_name": "Brezhoneg",
+      "name": "Breton language",
+      "iso_639_3": "bre",
+      "speakers": 207000,
+      "voice_ids": [],
+      "notes": "Celtic language of Brittany, France. Declined from over 1 million speakers in 1950"
+    }
+  },
+  "bvt": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.5000",
+        "long": "139.5000"
+      },
+      "official_name": "Burate",
+      "name": "Burate language",
+      "iso_639_3": "bvt",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "Geelvink Bay language spoken in Papua, Indonesia"
+    }
+  },
+  "brg": {
+    "standard": {
+      "coordinates": {
+        "lat": "47.3220",
+        "long": "5.0415"
+      },
+      "official_name": "Bourguignon",
+      "name": "Burgundian language (Oïl)",
+      "iso_639_3": "brg",
+      "speakers": 50000,
+      "voice_ids": [],
+      "notes": "A Romance language of the Oïl family spoken in Burgundy, France"
+    }
+  },
+  "con": {
+    "standard": {
+      "coordinates": {
+        "lat": "0.1667",
+        "long": "-77.1667"
+      },
+      "official_name": "A'ingae",
+      "name": "Cofán language",
+      "iso_639_3": "con",
+      "speakers": 1400,
+      "voice_ids": [],
+      "notes": "A language isolate spoken in Ecuador and Colombia"
+    }
+  },
+  "dai": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.8333",
+        "long": "29.3333"
+      },
+      "official_name": "Dair",
+      "name": "Dair language",
+      "iso_639_3": "dai",
+      "speakers": 1000,
+      "voice_ids": [],
+      "notes": "Nubian language spoken in the Nuba Mountains of Kordofan, Sudan"
+    }
+  },
+  "dbj": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.9000",
+        "long": "145.7000"
+      },
+      "official_name": "Djabugay",
+      "name": "Djabugay language",
+      "iso_639_3": "dbj",
+      "speakers": 0,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language, the traditional language of the Djabugay people of Queensland. Currently undergoing revival."
+    }
+  },
+  "rmt": {
+    "standard": {
+      "coordinates": {
+        "lat": "31.7683",
+        "long": "35.2137"
+      },
+      "official_name": "Domari",
+      "name": "Domari language",
+      "iso_639_3": "rmt",
+      "speakers": 2300,
+      "voice_ids": [],
+      "notes": "Indo-Aryan language spoken by the Dom people across the Middle East and North Africa"
+    }
+  },
+  "dbl": {
+    "standard": {
+      "coordinates": {
+        "lat": "-17.9000",
+        "long": "145.8000"
+      },
+      "official_name": "Dyirbal",
+      "name": "Dyirbal language",
+      "iso_639_3": "dbl",
+      "speakers": 30,
+      "voice_ids": [],
+      "notes": "Australian Aboriginal language from Queensland. Last fluent speaker died in 2011, but some speakers remain"
+    }
+  },
+  "elh": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.0000",
+        "long": "29.7500"
+      },
+      "official_name": "El Hugeirat",
+      "name": "El Hugeirat language",
+      "iso_639_3": "elh",
+      "speakers": 50,
+      "voice_ids": [],
+      "notes": "A Daju language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "eve": {
+    "standard": {
+      "coordinates": {
+        "lat": "62.0000",
+        "long": "150.0000"
+      },
+      "official_name": "Эвэды торэн",
+      "name": "Even language",
+      "iso_639_3": "eve",
+      "speakers": 5700,
+      "voice_ids": [],
+      "notes": "Tungusic language spoken in Siberia, Russia"
+    }
+  },
+  "evn": {
+    "standard": {
+      "coordinates": {
+        "lat": "52.0000",
+        "long": "113.0000"
+      },
+      "official_name": "Эвэнки",
+      "name": "Evenki language",
+      "iso_639_3": "evn",
+      "speakers": 16500,
+      "voice_ids": [],
+      "notes": "Tungusic language spoken across Siberia and northern China"
+    }
+  },
+  "gallo": {
+    "standard": {
+      "coordinates": {
+        "lat": "48.1000",
+        "long": "-2.0000"
+      },
+      "official_name": "Galo",
+      "name": "Gallo language",
+      "iso_639_3": "gallo",
+      "speakers": 200000,
+      "voice_ids": [],
+      "notes": "A Romance language of the Oïl family spoken in Upper Brittany, France. Lacks its own ISO 639-3 code."
+    }
+  },
+  "gid": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.5000",
+        "long": "128.5000"
+      },
+      "official_name": "Gija",
+      "name": "Gija language",
+      "iso_639_3": "gid",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken in the East Kimberley region of Western Australia"
+    }
+  },
+  "jdt": {
+    "standard": {
+      "coordinates": {
+        "lat": "36.2000",
+        "long": "44.3000"
+      },
+      "official_name": "לישנא דידן",
+      "name": "Trans-Zab Jewish Neo-Aramaic",
+      "iso_639_3": "jdt",
+      "speakers": 5000,
+      "voice_ids": [],
+      "notes": "Also known as Lishan Didan. A Neo-Aramaic dialect originally spoken by Jews in Iranian Azerbaijan."
+    }
+  },
+  "ili": {
+    "standard": {
+      "coordinates": {
+        "lat": "44.0000",
+        "long": "81.0000"
+      },
+      "official_name": "Ili Turki",
+      "name": "Ili Turki language",
+      "iso_639_3": "ili",
+      "speakers": 120,
+      "voice_ids": [],
+      "notes": "A Turkic language spoken in the Ili Kazakh Autonomous Prefecture in Xinjiang, China"
+    }
+  },
+  "izh": {
+    "standard": {
+      "coordinates": {
+        "lat": "59.6000",
+        "long": "29.0000"
+      },
+      "official_name": "Ižorana kēli",
+      "name": "Ingrian language",
+      "iso_639_3": "izh",
+      "speakers": 120,
+      "voice_ids": [],
+      "notes": "A Finnic language spoken by the Izhorians of Ingria, Russia"
+    }
+  },
+  "zay": {
+    "standard": {
+      "coordinates": {
+        "lat": "33.5000",
+        "long": "44.5000"
+      },
+      "official_name": "Zay",
+      "name": "Inter-Zab Jewish Neo-Aramaic",
+      "iso_639_3": "zay",
+      "speakers": 0,
+      "voice_ids": [],
+      "notes": "A Neo-Aramaic dialect formerly spoken by Jews in Sanandaj, Iran. Now considered extinct."
+    }
+  },
+  "ruo": {
+    "standard": {
+      "coordinates": {
+        "lat": "45.2000",
+        "long": "14.2000"
+      },
+      "official_name": "Vlășește",
+      "name": "Istro-Romanian language",
+      "iso_639_3": "ruo",
+      "speakers": 200,
+      "voice_ids": [],
+      "notes": "A Balkan Romance language spoken in a few villages in Istria, Croatia"
+    }
+  },
+  "zkh": {
+    "standard": {
+      "coordinates": {
+        "lat": "37.1500",
+        "long": "42.6833"
+      },
+      "official_name": "לישאנא דזאכו",
+      "name": "Jewish Neo-Aramaic dialect of Zakho",
+      "iso_639_3": "zkh",
+      "speakers": 0,
+      "voice_ids": [],
+      "notes": "A dialect of Northeastern Neo-Aramaic originally spoken by Jews in Zakho, Iraq. Considered extinct."
+    }
+  },
+  "lad": {
+    "standard": {
+      "coordinates": {
+        "lat": "31.7683",
+        "long": "35.2137"
+      },
+      "official_name": "גֿודֿיאו-איספאנייול",
+      "name": "Judaeo-Spanish",
+      "iso_639_3": "lad",
+      "speakers": 60000,
+      "voice_ids": [],
+      "notes": "Also known as Ladino. Romance language derived from Old Spanish, now spoken mainly in Israel and Turkey"
+    }
+  },
+  "jbe": {
+    "standard": {
+      "coordinates": {
+        "lat": "32.0000",
+        "long": "-6.0000"
+      },
+      "official_name": "Judeo-Berber",
+      "name": "Judeo-Berber language",
+      "iso_639_3": "jbe",
+      "speakers": 2000,
+      "voice_ids": [],
+      "notes": "A variety of Berber languages spoken by Jewish communities in Morocco"
+    }
+  },
+  "ajt": {
+    "standard": {
+      "coordinates": {
+        "lat": "36.8065",
+        "long": "10.1815"
+      },
+      "official_name": "Judeo-Tunisian Arabic",
+      "name": "Judeo-Tunisian Arabic",
+      "iso_639_3": "ajt",
+      "speakers": 500,
+      "voice_ids": [],
+      "notes": "A variety of Tunisian Arabic spoken by Jews in Tunisia"
+    }
+  },
+  "kpp": {
+    "standard": {
+      "coordinates": {
+        "lat": "-1.5000",
+        "long": "130.0000"
+      },
+      "official_name": "Kalamang",
+      "name": "Kalamang language",
+      "iso_639_3": "kpp",
+      "speakers": 200,
+      "voice_ids": [],
+      "notes": "A Trans-New Guinea language spoken on the Karas Islands of Indonesia"
+    }
+  },
+  "kcp": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.1667",
+        "long": "30.0000"
+      },
+      "official_name": "Kanga",
+      "name": "Kanga language",
+      "iso_639_3": "kcp",
+      "speakers": 8000,
+      "voice_ids": [],
+      "notes": "A Kadu language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "kxs": {
+    "standard": {
+      "coordinates": {
+        "lat": "36.0000",
+        "long": "102.5000"
+      },
+      "official_name": "Kangjia",
+      "name": "Kangjia language",
+      "iso_639_3": "kxs",
+      "speakers": 400,
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken in Qinghai Province, China"
+    }
+  },
+  "kpg": {
+    "standard": {
+      "coordinates": {
+        "lat": "1.0333",
+        "long": "154.7833"
+      },
+      "official_name": "Kapingamarangi",
+      "name": "Kapingamarangi language",
+      "iso_639_3": "kpg",
+      "speakers": 3000,
+      "voice_ids": [],
+      "notes": "A Polynesian language spoken on Kapingamarangi atoll, Federated States of Micronesia"
+    }
+  },
+  "kei": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.5000",
+        "long": "30.5000"
+      },
+      "official_name": "Keiga",
+      "name": "Keiga language",
+      "iso_639_3": "kei",
+      "speakers": 6000,
+      "voice_ids": [],
+      "notes": "A Kadu language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "ket": {
+    "standard": {
+      "coordinates": {
+        "lat": "64.0000",
+        "long": "87.5000"
+      },
+      "official_name": "Кет",
+      "name": "Ket language",
+      "iso_639_3": "ket",
+      "speakers": 30,
+      "voice_ids": [],
+      "notes": "Last surviving Yeniseian language of Siberia. Only a few dozen fluent speakers remain"
+    }
+  },
+  "klt": {
+    "standard": {
+      "coordinates": {
+        "lat": "48.0000",
+        "long": "135.0000"
+      },
+      "official_name": "Kili",
+      "name": "Kili language",
+      "iso_639_3": "klt",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Tungusic language spoken in Khabarovsk Krai, Russia, and Heilongjiang, China"
+    }
+  },
+  "kqi": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.5000",
+        "long": "138.8000"
+      },
+      "official_name": "Kofei",
+      "name": "Kofei language",
+      "iso_639_3": "kqi",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Geelvink Bay language spoken in Papua, Indonesia"
+    }
+  },
+  "xbr": {
+    "standard": {
+      "coordinates": {
+        "lat": "-14.5000",
+        "long": "142.0000"
+      },
+      "official_name": "Koko-Bera",
+      "name": "Koko-Bera language",
+      "iso_639_3": "xbr",
+      "speakers": 20,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken on the Cape York Peninsula, Queensland"
+    }
+  },
+  "kos": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.3167",
+        "long": "163.0000"
+      },
+      "official_name": "Kosrae",
+      "name": "Kosraean language",
+      "iso_639_3": "kos",
+      "speakers": 8000,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on the island of Kosrae, Federated States of Micronesia"
+    }
+  },
+  "xri": {
+    "standard": {
+      "coordinates": {
+        "lat": "-6.3000",
+        "long": "147.5000"
+      },
+      "official_name": "Kri",
+      "name": "Kri language",
+      "iso_639_3": "xri",
+      "speakers": 50,
+      "voice_ids": [],
+      "notes": "A Trans–New Guinea language spoken in Morobe Province, Papua New Guinea"
+    }
+  },
+  "mcm": {
+    "standard": {
+      "coordinates": {
+        "lat": "2.1908",
+        "long": "102.2501"
+      },
+      "official_name": "Kristang",
+      "name": "Kristang language",
+      "iso_639_3": "mcm",
+      "speakers": 500,
+      "voice_ids": [],
+      "notes": "A Portuguese-based creole spoken in Malacca, Malaysia, and Singapore"
+    }
+  },
+  "kug": {
+    "standard": {
+      "coordinates": {
+        "lat": "-14.0000",
+        "long": "142.0000"
+      },
+      "official_name": "Kugu Nganhcara",
+      "name": "Kugu Nganhcara language",
+      "iso_639_3": "kug",
+      "speakers": 10,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken on the Cape York Peninsula, Queensland"
+    }
+  },
+  "kjn": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.0000",
+        "long": "143.0000"
+      },
+      "official_name": "Kunjen",
+      "name": "Kunjen language",
+      "iso_639_3": "kjn",
+      "speakers": 30,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken on the Cape York Peninsula, Queensland"
+    }
+  },
+  "kzv": {
+    "standard": {
+      "coordinates": {
+        "lat": "-4.8000",
+        "long": "145.4000"
+      },
+      "official_name": "Kursav",
+      "name": "Kursav language",
+      "iso_639_3": "kzv",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Trans-New Guinea language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "laf": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.8333",
+        "long": "30.0000"
+      },
+      "official_name": "Lafofa",
+      "name": "Lafofa languages",
+      "iso_639_3": "laf",
+      "speakers": 600,
+      "voice_ids": [],
+      "notes": "A Niger-Congo language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "log": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.6667",
+        "long": "29.6667"
+      },
+      "official_name": "Logol",
+      "name": "Logol language",
+      "iso_639_3": "log",
+      "speakers": 2000,
+      "voice_ids": [],
+      "notes": "A Niger-Congo language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "mpf": {
+    "standard": {
+      "coordinates": {
+        "lat": "-13.0000",
+        "long": "130.5000"
+      },
+      "official_name": "Mullukmulluk",
+      "name": "Malak-Malak language",
+      "iso_639_3": "mpf",
+      "speakers": 10,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken in the Northern Territory of Australia"
+    }
+  },
+  "pqm": {
+    "standard": {
+      "coordinates": {
+        "lat": "45.5000",
+        "long": "-67.5000"
+      },
+      "official_name": "Maliseet-Passamaquoddy",
+      "name": "Maliseet-Passamaquoddy language",
+      "iso_639_3": "pqm",
+      "speakers": 600,
+      "voice_ids": [],
+      "notes": "An Algonquian language spoken by the Maliseet and Passamaquoddy peoples in Maine, USA and New Brunswick, Canada"
+    }
+  },
+  "mrv": {
+    "standard": {
+      "coordinates": {
+        "lat": "-23.1333",
+        "long": "-134.9500"
+      },
+      "official_name": "Mangareva",
+      "name": "Mangareva language",
+      "iso_639_3": "mrv",
+      "speakers": 600,
+      "voice_ids": [],
+      "notes": "A Polynesian language spoken on the Gambier Islands in French Polynesia"
+    }
+  },
+  "msr": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.5000",
+        "long": "140.0000"
+      },
+      "official_name": "Mores",
+      "name": "Mores language",
+      "iso_639_3": "msr",
+      "speakers": 200,
+      "voice_ids": [],
+      "notes": "A Skou language spoken in Papua, Indonesia"
+    }
+  },
+  "nmt": {
+    "standard": {
+      "coordinates": {
+        "lat": "8.7167",
+        "long": "150.1167"
+      },
+      "official_name": "Namonuito",
+      "name": "Namonuito language",
+      "iso_639_3": "nmt",
+      "speakers": 950,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Namonuito Atoll, Chuuk State, Federated States of Micronesia"
+    }
+  },
+  "nax": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.0000",
+        "long": "147.0000"
+      },
+      "official_name": "Nauna",
+      "name": "Nauna language",
+      "iso_639_3": "nax",
+      "speakers": 1,
+      "voice_ids": [],
+      "notes": "An Oceanic language of Manus Province, Papua New Guinea"
+    }
+  },
+  "nau": {
+    "standard": {
+      "coordinates": {
+        "lat": "-0.5333",
+        "long": "166.9167"
+      },
+      "official_name": "Dorerin Naoero",
+      "name": "Nauruan language",
+      "iso_639_3": "nau",
+      "speakers": 6000,
+      "voice_ids": [],
+      "notes": "An Austronesian language and an official language of Nauru"
+    }
+  },
+  "nek": {
+    "standard": {
+      "coordinates": {
+        "lat": "-6.2000",
+        "long": "147.2000"
+      },
+      "official_name": "Neku",
+      "name": "Neku language",
+      "iso_639_3": "nek",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "An Austronesian language spoken in Morobe Province, Papua New Guinea"
+    }
+  },
+  "nex": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.2000",
+        "long": "145.4000"
+      },
+      "official_name": "Neme",
+      "name": "Neme language",
+      "iso_639_3": "nex",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Trans–New Guinea language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "net": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.5000",
+        "long": "145.0000"
+      },
+      "official_name": "Nete",
+      "name": "Nete language",
+      "iso_639_3": "net",
+      "speakers": 400,
+      "voice_ids": [],
+      "notes": "A Trans–New Guinea language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "ngi": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.0000",
+        "long": "31.0000"
+      },
+      "official_name": "Ngile",
+      "name": "Ngile language",
+      "iso_639_3": "ngi",
+      "speakers": 2500,
+      "voice_ids": [],
+      "notes": "A Surmic language spoken in South Sudan"
+    }
+  },
+  "frr": {
+    "standard": {
+      "coordinates": {
+        "lat": "54.6000",
+        "long": "8.8000"
+      },
+      "official_name": "Friisk",
+      "name": "North Frisian language",
+      "iso_639_3": "frr",
+      "speakers": 8000,
+      "voice_ids": [],
+      "notes": "West Germanic language spoken in North Frisia, Germany. Has 9-10 dialects divided between insular and mainland groups"
+    }
+  },
+  "xal": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.3667",
+        "long": "44.2667"
+      },
+      "official_name": "Хальмг келн",
+      "name": "Oirat language",
+      "iso_639_3": "xal",
+      "speakers": 90000,
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken by the Oirats, primarily in Kalmykia, Russia"
+    }
+  },
+  "oac": {
+    "standard": {
+      "coordinates": {
+        "lat": "20.5000",
+        "long": "-99.0000"
+      },
+      "official_name": "Hñähñu",
+      "name": "Otomi language",
+      "iso_639_3": "oac",
+      "speakers": 290000,
+      "voice_ids": [],
+      "notes": "An Oto-Pamean language spoken in the central Altiplano of Mexico"
+    }
+  },
+  "otr": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.0000",
+        "long": "30.5000"
+      },
+      "official_name": "Otoro",
+      "name": "Otoro language",
+      "iso_639_3": "otr",
+      "speakers": 10000,
+      "voice_ids": [],
+      "notes": "A Niger-Congo language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "paa": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.5000",
+        "long": "151.7500"
+      },
+      "official_name": "Pááfang",
+      "name": "Pááfang language",
+      "iso_639_3": "paa",
+      "speakers": 1300,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken in Chuuk State, Federated States of Micronesia"
+    }
+  },
+  "pcd": {
+    "standard": {
+      "coordinates": {
+        "lat": "50.5000",
+        "long": "2.5000"
+      },
+      "official_name": "Picard",
+      "name": "Picard language",
+      "iso_639_3": "pcd",
+      "speakers": 700000,
+      "voice_ids": [],
+      "notes": "A Romance language of the Oïl family spoken in northern France and southern Belgium"
+    }
+  },
+  "pij": {
+    "standard": {
+      "coordinates": {
+        "lat": "-20.9000",
+        "long": "164.7000"
+      },
+      "official_name": "Pije",
+      "name": "Pije language",
+      "iso_639_3": "pij",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in the North Province of New Caledonia"
+    }
+  },
+  "pif": {
+    "standard": {
+      "coordinates": {
+        "lat": "6.2167",
+        "long": "158.2167"
+      },
+      "official_name": "Pingelapese",
+      "name": "Pingelapese language",
+      "iso_639_3": "pif",
+      "speakers": 2000,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Pingelap atoll, Pohnpei State, Federated States of Micronesia"
+    }
+  },
+  "puw": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.3500",
+        "long": "149.4333"
+      },
+      "official_name": "Puluwat",
+      "name": "Puluwat language",
+      "iso_639_3": "puw",
+      "speakers": 1360,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Puluwat atoll, Chuuk State, Federated States of Micronesia"
+    }
+  },
+  "pwa": {
+    "standard": {
+      "coordinates": {
+        "lat": "-21.0000",
+        "long": "165.0000"
+      },
+      "official_name": "Pwapwâ",
+      "name": "Pwapwâ language",
+      "iso_639_3": "pwa",
+      "speakers": 16,
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in the North Province of New Caledonia"
+    }
+  },
+  "rap": {
+    "standard": {
+      "coordinates": {
+        "lat": "-27.1167",
+        "long": "-109.3667"
+      },
+      "official_name": "Rapa Nui",
+      "name": "Rapa Nui language",
+      "iso_639_3": "rap",
+      "speakers": 3400,
+      "voice_ids": [],
+      "notes": "Polynesian language of Easter Island (Chile)"
+    }
+  },
+  "rem": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.5000",
+        "long": "145.7000"
+      },
+      "official_name": "Rema",
+      "name": "Rema language",
+      "iso_639_3": "rem",
+      "speakers": 0,
+      "voice_ids": [],
+      "notes": "A Trans–New Guinea language of Madang Province, Papua New Guinea. Considered extinct."
+    }
+  },
+  "stw": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.4833",
+        "long": "149.8333"
+      },
+      "official_name": "Satawalese",
+      "name": "Satawalese language",
+      "iso_639_3": "stw",
+      "speakers": 460,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Satawal island, Yap State, Federated States of Micronesia"
+    }
+  },
+  "shj": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.2500",
+        "long": "29.7500"
+      },
+      "official_name": "Shatt",
+      "name": "Shatt language",
+      "iso_639_3": "shj",
+      "speakers": 15000,
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "ske": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.0000",
+        "long": "168.0000"
+      },
+      "official_name": "Ske",
+      "name": "Ske language",
+      "iso_639_3": "ske",
+      "speakers": 300,
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on Pentecost Island, Vanuatu"
+    }
+  },
+  "sov": {
+    "standard": {
+      "coordinates": {
+        "lat": "4.6500",
+        "long": "132.3167"
+      },
+      "official_name": "Sonsorolese",
+      "name": "Sonsorolese",
+      "iso_639_3": "sov",
+      "speakers": 600,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken in Sonsorol State, Palau"
+    }
+  },
+  "tdg": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.0000",
+        "long": "30.0000"
+      },
+      "official_name": "Tagoi",
+      "name": "Tagoi language",
+      "iso_639_3": "tdg",
+      "speakers": 13000,
+      "voice_ids": [],
+      "notes": "A Niger-Congo language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "tlo": {
+    "standard": {
+      "coordinates": {
+        "lat": "-4.8000",
+        "long": "145.4000"
+      },
+      "official_name": "Tambotalo",
+      "name": "Tambotalo language",
+      "iso_639_3": "tlo",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Trans-New Guinea language spoken in Madang Province, Papua New Guinea"
+    }
+  },
+  "tnb": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.5000",
+        "long": "140.0000"
+      },
+      "official_name": "Tanimbili",
+      "name": "Tanimbili language",
+      "iso_639_3": "tnb",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "A Skou language spoken in Papua, Indonesia"
+    }
+  },
+  "teq": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.0000",
+        "long": "29.2500"
+      },
+      "official_name": "Temein",
+      "name": "Temein language",
+      "iso_639_3": "teq",
+      "speakers": 10000,
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "tih": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.0000",
+        "long": "31.0000"
+      },
+      "official_name": "Tima",
+      "name": "Tima language",
+      "iso_639_3": "tih",
+      "speakers": 1100,
+      "voice_ids": [],
+      "notes": "A language isolate spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "tbt": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.6000",
+        "long": "140.7000"
+      },
+      "official_name": "Tobati",
+      "name": "Tobati language",
+      "iso_639_3": "tbt",
+      "speakers": 300,
+      "voice_ids": [],
+      "notes": "An Austronesian language spoken in Jayapura, Papua, Indonesia"
+    }
+  },
+  "taz": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.5000",
+        "long": "29.7500"
+      },
+      "official_name": "Tocho",
+      "name": "Tocho language",
+      "iso_639_3": "taz",
+      "speakers": 3800,
+      "voice_ids": [],
+      "notes": "A Niger-Congo language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "tkl": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.0000",
+        "long": "-172.0000"
+      },
+      "official_name": "gagana Tokelau",
+      "name": "Tokelauan language",
+      "iso_639_3": "tkl",
+      "speakers": 4000,
+      "voice_ids": [],
+      "notes": "Polynesian language of Tokelau"
+    }
+  },
+  "sax": {
+    "standard": {
+      "coordinates": {
+        "lat": "47.0000",
+        "long": "25.0000"
+      },
+      "official_name": "Siweberjesch-Såksesch",
+      "name": "Transylvanian Saxon dialect",
+      "iso_639_3": "sax",
+      "speakers": 15000,
+      "voice_ids": [],
+      "notes": "A Moselle Franconian dialect of German spoken in Transylvania, Romania"
+    }
+  },
+  "tul": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.5000",
+        "long": "29.5000"
+      },
+      "official_name": "Tulishi",
+      "name": "Tulishi language",
+      "iso_639_3": "tul",
+      "speakers": 500,
+      "voice_ids": [],
+      "notes": "A Kadu language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "kqq": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.2500",
+        "long": "30.0000"
+      },
+      "official_name": "Tumtum",
+      "name": "Tumtum language",
+      "iso_639_3": "kqq",
+      "speakers": 7300,
+      "voice_ids": [],
+      "notes": "A Kadu language spoken in the Nuba Mountains of Sudan"
+    }
+  },
+  "ubu": {
+    "standard": {
+      "coordinates": {
+        "lat": "9.0000",
+        "long": "17.0000"
+      },
+      "official_name": "Ubi",
+      "name": "Ubi language",
+      "iso_639_3": "ubu",
+      "speakers": 1000,
+      "voice_ids": [],
+      "notes": "An Afro-Asiatic language of uncertain classification spoken in Chad"
+    }
+  },
+  "udi": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.0000",
+        "long": "47.5000"
+      },
+      "official_name": "удин муз",
+      "name": "Udi language",
+      "iso_639_3": "udi",
+      "speakers": 3700,
+      "voice_ids": [],
+      "notes": "Northeast Caucasian language spoken in Azerbaijan and Georgia"
+    }
+  },
+  "uli": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.0333",
+        "long": "139.7833"
+      },
+      "official_name": "Yulidiy",
+      "name": "Ulithian language",
+      "iso_639_3": "uli",
+      "speakers": 3000,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Ulithi Atoll, Yap State, Federated States of Micronesia"
+    }
+  },
+  "ump": {
+    "standard": {
+      "coordinates": {
+        "lat": "-13.5000",
+        "long": "143.5000"
+      },
+      "official_name": "Umpila",
+      "name": "Umpila language",
+      "iso_639_3": "ump",
+      "speakers": 100,
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language spoken on the Cape York Peninsula, Queensland"
+    }
+  },
+  "wbl": {
+    "standard": {
+      "coordinates": {
+        "lat": "6.8333",
+        "long": "151.0000"
+      },
+      "official_name": "Wa",
+      "name": "Wa language",
+      "iso_639_3": "wbl",
+      "speakers": 1000,
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in West New Britain Province, Papua New Guinea"
+    }
+  },
+  "wae": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.5000",
+        "long": "8.0000"
+      },
+      "official_name": "Walsertitsch",
+      "name": "Walser German",
+      "iso_639_3": "wae",
+      "speakers": 10000,
+      "voice_ids": [],
+      "notes": "A Highest Alemannic German dialect spoken by the Walser people in the Alps"
+    }
+  },
+  "woe": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.3667",
+        "long": "143.8833"
+      },
+      "official_name": "Woleaian",
+      "name": "Woleaian language",
+      "iso_639_3": "woe",
+      "speakers": 1630,
+      "voice_ids": [],
+      "notes": "A Micronesian language spoken on Woleai Atoll, Yap State, Federated States of Micronesia"
+    }
+  },
+  "sjo": {
+    "standard": {
+      "coordinates": {
+        "lat": "44.0000",
+        "long": "81.0000"
+      },
+      "official_name": "ᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ",
+      "name": "Xibe language",
+      "iso_639_3": "sjo",
+      "speakers": 30000,
+      "voice_ids": [],
+      "notes": "Tungusic language spoken in Xinjiang, China"
+    }
+  },
+  "yee": {
+    "standard": {
+      "coordinates": {
+        "lat": "-4.5000",
+        "long": "143.5000"
+      },
+      "official_name": "Yimas",
+      "name": "Yimas language",
+      "iso_639_3": "yee",
+      "speakers": 250,
+      "voice_ids": [],
+      "notes": "Papuan language of Papua New Guinea"
+    }
+  },
+  "yug": {
+    "standard": {
+      "coordinates": {
+        "lat": "-28.5000",
+        "long": "153.0000"
+      },
+      "official_name": "Yugambeh–Bundjalung",
+      "name": "Yugambeh–Bundjalung languages",
+      "iso_639_3": "yug",
+      "speakers": 10,
+      "voice_ids": [],
+      "notes": "A dialect chain of Australian Aboriginal languages spoken in New South Wales and Queensland"
+    }
+  },
+  "yuy": {
+    "standard": {
+      "coordinates": {
+        "lat": "39.0000",
+        "long": "98.0000"
+      },
+      "official_name": "yoğır lar",
+      "name": "Eastern Yugur language",
+      "iso_639_3": "yuy",
+      "speakers": 3000,
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken by the Yugur people in Gansu, China"
+    }
+  },
+  "ybe": {
+    "standard": {
+      "coordinates": {
+        "lat": "39.0000",
+        "long": "98.0000"
+      },
+      "official_name": "yoğır lar",
+      "name": "Western Yugur language",
+      "iso_639_3": "ybe",
+      "speakers": 2600,
+      "voice_ids": [],
+      "notes": "A Turkic language spoken by the Yugur people in Gansu, China"
+    }
+  },
+  "zwa": {
+    "standard": {
+      "coordinates": {
+        "lat": "8.0000",
+        "long": "38.7500"
+      },
+      "official_name": "ዛይኘ, የዛይ አፍ",
+      "name": "Zay",
+      "iso_639_3": "zwa",
+      "speakers": 4880,
+      "voice_ids": [],
+      "notes": "An Ethiopian Semitic language spoken in the vicinity of Lake Zway, Ethiopia"
+    }
+  }
+}

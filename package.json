@@ -10,7 +10,6 @@
   "dependencies": {
     "@elevenlabs/elevenlabs-js": "^2.16.0",
     "@elevenlabs/react": "^0.6.3",
-    "@google-cloud/translate": "^9.2.0",
     "@radix-ui/react-separator": "^1.1.7",
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",

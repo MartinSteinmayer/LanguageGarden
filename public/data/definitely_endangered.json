@@ -1,0 +1,1427 @@
+{
+  "abq": {
+    "standard": {
+      "coordinates": {
+        "lat": "44.2000",
+        "long": "42.0000"
+      },
+      "official_name": "Абаза бызшва",
+      "name": "Abaza language",
+      "iso_639_3": "abq",
+      "speakers": 45000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Northwest Caucasian language closely related to Abkhaz. It is spoken by the Abazin people in the Karachay-Cherkess Republic of Russia and has a significant diaspora in Turkey. It is known for its large consonant inventory."
+    }
+  },
+  "guq": {
+    "standard": {
+      "coordinates": {
+        "lat": "-25.0000",
+        "long": "-56.0000"
+      },
+      "official_name": "Aché",
+      "name": "Aché language",
+      "iso_639_3": "guq",
+      "speakers": 1500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Tupí–Guaraní language spoken by the Aché people, who are indigenous hunter-gatherers of eastern Paraguay. It is notable for its distinct phonology within its language family."
+    }
+  },
+  "akz": {
+    "standard": {
+      "coordinates": {
+        "lat": "30.5800",
+        "long": "-95.2300"
+      },
+      "official_name": "Albaamo innaaɬiilka",
+      "name": "Alabama language",
+      "iso_639_3": "akz",
+      "speakers": 250,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Muskogean language, spoken by the Alabama people, originally of the southeastern United States and now primarily within the Alabama-Coushatta Tribe of Texas. It is closely related to Koasati and more distantly to Choctaw and Chickasaw."
+    }
+  },
+  "amb": {
+    "standard": {
+      "coordinates": {
+        "lat": "-15.9000",
+        "long": "167.2000"
+      },
+      "official_name": "Amblong",
+      "name": "Amblong language",
+      "iso_639_3": "amb",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language belonging to the Austronesian family. It is spoken in the southwestern part of Espiritu Santo Island in Vanuatu. The language is under pressure from Bislama, the national creole."
+    }
+  },
+  "auk": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.5000",
+        "long": "150.0000"
+      },
+      "official_name": "Anuki",
+      "name": "Anuki language",
+      "iso_639_3": "auk",
+      "speakers": 890,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language within the Austronesian family, spoken in the Cape Vogel area of Milne Bay Province, Papua New Guinea. Its speakers are known seafarers, which has influenced the language's vocabulary and spread."
+    }
+  },
+  "rup": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.0000",
+        "long": "22.0000"
+      },
+      "official_name": "Armãneashti",
+      "name": "Aromanian language",
+      "iso_639_3": "rup",
+      "speakers": 250000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Eastern Romance language of the Indo-European family, spoken by the Aromanian people across the southern Balkans, particularly in Greece, Albania, Romania, and North Macedonia. It is one of the four languages that evolved from Proto-Romanian."
+    }
+  },
+  "bpi": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.7000",
+        "long": "146.3000"
+      },
+      "official_name": "Bagupi",
+      "name": "Bagupi language",
+      "iso_639_3": "bpi",
+      "speakers": 50,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A nearly extinct Trans-New Guinea language spoken in Madang Province, Papua New Guinea. It is part of the Mabuso language family and is closely related to the Girawa language."
+    }
+  },
+  "bvr": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.8000",
+        "long": "27.5000"
+      },
+      "official_name": "Belanda Bor",
+      "name": "Belanda Bor language (South Sudan)",
+      "iso_639_3": "bvr",
+      "speakers": 8000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Western Nilotic branch, spoken by the Belanda Bor people in the Western Bahr el Ghazal and Western Equatoria states of South Sudan."
+    }
+  },
+  "blm": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.5000",
+        "long": "29.0000"
+      },
+      "official_name": "Beli",
+      "name": "Beli language (South Sudan)",
+      "iso_639_3": "blm",
+      "speakers": 16000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Central Sudanic language of the Bongo-Bagirmi branch, spoken in the Lakes and Western Equatoria states of South Sudan. It is part of a dialect continuum that includes Jur Modo and Morokodo."
+    }
+  },
+  "bql": {
+    "standard": {
+      "coordinates": {
+        "lat": "-11.5000",
+        "long": "132.5000"
+      },
+      "official_name": "Bilabialang",
+      "name": "Bilabialang language",
+      "iso_639_3": "bql",
+      "speakers": 0,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An extinct Australian Aboriginal language of the Gunwinyguan family, formerly spoken in western Arnhem Land, Northern Territory, Australia. The last known speaker died in 1993."
+    }
+  },
+  "peh": {
+    "standard": {
+      "coordinates": {
+        "lat": "36.0000",
+        "long": "102.8000"
+      },
+      "official_name": "Bonan",
+      "name": "Bonan language",
+      "iso_639_3": "peh",
+      "speakers": 8000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken by the Bonan people in the Gansu and Qinghai provinces of China. It is known for its complex grammar and significant influence from Tibetan and Chinese."
+    }
+  },
+  "boy": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.5000",
+        "long": "94.5000"
+      },
+      "official_name": "Bori",
+      "name": "Bori language",
+      "iso_639_3": "boy",
+      "speakers": 2000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language of the Tani branch, spoken by the Bori people in the state of Arunachal Pradesh, India. It is one of the Adi languages and is threatened by the increasing use of Hindi and English."
+    }
+  },
+  "bmp": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.9000",
+        "long": "147.0000"
+      },
+      "official_name": "Bulgebi",
+      "name": "Bulgebi language",
+      "iso_639_3": "bmp",
+      "speakers": 50,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A critically endangered Trans-New Guinea language of the Erap family, spoken in a single village in Morobe Province, Papua New Guinea. Most speakers have shifted to other local languages."
+    }
+  },
+  "bua": {
+    "standard": {
+      "coordinates": {
+        "lat": "53.0000",
+        "long": "108.0000"
+      },
+      "official_name": "Буряад хэлэн",
+      "name": "Buryat language",
+      "iso_639_3": "bua",
+      "speakers": 265000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken by the Buryats, primarily in the Buryat Republic of Russia, as well as in northern Mongolia and Inner Mongolia, China. It is an official language of the Buryat Republic but is losing ground to Russian."
+    }
+  },
+  "cda": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.0000",
+        "long": "100.0000"
+      },
+      "official_name": "Choni",
+      "name": "Choni language",
+      "iso_639_3": "cda",
+      "speakers": 150000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Tibetic language spoken in the Gannan Tibetan Autonomous Prefecture in Gansu province, China. It is part of the Amdo Tibetan dialect group but is distinct enough to be considered a separate language."
+    }
+  },
+  "con": {
+    "standard": {
+      "coordinates": {
+        "lat": "0.1667",
+        "long": "-77.1667"
+      },
+      "official_name": "A'ingae",
+      "name": "Cofán language",
+      "iso_639_3": "con",
+      "speakers": 1400,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A language isolate spoken in northeastern Ecuador and southern Colombia by the Cofán people. It has no known relatives and is under threat from Spanish and encroachment on indigenous lands."
+    }
+  },
+  "dta": {
+    "standard": {
+      "coordinates": {
+        "lat": "49.0000",
+        "long": "123.0000"
+      },
+      "official_name": "ᠳᠠᠭᠤᠷ ᠬᠡᠯᠡ",
+      "name": "Dagur language",
+      "iso_639_3": "dta",
+      "speakers": 96000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Mongolic language spoken by the Daur people in northeastern China, primarily in Inner Mongolia and Heilongjiang. It is unique for its retention of some archaic Mongolic features and loanwords from Tungusic languages."
+    }
+  },
+  "dil": {
+    "standard": {
+      "coordinates": {
+        "lat": "12.5000",
+        "long": "30.6000"
+      },
+      "official_name": "Dilling",
+      "name": "Dilling language",
+      "iso_639_3": "dil",
+      "speakers": 12000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Nubian branch, spoken in the Nuba Mountains of South Kordofan, Sudan. It is geographically isolated from other Nubian languages."
+    }
+  },
+  "dox": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.7500",
+        "long": "149.3000"
+      },
+      "official_name": "Doga",
+      "name": "Doga language",
+      "iso_639_3": "dox",
+      "speakers": 200,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language within the Austronesian family, spoken along the northern coast of Cape Vogel in Milne Bay Province, Papua New Guinea. Speaker numbers are low and declining."
+    }
+  },
+  "wwo": {
+    "standard": {
+      "coordinates": {
+        "lat": "-14.3000",
+        "long": "167.0000"
+      },
+      "official_name": "Dorig",
+      "name": "Dorig language",
+      "iso_639_3": "wwo",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on Gaua island in the Banks Islands of Vanuatu. It has a complex phonology including linguolabial consonants, which are articulated with the tongue against the upper lip."
+    }
+  },
+  "frp": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.0000",
+        "long": "6.5000"
+      },
+      "official_name": "Arpitan",
+      "name": "Franco-Provençal",
+      "iso_639_3": "frp",
+      "speakers": 140000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Gallo-Romance language spoken in east-central France, western Switzerland, and the Aosta Valley of Italy. It is considered a bridge between the langues d'oïl (like French) and langues d'oc (like Occitan)."
+    }
+  },
+  "sdn": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.1100",
+        "long": "9.2400"
+      },
+      "official_name": "Gadduresu",
+      "name": "Gallurese",
+      "iso_639_3": "sdn",
+      "speakers": 100000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Romance lect spoken in Gallura, northeastern Sardinia, Italy. While often considered a dialect of Sardinian, it shares strong similarities with Corsican and is part of the Italo-Dalmatian language family."
+    }
+  },
+  "gwd": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.8000",
+        "long": "150.0000"
+      },
+      "official_name": "Gweda",
+      "name": "Gweda language",
+      "iso_639_3": "gwd",
+      "speakers": 26,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A nearly extinct Oceanic language spoken in Milne Bay Province, Papua New Guinea. It is part of the Papuan Tip Cluster of languages."
+    }
+  },
+  "hav": {
+    "standard": {
+      "coordinates": {
+        "lat": "-22.0000",
+        "long": "166.5000"
+      },
+      "official_name": "Haveke",
+      "name": "Haveke language",
+      "iso_639_3": "hav",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language of the New Caledonian group, spoken in the Southern Province of New Caledonia. It is one of the 28 indigenous Kanak languages."
+    }
+  },
+  "mri": {
+    "standard": {
+      "coordinates": {
+        "lat": "27.7000",
+        "long": "93.8000"
+      },
+      "official_name": "Hill Miri",
+      "name": "Hill Miri dialect",
+      "iso_639_3": "mri",
+      "speakers": 10000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Tani language of the Sino-Tibetan family, spoken by the Miri people in Arunachal Pradesh, India. It is closely related to the Mising language, with which it is sometimes grouped."
+    }
+  },
+  "hiv": {
+    "standard": {
+      "coordinates": {
+        "lat": "-13.8000",
+        "long": "166.6000"
+      },
+      "official_name": "Hiw",
+      "name": "Hiv language",
+      "iso_639_3": "hiv",
+      "speakers": 280,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the island of Hiw, in the Torres Islands of northern Vanuatu. It is the northernmost indigenous language of Vanuatu."
+    }
+  },
+  "hmn": {
+    "standard": {
+      "coordinates": {
+        "lat": "23.5000",
+        "long": "105.0000"
+      },
+      "official_name": "Hm Nai",
+      "name": "Hm Nai language",
+      "iso_639_3": "hmn",
+      "speakers": 1800,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Hmong-Mien language spoken in Guizhou province, China. It is also known as Wunai and is part of the Bunu languages group."
+    }
+  },
+  "idu": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.5000",
+        "long": "96.0000"
+      },
+      "official_name": "Idu Mishmi",
+      "name": "Idu Mishmi language",
+      "iso_639_3": "idu",
+      "speakers": 11000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language spoken by the Idu Mishmi people in Arunachal Pradesh, India, and in Zayü County, Tibet, China. It is considered a language isolate within the Tibeto-Burman family."
+    }
+  },
+  "gle": {
+    "standard": {
+      "coordinates": {
+        "lat": "53.2200",
+        "long": "-7.6200"
+      },
+      "official_name": "Gaeilge",
+      "name": "Irish language",
+      "iso_639_3": "gle",
+      "speakers": 74000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Goidelic language of the Celtic branch of the Indo-European family, spoken in Ireland. It is a national and the first official language of the Republic of Ireland, though few use it as their primary language outside of designated Gaeltacht regions."
+    }
+  },
+  "jpr": {
+    "standard": {
+      "coordinates": {
+        "lat": "32.0000",
+        "long": "50.0000"
+      },
+      "official_name": "Judeo-Persian",
+      "name": "Judeo-Persian",
+      "iso_639_3": "jpr",
+      "speakers": 60000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A group of Jewish dialects of the Persian language, historically spoken by the Jewish communities of Iran and Central Asia. They are written in the Hebrew alphabet and preserve some archaic features of Persian."
+    }
+  },
+  "aju": {
+    "standard": {
+      "coordinates": {
+        "lat": "32.0000",
+        "long": "-6.0000"
+      },
+      "official_name": "Judeo-Moroccan Arabic",
+      "name": "Judeo-Moroccan Arabic",
+      "iso_639_3": "aju",
+      "speakers": 8900,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A variety of Arabic spoken by Jews who formerly lived in Morocco. It shows significant influence from Berber languages, Spanish (Haketia), and French, and is now spoken mainly by an older generation in Israel, France, and Canada."
+    }
+  },
+  "kdr": {
+    "standard": {
+      "coordinates": {
+        "lat": "12.5000",
+        "long": "30.8000"
+      },
+      "official_name": "Kadaru",
+      "name": "Kadaru language",
+      "iso_639_3": "kdr",
+      "speakers": 7000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Nubian branch, spoken in the Nuba Mountains of South Kordofan, Sudan. It is part of the Kadaru-Ghulfan dialect cluster."
+    }
+  },
+  "xal": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.3000",
+        "long": "44.2600"
+      },
+      "official_name": "Хальмг келн",
+      "name": "Kalmyk Oirat",
+      "iso_639_3": "xal",
+      "speakers": 80000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A variety of the Oirat language, a Mongolic language spoken by the Kalmyk people of Kalmykia, Russia. It is the only Mongolic language spoken natively within Europe."
+    }
+  },
+  "kko": {
+    "standard": {
+      "coordinates": {
+        "lat": "12.3000",
+        "long": "30.6000"
+      },
+      "official_name": "Karko",
+      "name": "Karko language (Sudan)",
+      "iso_639_3": "kko",
+      "speakers": 13000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Nubian branch, spoken in the Nuba Mountains of South Kordofan, Sudan. The language is under pressure from Sudanese Arabic."
+    }
+  },
+  "kbg": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.0000",
+        "long": "92.0000"
+      },
+      "official_name": "Khamba",
+      "name": "Khamba language",
+      "iso_639_3": "kbg",
+      "speakers": 1500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language spoken by the Khamba people in Arunachal Pradesh, India. It is a Tibetic language but is not mutually intelligible with Standard Tibetan."
+    }
+  },
+  "kmw": {
+    "standard": {
+      "coordinates": {
+        "lat": "8.0000",
+        "long": "35.0000"
+      },
+      "official_name": "Komo",
+      "name": "Komo language",
+      "iso_639_3": "kmw",
+      "speakers": 15000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Koman family, spoken along the border of Ethiopia and Sudan by the Komo people. It is one of the most widely spoken Koman languages."
+    }
+  },
+  "krf": {
+    "standard": {
+      "coordinates": {
+        "lat": "-14.2500",
+        "long": "167.5000"
+      },
+      "official_name": "Koro",
+      "name": "Koro language (Vanuatu)",
+      "iso_639_3": "krf",
+      "speakers": 250,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the island of Gaua in Vanuatu. It is one of about seventeen languages spoken on the island, contributing to a high level of local multilingualism."
+    }
+  },
+  "kgo": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.7000",
+        "long": "29.2000"
+      },
+      "official_name": "Krongo",
+      "name": "Krongo language",
+      "iso_639_3": "kgo",
+      "speakers": 22000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Kadu branch, spoken in the Nuba Mountains of South Kordofan, Sudan. The classification of Kadu languages is debated, with some placing them within Niger-Congo."
+    }
+  },
+  "thc": {
+    "standard": {
+      "coordinates": {
+        "lat": "-15.0000",
+        "long": "142.0000"
+      },
+      "official_name": "Kuuk Thaayorre",
+      "name": "Kuuk Thaayorre language",
+      "iso_639_3": "thc",
+      "speakers": 250,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language of the Paman family, spoken on the western coast of Cape York Peninsula, Queensland. It is famous for its use of cardinal directions (North, South, East, West) instead of egocentric terms like 'left' and 'right'."
+    }
+  },
+  "lro": {
+    "standard": {
+      "coordinates": {
+        "lat": "11.1600",
+        "long": "29.0000"
+      },
+      "official_name": "Laro",
+      "name": "Laro language",
+      "iso_639_3": "lro",
+      "speakers": 4000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Heibanian branch, spoken in the Nuba Mountains of South Kordofan, Sudan. Also known as Laru."
+    }
+  },
+  "lzz": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.3000",
+        "long": "41.0000"
+      },
+      "official_name": "ლაზური ნენა",
+      "name": "Laz language",
+      "iso_639_3": "lzz",
+      "speakers": 22000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Kartvelian (South Caucasian) language spoken by the Laz people on the southeastern shore of the Black Sea, in both Turkey and Georgia. It is closely related to Mingrelian."
+    }
+  },
+  "lok": {
+    "standard": {
+      "coordinates": {
+        "lat": "27.2000",
+        "long": "89.2000"
+      },
+      "official_name": "Lhokpu",
+      "name": "Lhokpu language",
+      "iso_639_3": "lok",
+      "speakers": 2500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language spoken by the Lhop people of southern Bhutan. It is a language isolate within the Tibeto-Burman family and is considered one of the aboriginal languages of Bhutan."
+    }
+  },
+  "lib": {
+    "standard": {
+      "coordinates": {
+        "lat": "-2.5000",
+        "long": "147.0000"
+      },
+      "official_name": "Likum",
+      "name": "Likum language",
+      "iso_639_3": "lib",
+      "speakers": 100,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in three villages in the north of Manus Island, Papua New Guinea. The language is under significant pressure from the national lingua franca, Tok Pisin."
+    }
+  },
+  "lmu": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.8000",
+        "long": "146.8000"
+      },
+      "official_name": "Lumnu",
+      "name": "Lumnu language",
+      "iso_639_3": "lmu",
+      "speakers": 3,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A critically endangered Trans-New Guinea language of the Erap family, spoken in Morobe Province, Papua New Guinea. Only a handful of elderly speakers remain."
+    }
+  },
+  "mgg": {
+    "standard": {
+      "coordinates": {
+        "lat": "-15.3000",
+        "long": "166.9000"
+      },
+      "official_name": "Mafea",
+      "name": "Maʋea language",
+      "iso_639_3": "mgg",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the small island of Mafea (Mavea), off the eastern coast of Espiritu Santo in Vanuatu. The language has both linguolabial and bilabial trill consonants."
+    }
+  },
+  "mup": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.3000",
+        "long": "95.0000"
+      },
+      "official_name": "Milang",
+      "name": "Milang language",
+      "iso_639_3": "mup",
+      "speakers": 2000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language of the Tani branch, spoken by the Milang people in Upper Siang district, Arunachal Pradesh, India. It is notably divergent from other Tani languages."
+    }
+  },
+  "xmf": {
+    "standard": {
+      "coordinates": {
+        "lat": "42.5129",
+        "long": "41.8719"
+      },
+      "official_name": "მარგალური ნინა",
+      "name": "Mingrelian language",
+      "iso_639_3": "xmf",
+      "speakers": 300000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Kartvelian (South Caucasian) language spoken in Western Georgia, primarily in the Samegrelo region. It is closely related to Laz, and together they form the Zan branch of the Kartvelian family."
+    }
+  },
+  "mrg": {
+    "standard": {
+      "coordinates": {
+        "lat": "27.4200",
+        "long": "94.6900"
+      },
+      "official_name": "Mising",
+      "name": "Mising language",
+      "iso_639_3": "mrg",
+      "speakers": 600000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Tani language of the Sino-Tibetan family spoken by the Mising people in the Indian states of Assam and Arunachal Pradesh. Despite a large number of speakers, intergenerational transmission is weak."
+    }
+  },
+  "mdf": {
+    "standard": {
+      "coordinates": {
+        "lat": "54.0000",
+        "long": "44.0000"
+      },
+      "official_name": "мокшень кяль",
+      "name": "Moksha language",
+      "iso_639_3": "mdf",
+      "speakers": 130000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Uralic language of the Mordvinic branch, spoken in the western part of Mordovia and adjacent areas in Russia. It is a co-official language of Mordovia alongside Erzya and Russian, but its use is declining."
+    }
+  },
+  "mor": {
+    "standard": {
+      "coordinates": {
+        "lat": "10.6000",
+        "long": "29.6000"
+      },
+      "official_name": "Moro",
+      "name": "Moro language",
+      "iso_639_3": "mor",
+      "speakers": 30000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Nilo-Saharan language of the Heibanian group, spoken by the Moro people in the Nuba Mountains of South Kordofan, Sudan. It has a complex noun class system."
+    }
+  },
+  "mrl": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.5000",
+        "long": "153.8000"
+      },
+      "official_name": "Mortlockese",
+      "name": "Mortlockese language",
+      "iso_639_3": "mrl",
+      "speakers": 5900,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Micronesian language of the Austronesian family, spoken primarily in the Mortlock Islands of Chuuk State, Federated States of Micronesia. It is closely related to the Chuukese language."
+    }
+  },
+  "mZp": {
+    "standard": {
+      "coordinates": {
+        "lat": "-7.2000",
+        "long": "146.9000"
+      },
+      "official_name": "Mumeng",
+      "name": "Mumeng language",
+      "iso_639_3": "mZp",
+      "speakers": 12000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Austronesian language spoken in the Mumeng District of Morobe Province, Papua New Guinea. It is a dialect chain, with several varieties like Dambi, Gorakor, and Patep."
+    }
+  },
+  "msi": {
+    "standard": {
+      "coordinates": {
+        "lat": "-6.9000",
+        "long": "146.8000"
+      },
+      "official_name": "Musom",
+      "name": "Musom language",
+      "iso_639_3": "msi",
+      "speakers": 200,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in Morobe Province, Papua New Guinea. It is part of the Markham languages group and is under pressure from Tok Pisin."
+    }
+  },
+  "emi": {
+    "standard": {
+      "coordinates": {
+        "lat": "-1.5000",
+        "long": "149.9000"
+      },
+      "official_name": "Mussau-Emira",
+      "name": "Mussau-Emira language",
+      "iso_639_3": "emi",
+      "speakers": 5000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the islands of Mussau and Emirau in the St Matthias Islands of New Ireland Province, Papua New Guinea. It is notable for its relatively simple phonology."
+    }
+  },
+  "mwt": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.4000",
+        "long": "152.8000"
+      },
+      "official_name": "Mwatebu",
+      "name": "Mwatebu language",
+      "iso_639_3": "mwt",
+      "speakers": 170,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the north coast of Normanby Island in Milne Bay Province, Papua New Guinea. It belongs to the Dobu–Duau languages group."
+    }
+  },
+  "nem": {
+    "standard": {
+      "coordinates": {
+        "lat": "-20.5000",
+        "long": "164.5000"
+      },
+      "official_name": "Nemi",
+      "name": "Nemi language",
+      "iso_639_3": "nem",
+      "speakers": 320,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language of the New Caledonian group, spoken in the North Province of New Caledonia. It is one of the many indigenous Kanak languages of the island."
+    }
+  },
+  "ves": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.2000",
+        "long": "167.3000"
+      },
+      "official_name": "Nese",
+      "name": "Nese language",
+      "iso_639_3": "ves",
+      "speakers": 20,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A nearly extinct Oceanic language spoken in the Matanvat area of northwestern Malakula island in Vanuatu. The language is being replaced by the neighboring language of Tírkh."
+    }
+  },
+  "ngk": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.8000",
+        "long": "158.3000"
+      },
+      "official_name": "Ngatikese Creole",
+      "name": "Ngatikese Creole",
+      "iso_639_3": "ngk",
+      "speakers": 700,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An English-based creole language spoken on Sapwuahfik (formerly Ngatik) atoll in Pohnpei State, Federated States of Micronesia. Its vocabulary is largely derived from English and the local Pohnpeian language."
+    }
+  },
+  "niu": {
+    "standard": {
+      "coordinates": {
+        "lat": "-19.0500",
+        "long": "-169.8600"
+      },
+      "official_name": "ko e vagahau Niuē",
+      "name": "Niuean language",
+      "iso_639_3": "niu",
+      "speakers": 6000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Polynesian language belonging to the Malayo-Polynesian branch of the Austronesian languages. It is most closely related to Tongan and is spoken on the island of Niue, as well as by diasporic communities in New Zealand."
+    }
+  },
+  "nog": {
+    "standard": {
+      "coordinates": {
+        "lat": "44.0000",
+        "long": "45.0000"
+      },
+      "official_name": "Ногай тили",
+      "name": "Nogai language",
+      "iso_639_3": "nog",
+      "speakers": 87000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Turkic language of the Kipchak branch, spoken in southwestern Russia by the Nogai people, particularly in Dagestan, Stavropol Krai, and Karachay-Cherkessia."
+    }
+  },
+  "kte": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.3000",
+        "long": "85.0000"
+      },
+      "official_name": "Nubri",
+      "name": "Nubri language",
+      "iso_639_3": "kte",
+      "speakers": 2000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Tibeto-Burman language spoken in the Nubri Valley in the northern Gorkha District of Nepal. It is closely related to the Tibetan languages of Kyirong and Gyalsumdo."
+    }
+  },
+  "nkr": {
+    "standard": {
+      "coordinates": {
+        "lat": "3.8500",
+        "long": "154.9000"
+      },
+      "official_name": "Nukuoro",
+      "name": "Nukuoro language",
+      "iso_639_3": "nkr",
+      "speakers": 860,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Polynesian outlier language spoken on the Nukuoro atoll in Pohnpei State, Federated States of Micronesia. Along with Kapingamarangi, it is one of the westernmost Polynesian languages."
+    }
+  },
+  "ord": {
+    "standard": {
+      "coordinates": {
+        "lat": "39.0000",
+        "long": "109.0000"
+      },
+      "official_name": "Ordos Mongolian",
+      "name": "Ordos Mongolian",
+      "iso_639_3": "ord",
+      "speakers": 123000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A variety of Mongolian spoken in the Ordos City region of Inner Mongolia, China. It is known for its rich inventory of archaic Mongolic words and is sometimes considered a distinct language from Chakhar Mongolian."
+    }
+  },
+  "bpk": {
+    "standard": {
+      "coordinates": {
+        "lat": "-21.9000",
+        "long": "166.0000"
+      },
+      "official_name": "Orowe",
+      "name": "Orowe language",
+      "iso_639_3": "bpk",
+      "speakers": 400,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in the Southern Province of New Caledonia. Also known as 'Boewe', it is one of the indigenous Kanak languages."
+    }
+  },
+  "otm": {
+    "standard": {
+      "coordinates": {
+        "lat": "20.5000",
+        "long": "-99.0000"
+      },
+      "official_name": "Hñähñu",
+      "name": "Otomi language",
+      "iso_639_3": "otm",
+      "speakers": 290000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oto-Pamean language spoken in the central Altiplano of Mexico by the Otomi people. It is a dialect continuum, and despite a large number of speakers, many varieties are highly endangered as younger generations shift to Spanish."
+    }
+  },
+  "ppn": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.9000",
+        "long": "155.1000"
+      },
+      "official_name": "Papapana",
+      "name": "Papapana language",
+      "iso_639_3": "ppn",
+      "speakers": 120,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in the Autonomous Region of Bougainville, Papua New Guinea. It is spoken in a few villages on the east coast of Bougainville Island."
+    }
+  },
+  "bex": {
+    "standard": {
+      "coordinates": {
+        "lat": "25.0000",
+        "long": "99.0000"
+      },
+      "official_name": "Pela",
+      "name": "Pela language",
+      "iso_639_3": "bex",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Lolo-Burmese language of the Sino-Tibetan family, spoken in Yunnan Province, China. It is also known as Bola and is closely related to the Yi languages."
+    }
+  },
+  "pix": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.9000",
+        "long": "147.1000"
+      },
+      "official_name": "Piu",
+      "name": "Piu language",
+      "iso_639_3": "pix",
+      "speakers": 100,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Trans-New Guinea language of the Erap family, spoken in a single village in Morobe Province, Papua New Guinea. The community is increasingly shifting to other local languages and Tok Pisin."
+    }
+  },
+  "plb": {
+    "standard": {
+      "coordinates": {
+        "lat": "-16.5000",
+        "long": "167.5000"
+      },
+      "official_name": "Polonombauk",
+      "name": "Polonombauk language",
+      "iso_639_3": "plb",
+      "speakers": 10,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A nearly extinct Oceanic language of central Malakula, Vanuatu. Only a few elderly speakers remain, with the community having shifted to the Apma language."
+    }
+  },
+  "pnt": {
+    "standard": {
+      "coordinates": {
+        "lat": "41.0000",
+        "long": "39.7000"
+      },
+      "official_name": "Ρωμαίικα",
+      "name": "Pontic Greek",
+      "iso_639_3": "pnt",
+      "speakers": 200000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A variety of the Greek language, originally spoken in the Pontus region of the southern Black Sea coast (modern-day Turkey). Following the Greek genocide and population exchange, most speakers now reside in Greece."
+    }
+  },
+  "pwa": {
+    "standard": {
+      "coordinates": {
+        "lat": "-21.0000",
+        "long": "165.0000"
+      },
+      "official_name": "Pwapwâ",
+      "name": "Pwapwâ language",
+      "iso_639_3": "pwa",
+      "speakers": 16,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A critically endangered Oceanic language spoken in the North Province of New Caledonia. The language is no longer being passed on to children."
+    }
+  },
+  "roh": {
+    "standard": {
+      "coordinates": {
+        "lat": "46.7000",
+        "long": "9.6000"
+      },
+      "official_name": "Rumantsch",
+      "name": "Romansh language",
+      "iso_639_3": "roh",
+      "speakers": 40000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Gallo-Romance language spoken in the Grisons canton of eastern Switzerland. It is one of the four national languages of Switzerland but has seen a steady decline in speakers in favor of German."
+    }
+  },
+  "srd": {
+    "standard": {
+      "coordinates": {
+        "lat": "40.0000",
+        "long": "9.0000"
+      },
+      "official_name": "Sardu",
+      "name": "Sardinian language",
+      "iso_639_3": "srd",
+      "speakers": 1000000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Romance language and the most conservative of all Latin-derived languages in terms of phonology. It is spoken by the Sardinian people on the island of Sardinia, Italy, but is losing ground to Italian among younger generations."
+    }
+  },
+  "svs": {
+    "standard": {
+      "coordinates": {
+        "lat": "-9.1000",
+        "long": "159.8000"
+      },
+      "official_name": "Savosavo",
+      "name": "Savosavo language",
+      "iso_639_3": "svs",
+      "speakers": 2400,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A language isolate spoken on the island of Savo in the Solomon Islands. It is one of the few Papuan languages spoken west of the main island of New Guinea and has a sentence structure of subject–object–verb (SOV)."
+    }
+  },
+  "shi": {
+    "standard": {
+      "coordinates": {
+        "lat": "-11.2000",
+        "long": "132.8000"
+      },
+      "official_name": "Shihivar",
+      "name": "Shihivar language",
+      "iso_639_3": "shi",
+      "speakers": 0,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An extinct Australian Aboriginal language of the Gunwinyguan family, formerly spoken in western Arnhem Land, Northern Territory. The last known speaker died in the 1980s."
+    }
+  },
+  "sty": {
+    "standard": {
+      "coordinates": {
+        "lat": "58.0000",
+        "long": "72.0000"
+      },
+      "official_name": "Сыбыр тел",
+      "name": "Siberian Tatar language",
+      "iso_639_3": "sty",
+      "speakers": 100000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Turkic language spoken in western Siberia, Russia. Although sometimes considered a dialect of Tatar, its speakers have a distinct identity and the language has unique grammatical features."
+    }
+  },
+  "sop": {
+    "standard": {
+      "coordinates": {
+        "lat": "-5.8000",
+        "long": "146.6000"
+      },
+      "official_name": "Som",
+      "name": "Som language",
+      "iso_639_3": "sop",
+      "speakers": 100,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Trans-New Guinea language of the Erap family, spoken in Morobe Province, Papua New Guinea. It is nearly extinct, with most speakers having shifted to Tok Pisin."
+    }
+  },
+  "swm": {
+    "standard": {
+      "coordinates": {
+        "lat": "-3.0000",
+        "long": "141.6000"
+      },
+      "official_name": "Suarmi",
+      "name": "Suarmi language",
+      "iso_639_3": "swm",
+      "speakers": 200,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A language isolate, also known as Iski, spoken in Sandaun Province, Papua New Guinea. Its classification is uncertain, though it may be related to the Sko languages."
+    }
+  },
+  "sgd": {
+    "standard": {
+      "coordinates": {
+        "lat": "5.0000",
+        "long": "118.0000"
+      },
+      "official_name": "Sungai",
+      "name": "Sungai language",
+      "iso_639_3": "sgd",
+      "speakers": 15000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Austronesian language of the Paitanic branch, spoken in Sabah, Malaysia. It is a dialect cluster with significant variation between different riverine communities."
+    }
+  },
+  "sva": {
+    "standard": {
+      "coordinates": {
+        "lat": "43.0000",
+        "long": "42.7000"
+      },
+      "official_name": "ლუშნუ ნინ",
+      "name": "Svan language",
+      "iso_639_3": "sva",
+      "speakers": 15000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Kartvelian (South Caucasian) language spoken in the Svaneti region of northwestern Georgia. It is the most distinct of the four Kartvelian languages and is not mutually intelligible with Georgian, Laz, or Mingrelian."
+    }
+  },
+  "tnw": {
+    "standard": {
+      "coordinates": {
+        "lat": "35.5000",
+        "long": "103.5000"
+      },
+      "official_name": "Tangwang",
+      "name": "Tangwang language",
+      "iso_639_3": "tnw",
+      "speakers": 500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A creole language spoken in Gansu province, China. It has a primarily Mandarin Chinese vocabulary but its grammar is based on the Mongolic language Dongxiang."
+    }
+  },
+  "tqu": {
+    "standard": {
+      "coordinates": {
+        "lat": "-11.4000",
+        "long": "167.0000"
+      },
+      "official_name": "Teanu",
+      "name": "Teanu language",
+      "iso_639_3": "tqu",
+      "speakers": 800,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the island of Vanikoro, in the easternmost province of the Solomon Islands. It is the main language of the two original languages of the island, the other being Lovono."
+    }
+  },
+  "tfr": {
+    "standard": {
+      "coordinates": {
+        "lat": "34.5000",
+        "long": "5.0000"
+      },
+      "official_name": "Tifri",
+      "name": "Tifri language",
+      "iso_639_3": "tfr",
+      "speakers": 500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Berber language of the Zenati branch, spoken in a few villages in the Blida and Médéa provinces of Algeria. It is part of the Mount Chenoua Berber dialect cluster."
+    }
+  },
+  "tlm": {
+    "standard": {
+      "coordinates": {
+        "lat": "-15.3000",
+        "long": "166.7000"
+      },
+      "official_name": "Tolomako",
+      "name": "Tolomako language",
+      "iso_639_3": "tlm",
+      "speakers": 450,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken in the northwestern part of Espiritu Santo Island in Vanuatu. It is closely related to the Sakao language."
+    }
+  },
+  "pmt": {
+    "standard": {
+      "coordinates": {
+        "lat": "-18.0000",
+        "long": "-143.0000"
+      },
+      "official_name": "Pāʻumotu",
+      "name": "Tuamotuan language",
+      "iso_639_3": "pmt",
+      "speakers": 4000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Polynesian language spoken in the Tuamotu Archipelago of French Polynesia. It consists of seven dialects, including Parata, Vahitu, and Napuka."
+    }
+  },
+  "ttc": {
+    "standard": {
+      "coordinates": {
+        "lat": "62.0000",
+        "long": "-138.0000"
+      },
+      "official_name": "Tutchone",
+      "name": "Tutchone language",
+      "iso_639_3": "ttc",
+      "speakers": 400,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Athabaskan language spoken by the Tutchone people in the central and southern Yukon Territory of Canada. It is divided into two main dialects: Northern and Southern Tutchone."
+    }
+  },
+  "tuv": {
+    "standard": {
+      "coordinates": {
+        "lat": "-15.6000",
+        "long": "166.8000"
+      },
+      "official_name": "Tutuba",
+      "name": "Tutuba language",
+      "iso_639_3": "tuv",
+      "speakers": 500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on Tutuba Island, just off the coast of Espiritu Santo in Vanuatu. Most of its speakers are now shifting to Bislama or other larger local languages."
+    }
+  },
+  "ell": {
+    "standard": {
+      "coordinates": {
+        "lat": "-8.0000",
+        "long": "178.0000"
+      },
+      "official_name": "Te Ggana Tuuvalu",
+      "name": "Tuvaluan language",
+      "iso_639_3": "ell",
+      "speakers": 13000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Polynesian language spoken in Tuvalu. It is related to other Polynesian languages such as Samoan and Tokelauan, and faces pressure from the widespread use of English."
+    }
+  },
+  "udm": {
+    "standard": {
+      "coordinates": {
+        "lat": "57.0000",
+        "long": "52.0000"
+      },
+      "official_name": "Удмурт кыл",
+      "name": "Udmurt language",
+      "iso_639_3": "udm",
+      "speakers": 324000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Uralic language of the Permic branch, spoken by the Udmurt people in the Udmurt Republic of Russia. It is a co-official language of the republic, but Russian is dominant in most spheres of life."
+    }
+  },
+  "ved": {
+    "standard": {
+      "coordinates": {
+        "lat": "7.5000",
+        "long": "81.0000"
+      },
+      "official_name": "Vedda",
+      "name": "Vedda language",
+      "iso_639_3": "ved",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A critically endangered language isolate spoken by the indigenous Vedda people of Sri Lanka. It is a creole based on Sinhala, retaining many unique words from an earlier, unconfirmed ancestral language."
+    }
+  },
+  "vra": {
+    "standard": {
+      "coordinates": {
+        "lat": "-13.8000",
+        "long": "167.5000"
+      },
+      "official_name": "Vera'a",
+      "name": "Vera’a language",
+      "iso_639_3": "vra",
+      "speakers": 500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Oceanic language spoken on the western coast of Vanua Lava island in Vanuatu. It is also known as Vurës, and its speakers are often multilingual in neighboring languages."
+    }
+  },
+  "vro": {
+    "standard": {
+      "coordinates": {
+        "lat": "57.8000",
+        "long": "26.7000"
+      },
+      "official_name": "Võro kiil",
+      "name": "Võro language",
+      "iso_639_3": "vro",
+      "speakers": 75000,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Finnic language belonging to the Uralic family, spoken in southeastern Estonia. Although traditionally considered a dialect of South Estonian, it has its own literary standard and a strong movement for official recognition."
+    }
+  },
+  "wih": {
+    "standard": {
+      "coordinates": {
+        "lat": "-14.0000",
+        "long": "142.0000"
+      },
+      "official_name": "Wik-Ngathaan",
+      "name": "Wik-Ngathaan language",
+      "iso_639_3": "wih",
+      "speakers": 130,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "An Australian Aboriginal language of the Paman family, spoken on the Cape York Peninsula in Queensland. It is one of several closely related Wik languages in the region."
+    }
+  },
+  "yas": {
+    "standard": {
+      "coordinates": {
+        "lat": "4.6300",
+        "long": "11.1800"
+      },
+      "official_name": "Yasa",
+      "name": "Yasa language",
+      "iso_639_3": "yas",
+      "speakers": 1500,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Bantu language spoken in the coastal regions of Cameroon and Equatorial Guinea. It is part of the Makaa–Njem language group."
+    }
+  },
+  "zkr": {
+    "standard": {
+      "coordinates": {
+        "lat": "28.1300",
+        "long": "97.0200"
+      },
+      "official_name": "Zakrhing",
+      "name": "Zakrhing language",
+      "iso_639_3": "zkr",
+      "speakers": 300,
+      "status": "definitely_endangered",
+      "voice_ids": [],
+      "notes": "A Sino-Tibetan language spoken in Arunachal Pradesh, India, and in Tibet, China by the Meyor people. Its classification is debated, with some considering it a Kho-Bwa language and others a language isolate."
+    }
+  }
+}

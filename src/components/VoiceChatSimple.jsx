@@ -1,7 +1,7 @@
 "use client";
 
 import { useConversation } from "@elevenlabs/react";
-import { useCallback, useState } from "react";
+import { useCallback } from "react";
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
 import { isValidVoiceId } from "@/data/availableVoices";
@@ -72,62 +72,11 @@ const getFirstMessage = (language) => {
 };
 
 const VoiceChat = ({ language, onClose }) => {
-
-    const [subtitle, setSubtitle] = useState("");
-    const [isTranslating, setIsTranslating] = useState(false);
-
-    // Translation function using Google Translate API
-    const translateToEnglish = async (text, sourceLang) => {
-        try {
-            setIsTranslating(true);
-            
-            const response = await fetch('/api/translate', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ 
-                    text: text, 
-                    from: sourceLang, 
-                    to: 'en' 
-                })
-            });
-
-            if (!response.ok) {
-                throw new Error(`Translation failed: ${response.status}`);
-            }
-
-            const data = await response.json();
-            return data.translatedText;
-        } catch (error) {
-            console.error('Translation error:', error);
-            // Fallback to original text if translation fails
-            return text;
-        } finally {
-            setIsTranslating(false);
-        }
-    };
-
     // Initialize conversation exactly like official docs
     const conversation = useConversation({
         onConnect: () => console.log("Connected"),
         onDisconnect: () => console.log("Disconnected"),
-        onMessage: async (message) => {
-            if (message.source == "ai") {
-                console.log("AI Message:", message.message);
-                
-                // If the language is English, show directly
-                if (language.iso6393 === 'en') {
-                    setSubtitle(message.message);
-                } else {
-                    // Translate to English for subtitles
-                    const englishSubtitle = await translateToEnglish(
-                        message.message, 
-                        language.iso6393
-                    );
-                    setSubtitle(englishSubtitle);
-                }
-            }
-            console.log("Message:", message);
-        },
+        onMessage: (message) => console.log("Message:", message),
         onError: (error) => console.error("Error:", error),
     });
 
@@ -224,7 +173,7 @@ const VoiceChat = ({ language, onClose }) => {
     }, [conversation]);
 
     return (
-        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex justify-center z-50">
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50">
             <div className="bg-white rounded-2xl p-8 w-96 shadow-2xl relative">
                 {/* Close Button */}
                 <Button
@@ -276,47 +225,12 @@ const VoiceChat = ({ language, onClose }) => {
                     </div>
                 </div>
 
-                {/* Dynamic Subtitles */}
-                {conversation.status === "connected" && (
-                    <div className="mb-6">
-                        <div className="bg-blue-50 rounded-lg p-4 min-h-[80px] max-h-[300px] overflow-y-auto">
-                            <div className="flex items-center justify-between mb-2">
-                                <span className="text-xs font-medium text-gray-500 uppercase tracking-wide">
-                                    {conversation.isSpeaking ? "Agent Speaking" : "Listening..."}
-                                    {language.iso6393 !== 'en' && (
-                                        <span className="ml-2 text-xs text-blue-600">• English Subtitles</span>
-                                    )}
-                                </span>
-                                <div className="flex items-center space-x-2">
-                                    {isTranslating && (
-                                        <div className="flex items-center space-x-1">
-                                            <div className="w-1 h-1 bg-green-500 animate-pulse rounded-full"></div>
-                                            <div className="w-1 h-1 bg-green-500 animate-pulse rounded-full" style={{ animationDelay: '0.1s' }}></div>
-                                            <div className="w-1 h-1 bg-green-500 animate-pulse rounded-full" style={{ animationDelay: '0.2s' }}></div>
-                                            <span className="text-xs text-green-600">Translating...</span>
-                                        </div>
-                                    )}
-                                    {conversation.isSpeaking && (
-                                        <div className="flex space-x-1">
-                                            <div className="w-1 h-3 bg-blue-500 animate-pulse rounded-full"></div>
-                                            <div className="w-1 h-3 bg-blue-500 animate-pulse rounded-full" style={{ animationDelay: '0.2s' }}></div>
-                                            <div className="w-1 h-3 bg-blue-500 animate-pulse rounded-full" style={{ animationDelay: '0.4s' }}></div>
-                                        </div>
-                                    )}
-                                </div>
-                            </div>
-                            <div className="text-sm text-gray-700 leading-relaxed">
-                                {subtitle ? (
-                                    <p className="animate-in fade-in duration-300">{subtitle}</p>
-                                ) : (
-                                    <p className="text-gray-400 italic">
-                                        {conversation.isSpeaking ? "Agent is speaking..." : "Start speaking to begin the conversation"}
-                                    </p>
-                                )}
-                            </div>
-                        </div>
-                    </div>
-                )}
+                {/* Close Button */}
+                <div className="text-center">
+                    <Button onClick={onClose} variant="outline" className="px-6 py-2">
+                        Close
+                    </Button>
+                </div>
             </div>
         </div>
     );
