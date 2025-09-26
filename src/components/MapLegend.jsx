@@ -18,7 +18,7 @@ const MapLegend = () => {
     },
     {
       icon: <Heart className="h-3 w-3" />,
-      label: "Endangered",
+      label: "Definitely Endangered",
       color: "bg-amber-500",
       description: "Help preserve language"
     },
