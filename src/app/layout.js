@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "World Languages - Voice Chat Globe",
+  title: "Language Garden",
   description: "Explore and help world languages with voice chat on an interactive 3D globe",
   icons: {
     icon: [
