@@ -11,7 +11,7 @@ Experience Language Garden at **[languagegarden.vercel.app](https://languagegard
 
 ## 🎯 Our Mission
 
-Language Garden is an interactive 3D globe that strives to bring endangered and severely endangered languages back to life through AI voice technology. We're hope to use digital tools to ensure, that linguistic heritage never truly dies.
+Language Garden is an interactive 3D globe that strives to bring endangered and severely endangered languages back to life through AI voice technology. We hope to use digital tools to ensure that linguistic heritage never truly dies.
 
 ### The Problem
 - **3,000+ languages** are critically endangered worldwide
