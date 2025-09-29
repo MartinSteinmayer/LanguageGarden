@@ -93,18 +93,13 @@ export default function DonateModal({ language, onClose }) {
                 <Heart className="h-6 w-6 text-red-500" />
                 Preserve {language?.name}
               </h2>
-              <p className="text-sm text-gray-600 mt-2 leading-relaxed">
-                Your donation directly supports critical language preservation efforts: digital archiving,
-                community speaker programs, educational resources, and AI voice model development.
-                Help save this
+              <p className="text-xs text-gray-600 mt-2 leading-relaxed">
+                Fuel documentation, community engagement, and future voice model development for this
                 {" "}
-                <span className="font-medium text-red-600">
-                  {language?.status === 'endangered' ? 'endangered' : 'severely endangered'}
+                <span className="font-medium text-gray-700">
+                  {language?.status === 'endangered' ? 'definitely endangered' : 'severely endangered'}
                 </span>{" "}
-                language from disappearing forever.
-              </p>
-              <p className="text-xs text-gray-500 mt-3">
-                Done in partnership with <a href="https://elevenlabs.io/about" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline font-medium">ElevenLabs</a>
+                language.
               </p>
             </div>
 
@@ -139,10 +134,9 @@ export default function DonateModal({ language, onClose }) {
 
             <Separator className="my-5" />
 
-            <div className="space-y-3 text-sm text-gray-600 mb-6">
-              <div className="flex items-start gap-3"><ShieldCheck className="h-5 w-5 text-green-500 mt-0.5 flex-shrink-0" /><span>100% directed to preservation efforts, documentation projects, and voice AI development with ElevenLabs.</span></div>
-              <div className="flex items-start gap-3"><Heart className="h-5 w-5 text-red-500 mt-0.5 flex-shrink-0" /><span>Every dollar helps train native speakers, digitize oral histories, and create learning materials.</span></div>
-              <div className="flex items-start gap-3"><ShieldCheck className="h-5 w-5 text-green-500 mt-0.5 flex-shrink-0" /><span>Transparent public milestone tracking with community impact reports.</span></div>
+            <div className="space-y-2 text-xs text-gray-600 mb-6">
+              <div className="flex items-start gap-2"><ShieldCheck className="h-4 w-4 text-green-500 mt-0.5" /><span>100% directed to preservation + Elevenlabs voice enablement roadmap.</span></div>
+              <div className="flex items-start gap-2"><ShieldCheck className="h-4 w-4 text-green-500 mt-0.5" /><span>Planned: transparent public milestone ledger.</span></div>
             </div>
 
             <Button
